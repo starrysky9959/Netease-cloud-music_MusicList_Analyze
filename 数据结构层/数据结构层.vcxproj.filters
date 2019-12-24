@@ -21,12 +21,18 @@
     <ClCompile Include="src\main.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="src\workspace.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\trietree.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="include\hotword.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="include\workspace.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

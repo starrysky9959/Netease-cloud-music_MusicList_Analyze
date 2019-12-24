@@ -21,10 +21,12 @@
   <ItemGroup>
     <ClCompile Include="src\main.cpp" />
     <ClCompile Include="src\trietree.cpp" />
+    <ClCompile Include="src\workspace.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="include\hotword.h" />
     <ClInclude Include="include\trietree.h" />
+    <ClInclude Include="include\workspace.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>15.0</VCProjectVersion>

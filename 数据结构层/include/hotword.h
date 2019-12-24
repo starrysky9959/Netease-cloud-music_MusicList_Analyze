@@ -1,10 +1,12 @@
 #pragma once
 #include <string>
+#include <vector>
 
 class HotWord{
 public:
     std::string word;
-    int frequency;    
+    int frequency;
+    std::vector<std::string> musicList;
 public:
     HotWord(){
         word = "\0";
@@ -13,12 +15,19 @@ public:
 
     HotWord(std::string word, int frequency) {
         this->word = word;
-        this->frequency = frequency;
+        this->frequency = frequency;        
+    }
+
+    void setMusicList(std::vector<std::string> _musicList) {
+        musicList.reserve(_musicList.size());
+        //copy(_musicList.begin(), _musicList.end(), musicList.begin());
+        musicList.assign(_musicList.begin(), _musicList.end());
     }
 
     ~HotWord() {
     }
+
+    void getmusicList() {
+
+    }
 };
-
-
-
