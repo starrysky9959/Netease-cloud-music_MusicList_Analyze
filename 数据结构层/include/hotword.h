@@ -18,16 +18,12 @@ public:
         this->frequency = frequency;        
     }
 
-    void setMusicList(std::vector<std::string> _musicList) {
-        musicList.reserve(_musicList.size());
-        //copy(_musicList.begin(), _musicList.end(), musicList.begin());
-        musicList.assign(_musicList.begin(), _musicList.end());
-    }
-
     ~HotWord() {
     }
 
-    void getmusicList() {
-
+    void setMusicList(std::vector<std::string> _musicList) {
+        musicList.reserve(_musicList.size());
+        musicList.assign(_musicList.begin(), _musicList.end());
     }
+
 };

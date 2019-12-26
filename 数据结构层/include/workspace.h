@@ -1,5 +1,6 @@
 #pragma once
 #include "trietree.h"
+
 #include <iostream>
 #include <fstream>
 #include <string.h>
@@ -12,18 +13,17 @@ class Workspace
 private:
     TrieTree T;             //全部单词的Trie树
     TrieTree ignoreTree;    //要忽略的单词
-    //GDB和g++路径不一样
-    //GDB路径:"assert/lyrics/lyrics.txt"
-    //g++路径
+    std::vector<std::string> musicList;
+    //文件路径
     std::string INPUT_PATH;
-    std::string OUTPUT_PATH;
+    std::string WORD_OUTPUT_PATH;
+    std::string MUSIC_OUTPUT_PATH;
     std::string IGNORE_PATH;
 public:
     Workspace();
     ~Workspace();
-    void run();
-
-private:
-    void input(TrieTree &T);
+    void run(std::string target);
+    bool input();
+    void output(std::string target);
 };
 

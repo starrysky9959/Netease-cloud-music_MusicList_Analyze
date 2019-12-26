@@ -2,8 +2,10 @@
 using namespace std;
 
 Workspace::Workspace(){
+    musicList.reserve(500);
     INPUT_PATH = "assert/lyrics/test_2.txt";
-    OUTPUT_PATH = "assert/lyrics/output.txt";
+    WORD_OUTPUT_PATH = "assert/output/word_output.txt";
+    MUSIC_OUTPUT_PATH = "assert/output/music_output.txt";
     IGNORE_PATH = "assert/lyrics/ignore.txt";
     
     //对要忽略的单词建立Trie树
@@ -11,6 +13,7 @@ Workspace::Workspace(){
     ignoreFile.open(IGNORE_PATH, ios::in);
     if (!ignoreFile) {
         cout << "文件不存在\n";
+        return;
     }
     else {
         cout << "打开成功\n";
@@ -19,36 +22,34 @@ Workspace::Workspace(){
     while (!ignoreFile.eof()) {
         string buffer;
         getline(ignoreFile, buffer, '\n');
-        ignoreTree.addNode(buffer);
+        //ignoreTree.addNode(buffer);
     }
 }
-
 
 Workspace::~Workspace(){
 }
 
 //流程控制
-void Workspace::run() {
-    input(T);
-    //T.preOrder();
-    //string target;
-    //cin >> target;
-    //T.addNode(target);
-    //cout<<T.searchNode(target)<<endl;
-    //T.preOrder();
+void Workspace::run(string target) {
+    if (!input())
+        return;
+    if (!target.empty())
+        cout << "要查找的单词的词频为：" << T.searchNode(target) << endl;
     printf("--------------------\n");
     T.preOrder();
-    T.printHotWords();
+    output(target);
+    //T.printHotWords();
 }
 
 //从输入文件分离出单词、曲目名信息，并建立Trie树
-void Workspace::input(TrieTree &T) {
+bool Workspace::input() {
     ifstream inFile;
     ofstream outFile;
     inFile.open(INPUT_PATH, ios::in);
-    outFile.open(OUTPUT_PATH, ios::out);
+    outFile.open(WORD_OUTPUT_PATH, ios::out);
     if (!inFile) {
         cout << "文件不存在\n";
+        return false;
     }
     else {
         cout << "打开成功\n";
@@ -84,12 +85,7 @@ void Workspace::input(TrieTree &T) {
                     word.push_back(ch + 32);
                 }
                 else{   //超出最大长度的部分不保留
-                    if (word.size() >= MIN_WORD_LEN) {
-                        //word[index] = '\0';                    
-                        outFile << word << endl;
-
-                        //cout << word << endl;
-
+                    if (word.size() >= MIN_WORD_LEN) {                        
                         //先判断是否要忽略
                         //新单词则更新的频率和曲目，否则只更新频率
                         if (ignoreTree.searchNode(word) == 0) {
@@ -130,9 +126,31 @@ void Workspace::input(TrieTree &T) {
 
         if (!inFile.eof()) {
             getline(inFile, musicName, '\n');
-            cout << musicName << endl;
+            if (!musicName.empty())
+                musicList.emplace_back(musicName);            
         }        
     }
     inFile.close();
     outFile.close();
+    return true;
+}
+
+void Workspace::output(string target) {
+    ofstream output;
+    output.open(MUSIC_OUTPUT_PATH, ios::out);
+    //曲目列表
+    for (vector<string>::iterator it = musicList.begin(); it != musicList.end(); it++)
+        output << *it;
+    output.close();
+    output.open(WORD_OUTPUT_PATH, ios::out);   
+    //单词总数
+    //output << T.searchNode(target) << endl;
+    output << T.hotwordList.size() << endl;
+    //单词及曲目列表
+    for (auto it : T.hotwordList) {
+        output << it.frequency << endl;
+        output << it.word << endl;
+        for (auto _it : it.musicList)
+            output << _it;
+    }
 }

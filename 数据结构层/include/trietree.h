@@ -31,8 +31,10 @@ public:
 class TrieTree
 {
 private:
+    int wordSize;                       //单词的数量
     WordNode *root;
     const int HOTWORDLIST_SIZE = 100;   //要打印的高频单词数量
+public:
     std::vector<HotWord> hotwordList;   //高频单词列表
 
 public:
