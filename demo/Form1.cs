@@ -18,24 +18,35 @@ namespace demo
         public Form1()
         {
             InitializeComponent();
-            init();
+            init();            
         }
         private void init()
         {
-           
-
+            StreamReader inFile = new StreamReader(IGNORE_PATH, Encoding.Default);
+            string line;
+            while ((line = inFile.ReadLine()) != null)
+            {
+                ignoreList.Add(line);
+                ignoreListBox.Items.Add(line);
+            }
+            inFile.Close();
         }
 
         //文件路径，按需修改
         static string EXE_PATH = @".\数据结构层.exe";
         static string MUSIC_INPUT_PATH = @".\assert\output\music_output.txt";
-        static string WORD_INPUT_PATH = @".\assert\output\word_output.txt";        
+        static string WORD_INPUT_PATH = @".\assert\output\word_output.txt";
+        static string IGNORE_PATH = @".\assert\lyrics\ignore.txt";
         string targetWord;
         Int32 wordSize;
         Int32 targetFrequency;
         List<HotWord> myList = new List<HotWord>();
-        private void start_Click(object sender, EventArgs e)
+        List<string> ignoreList = new List<string>();
+
+        public void update()
         {
+            musicListView.Items.Clear();
+            wordListView.Items.Clear();
             targetWord = target.Text;
             System.Diagnostics.Process myexe = new System.Diagnostics.Process();
             myexe.StartInfo.FileName = EXE_PATH;
@@ -46,7 +57,7 @@ namespace demo
             //等待外部程序退出后才能往下执行
             myexe.WaitForExit();
             //MessageBox.Show("分析完毕");
-            
+
             //读取曲目内容
             StreamReader inFile = new StreamReader(MUSIC_INPUT_PATH, Encoding.Default);
             string line;
@@ -54,11 +65,11 @@ namespace demo
             {
                 if (line.Length <= 1)
                     continue;
-                ListViewItem item = new ListViewItem();      
-                item.Text = line;                                                  
-                musicListView.Items.Add(item);                   
-            }                       
-            
+                ListViewItem item = new ListViewItem();
+                item.Text = line;
+                musicListView.Items.Add(item);
+            }
+            inFile.Close();
             //读取单词信息
             inFile = new StreamReader(WORD_INPUT_PATH, Encoding.Default);
             ////指定单词词频
@@ -73,22 +84,28 @@ namespace demo
                 if (Regex.IsMatch(line, "^[0-9]*$"))
                 {
                     //添加频率
-                    HotWord temp = new HotWord();                    
+                    HotWord temp = new HotWord();
                     temp.frequency = Convert.ToInt32(line);
-                    ListViewItem item = new ListViewItem();                    
+                    ListViewItem item = new ListViewItem();
                     item.SubItems.Add(Convert.ToInt32(line).ToString());
                     //读取单词
                     line = inFile.ReadLine();
                     temp.word = line;
                     myList.Add(temp);
                     item.Text = line;
-                    wordListView.Items.Add(item);                    
+                    wordListView.Items.Add(item);
                 }
                 else
                 {
-                    myList[myList.Count - 1].music.Add(line);                                    
+                    myList[myList.Count - 1].music.Add(line);
                 }
             }
+            inFile.Close();
+        }
+
+        private void start_Click(object sender, EventArgs e)
+        {
+            update();
         }
 
         private void target_TextChanged(object sender, EventArgs e)
@@ -111,7 +128,46 @@ namespace demo
                     }
                     label1.Text = i.frequency.ToString();
                     break;
+                }            
+        }
+
+        private void addIgnoreButton_Click(object sender, EventArgs e)
+        {
+            
+            ignoreList.Add(ignoreWordTextBox.Text);
+            ignoreListBox.Items.Add(ignoreWordTextBox.Text);
+            StreamWriter outFile = new StreamWriter(IGNORE_PATH, false, Encoding.Default);
+            foreach (string item in ignoreListBox.Items)
+            {
+                outFile.WriteLine(item);
+            }
+            outFile.Close();
+            update();
+        }
+
+        private void deleteIgnoreButton_Click(object sender, EventArgs e)
+        {
+            Int32 count = ignoreListBox.SelectedItems.Count;
+            List<string> selectedItems = new List<string>();
+            if (count != 0)
+            {
+                for (int i = 0; i < count; ++i)
+                {
+                    selectedItems.Add(ignoreListBox.SelectedItems[i].ToString());
                 }
+                foreach(string item in selectedItems)
+                {
+                    ignoreListBox.Items.Remove(item);
+                    ignoreList.Remove(item);
+                }
+            }
+            StreamWriter outFile = new StreamWriter(IGNORE_PATH, false, Encoding.Default);
+            foreach (string item in ignoreListBox.Items)
+            {
+                outFile.WriteLine(item);
+            }
+            outFile.Close();
+            update();
         }
     }
 
@@ -121,5 +177,4 @@ namespace demo
         public Int32 frequency;
         public List<string> music = new List<string>();
     }
-
 }

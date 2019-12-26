@@ -22,7 +22,7 @@ Workspace::Workspace(){
     while (!ignoreFile.eof()) {
         string buffer;
         getline(ignoreFile, buffer, '\n');
-        //ignoreTree.addNode(buffer);
+        ignoreTree.addNode(buffer);
     }
 }
 
@@ -145,7 +145,7 @@ void Workspace::output(string target) {
     output.open(WORD_OUTPUT_PATH, ios::out);   
     //单词总数
     //output << T.searchNode(target) << endl;
-    output << T.hotwordList.size() << endl;
+    output << T.getWordSize() << endl;
     //单词及曲目列表
     for (auto it : T.hotwordList) {
         output << it.frequency << endl;

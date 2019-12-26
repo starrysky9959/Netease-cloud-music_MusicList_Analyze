@@ -119,3 +119,7 @@ void TrieTree::printHotWords() {
         }
     }
 }
+
+int TrieTree::getWordSize() {
+    return wordSize;
+}

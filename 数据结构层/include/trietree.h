@@ -40,6 +40,7 @@ public:
 public:
     TrieTree();
     ~TrieTree();
+    int getWordSize();
     void addNode(std::string word);
     void addNode(std::string word, const std::string musicName);
     int searchNode(std::string word);

@@ -37,8 +37,12 @@
             this.columnHeader3 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.label1 = new System.Windows.Forms.Label();
             this.containsListView = new System.Windows.Forms.ListView();
-            this.searchButton = new System.Windows.Forms.Button();
             this.columnHeader4 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
+            this.searchButton = new System.Windows.Forms.Button();
+            this.ignoreListBox = new System.Windows.Forms.ListBox();
+            this.addIgnoreButton = new System.Windows.Forms.Button();
+            this.deleteIgnoreButton = new System.Windows.Forms.Button();
+            this.ignoreWordTextBox = new System.Windows.Forms.TextBox();
             this.SuspendLayout();
             // 
             // start
@@ -123,6 +127,11 @@
             this.containsListView.UseCompatibleStateImageBehavior = false;
             this.containsListView.View = System.Windows.Forms.View.Details;
             // 
+            // columnHeader4
+            // 
+            this.columnHeader4.Text = "出现曲目";
+            this.columnHeader4.Width = 223;
+            // 
             // searchButton
             // 
             this.searchButton.Location = new System.Drawing.Point(269, 53);
@@ -133,16 +142,52 @@
             this.searchButton.UseVisualStyleBackColor = true;
             this.searchButton.Click += new System.EventHandler(this.searchButton_Click);
             // 
-            // columnHeader4
+            // ignoreListBox
             // 
-            this.columnHeader4.Text = "出现曲目";
-            this.columnHeader4.Width = 223;
+            this.ignoreListBox.FormattingEnabled = true;
+            this.ignoreListBox.ItemHeight = 15;
+            this.ignoreListBox.Location = new System.Drawing.Point(788, 449);
+            this.ignoreListBox.Name = "ignoreListBox";
+            this.ignoreListBox.SelectionMode = System.Windows.Forms.SelectionMode.MultiSimple;
+            this.ignoreListBox.Size = new System.Drawing.Size(120, 184);
+            this.ignoreListBox.TabIndex = 7;
+            // 
+            // addIgnoreButton
+            // 
+            this.addIgnoreButton.Location = new System.Drawing.Point(650, 504);
+            this.addIgnoreButton.Name = "addIgnoreButton";
+            this.addIgnoreButton.Size = new System.Drawing.Size(104, 38);
+            this.addIgnoreButton.TabIndex = 8;
+            this.addIgnoreButton.Text = "添加忽略项";
+            this.addIgnoreButton.UseVisualStyleBackColor = true;
+            this.addIgnoreButton.Click += new System.EventHandler(this.addIgnoreButton_Click);
+            // 
+            // deleteIgnoreButton
+            // 
+            this.deleteIgnoreButton.Location = new System.Drawing.Point(650, 567);
+            this.deleteIgnoreButton.Name = "deleteIgnoreButton";
+            this.deleteIgnoreButton.Size = new System.Drawing.Size(104, 32);
+            this.deleteIgnoreButton.TabIndex = 9;
+            this.deleteIgnoreButton.Text = "删除所选项";
+            this.deleteIgnoreButton.UseVisualStyleBackColor = true;
+            this.deleteIgnoreButton.Click += new System.EventHandler(this.deleteIgnoreButton_Click);
+            // 
+            // ignoreWordTextBox
+            // 
+            this.ignoreWordTextBox.Location = new System.Drawing.Point(654, 458);
+            this.ignoreWordTextBox.Name = "ignoreWordTextBox";
+            this.ignoreWordTextBox.Size = new System.Drawing.Size(100, 25);
+            this.ignoreWordTextBox.TabIndex = 10;
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1079, 438);
+            this.ClientSize = new System.Drawing.Size(1097, 699);
+            this.Controls.Add(this.ignoreWordTextBox);
+            this.Controls.Add(this.deleteIgnoreButton);
+            this.Controls.Add(this.addIgnoreButton);
+            this.Controls.Add(this.ignoreListBox);
             this.Controls.Add(this.searchButton);
             this.Controls.Add(this.containsListView);
             this.Controls.Add(this.label1);
@@ -170,6 +215,10 @@
         private System.Windows.Forms.ListView containsListView;
         private System.Windows.Forms.Button searchButton;
         private System.Windows.Forms.ColumnHeader columnHeader4;
+        private System.Windows.Forms.ListBox ignoreListBox;
+        private System.Windows.Forms.Button addIgnoreButton;
+        private System.Windows.Forms.Button deleteIgnoreButton;
+        private System.Windows.Forms.TextBox ignoreWordTextBox;
     }
 }
 
