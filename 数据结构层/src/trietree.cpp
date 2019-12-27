@@ -1,11 +1,18 @@
-#include "trietree.h"
+#include "..\include\trietree.h"
 using namespace std;
 
-bool myrule(HotWord w1, HotWord w2) {
+bool hotWordRule(HotWord w1, HotWord w2) {
     if (w1.frequency > w2.frequency)
         return true;
     else    
         return false;    
+}
+
+bool appearedMusicRule(AppearedMusic x, AppearedMusic y) {
+    if (x.count > y.count)
+        return true;
+    else
+        return false;
 }
 
 TrieTree::TrieTree() {
@@ -34,7 +41,7 @@ void TrieTree::addNode(string word) {
 }
 
 //添加单词结点且更新曲目索引表
-void TrieTree::addNode(string word, const string musicName) {
+void TrieTree::addNode(string word, int number) {   
     WordNode *p = root;
     int index;
     for (int i = 0; i < word.length(); ++i) {
@@ -45,11 +52,20 @@ void TrieTree::addNode(string word, const string musicName) {
         p = p->next[index];
     }
     p->count++;    
-    p->musicList.emplace_back(musicName);
+    bool flag = false;
+    for (vector<AppearedMusic>::iterator i = p->appeared.begin(); i != p->appeared.end(); ++i)
+        if (i->index == number) {
+            i->count++;            
+            flag = true;
+            break;
+        }
+    if (!flag) {
+        AppearedMusic temp(number);
+        p->appeared.emplace_back(temp);
+    }
     p->isWord = true;
     wordSize++;
 }
-
 
 
 //查到单词，返回词频，无该单词则返回0
@@ -73,7 +89,9 @@ void TrieTree::_preOrder(WordNode *head, string &word) {
         return;
     if (head->isWord) {
         HotWord tempword(word, head->count);
-        tempword.setMusicList(head->musicList);
+        sort(head->appeared.begin(), head->appeared.end(), appearedMusicRule);
+
+        tempword.setMusicList(head->appeared);
         hotwordList.emplace_back(tempword);
         //cout << word << "    " << head->count<<endl;
         //printf("%s%5d\n", word, head->count);     
@@ -91,7 +109,7 @@ void TrieTree::preOrder() {
     hotwordList.clear();
     string word;    
     _preOrder(root, word);
-    sort(hotwordList.begin(), hotwordList.end(), myrule);
+    sort(hotwordList.begin(), hotwordList.end(), hotWordRule);
 }
 
 //
@@ -114,7 +132,7 @@ void TrieTree::printHotWords() {
         HotWord temp = hotwordList[i];
         //cout<<temp.word<<"     "<<temp.frequency<<endl;
         //cout << "出现曲目：\n";
-        for (size_t j = 0; j < temp.musicList.size(); ++j) {
+        for (size_t j = 0; j < temp.appearedMusics.size(); ++j) {
             //cout << temp.musicList[j] << endl;
         }
     }

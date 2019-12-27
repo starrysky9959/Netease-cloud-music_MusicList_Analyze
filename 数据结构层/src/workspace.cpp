@@ -1,4 +1,6 @@
-#include "workspace.h"
+#include "..\include\workspace.h"
+#include <Windows.h>
+#include <codecvt>
 using namespace std;
 
 Workspace::Workspace(){
@@ -6,7 +8,8 @@ Workspace::Workspace(){
     INPUT_PATH = "assert/lyrics/test_2.txt";
     WORD_OUTPUT_PATH = "assert/output/word_output.txt";
     MUSIC_OUTPUT_PATH = "assert/output/music_output.txt";
-    IGNORE_PATH = "assert/lyrics/ignore.txt";
+    INFO_PATH = "assert/output/info_output.txt";
+    IGNORE_PATH = "assert/lyrics/Trash.txt";
     
     //对要忽略的单词建立Trie树
     ifstream ignoreFile;
@@ -21,8 +24,25 @@ Workspace::Workspace(){
 
     while (!ignoreFile.eof()) {
         string buffer;
-        getline(ignoreFile, buffer, '\n');
-        ignoreTree.addNode(buffer);
+        string word;
+        getline(ignoreFile, buffer, ' ');
+        for (int i = 0; i < buffer.size(); ++i) {
+            char ch = buffer[i];
+            //保留小写
+            if ((ch >= 'a') && (ch <= 'z')) {
+                word.push_back(ch);
+            }
+            else if ((ch >= 'A') && (ch <= 'Z')) {
+                word.push_back(ch + 32);
+            }
+            else {
+                break;
+            }
+        }
+        if (word.size() >= 1) {
+            ignoreTree.addNode(word);
+            //cout << word << endl;
+        }
     }
 }
 
@@ -64,7 +84,6 @@ bool Workspace::input() {
         TrieTree current;
         inFile.getline(buffer, MAX_BUFFER_LEN);
         size_t len = strlen(buffer);
-        //while (!((len >= MAX_WORD_LEN) && (buffer[0] == '*'))) {
         while (buffer[0] != '*') {
             int index = 0;
             string word;
@@ -77,25 +96,19 @@ bool Workspace::input() {
                 flag = false;
                 //保留小写
                 if ((ch >= 'a') && (ch <= 'z')) {
-                    //word += ch;
                     word.push_back(ch);
                 }
                 else if ((ch >= 'A') && (ch <= 'Z')) {
-                    //word += ch + 32;
                     word.push_back(ch + 32);
                 }
                 else{   //超出最大长度的部分不保留
                     if (word.size() >= MIN_WORD_LEN) {                        
                         //先判断是否要忽略
                         //新单词则更新的频率和曲目，否则只更新频率
-                        if (ignoreTree.searchNode(word) == 0) {
-                            if (current.searchNode(word) == 0) {
-                                current.addNode(word);
-                                T.addNode(word, musicName);
-                            }
-                            else {
-                                T.addNode(word);
-                            }
+                        if (ignoreTree.searchNode(word) == 0) {                         
+                            current.addNode(word);
+                            //cout << musicList.size() << endl;
+                            T.addNode(word, musicList.size());
                         }
                         word.clear();
                     }
@@ -111,17 +124,19 @@ bool Workspace::input() {
                 //先判断是否要忽略
                 //新单词则更新的频率和曲目，否则只更新频率
                 if (ignoreTree.searchNode(word) == 0) {
-                    if (current.searchNode(word) == 0) {
-                        current.addNode(word);
-                        T.addNode(word, musicName);
-                    }
-                    else {
-                        T.addNode(word);
-                    }
+                    current.addNode(word);
+                    T.addNode(word, musicList.size());
                 }
             }
-            inFile.getline(buffer, MAX_BUFFER_LEN);
-            size_t len = strlen(buffer);
+
+            if (!inFile.eof()) {
+                inFile.getline(buffer, MAX_BUFFER_LEN);
+                size_t len = strlen(buffer);
+            }
+            else
+            {
+                break;
+            }
         }
 
         if (!inFile.eof()) {
@@ -137,20 +152,64 @@ bool Workspace::input() {
 
 void Workspace::output(string target) {
     ofstream output;
+
+    //输出曲目列表
     output.open(MUSIC_OUTPUT_PATH, ios::out);
-    //曲目列表
     for (vector<string>::iterator it = musicList.begin(); it != musicList.end(); it++)
         output << *it;
     output.close();
-    output.open(WORD_OUTPUT_PATH, ios::out);   
-    //单词总数
-    //output << T.searchNode(target) << endl;
-    output << T.getWordSize() << endl;
-    //单词及曲目列表
+
+    //输出单词及曲目列表
+
+    output.open(WORD_OUTPUT_PATH, ios::out);         
     for (auto it : T.hotwordList) {
         output << it.frequency << endl;
         output << it.word << endl;
-        for (auto _it : it.musicList)
-            output << _it;
+        for (vector<AppearedMusic>::iterator i = it.appearedMusics.begin(); i != it.appearedMusics.end(); ++i) {
+            output << i->count << " " << musicList.at(i->index - 1);
+            
+        }
     }
+    output.close();
+
+    //输出统计信息
+    output.open(INFO_PATH, ios::out);
+    //output << T.searchNode(target) << endl;
+    //output << "统计中忽略长度小于3的单词和所有非英文字母" << endl;
+    //std::wstring_convert<codecvt_utf8<wchar_t> > conv;
+    //std::wstring str = L"总词数：" + to_wstring(T.getWordSize());    
+    //string narrowStr = conv.to_bytes(str);
+    //output << narrowStr << endl;
+    //
+    ////output << "总词数：" << T.getWordSize() << endl;
+    //str = L"不重复的单词数：" + to_wstring(T.hotwordList.size());
+    //narrowStr = conv.to_bytes(str);
+    //output << narrowStr << endl;
+    ////output << "不重复的单词数：" << T.hotwordList.size() << endl;
+    ////output << "曲目数量：" << musicList.size() << endl;
+    //str = L"曲目数量：" + to_wstring(musicList.size());
+    //narrowStr = conv.to_bytes(str);
+    //output << narrowStr << endl;
+    ////output << "要忽略的单词数量：" << ignoreTree.getWordSize() << endl;
+    //str = L"要忽略的单词数量：" + to_wstring(ignoreTree.getWordSize());
+    //narrowStr = conv.to_bytes(str);
+    //output << narrowStr << endl;
+    //string str = "总词数：" + to_string(T.getWordSize());
+    ////output << "总词数：" << T.getWordSize() << endl;
+    //output << str << endl;
+    //str = "不重复的单词数：" + to_string(T.hotwordList.size());
+    //
+    ////output << "不重复的单词数：" << T.hotwordList.size() << endl;
+    //output << str << endl;
+    ////output << "曲目数量：" << musicList.size() << endl;
+    //str = "曲目数量：" + to_string(musicList.size());
+    //output << str << endl;
+    ////output << "要忽略的单词数量：" << ignoreTree.getWordSize() << endl;
+    //str = "要忽略的单词数量：" + to_string(ignoreTree.getWordSize());
+    //output << str << endl;
+    output << T.getWordSize() << endl;
+    output << T.hotwordList.size() << endl;
+    output << musicList.size() << endl;
+    output << ignoreTree.getWordSize() << endl;
+    output.close();
 }

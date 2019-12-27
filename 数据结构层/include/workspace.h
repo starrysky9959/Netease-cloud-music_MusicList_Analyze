@@ -18,6 +18,7 @@ private:
     std::string INPUT_PATH;
     std::string WORD_OUTPUT_PATH;
     std::string MUSIC_OUTPUT_PATH;
+    std::string INFO_PATH;
     std::string IGNORE_PATH;
 public:
     Workspace();

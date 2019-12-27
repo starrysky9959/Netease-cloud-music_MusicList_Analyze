@@ -33,10 +33,13 @@ namespace demo
         }
 
         //文件路径，按需修改
-        static string EXE_PATH = @".\数据结构层.exe";
+        static string EXE_PATH = @".\test.exe";
         static string MUSIC_INPUT_PATH = @".\assert\output\music_output.txt";
         static string WORD_INPUT_PATH = @".\assert\output\word_output.txt";
         static string IGNORE_PATH = @".\assert\lyrics\ignore.txt";
+        static string INFO_PATH = @".\assert\output\info_output.txt";
+        static string UTF8_PATH = @".\assert\output\utf8.txt";
+
         string targetWord;
         Int32 wordSize;
         Int32 targetFrequency;
@@ -77,8 +80,8 @@ namespace demo
             //targetFrequency = Convert.ToInt32(line);
             //label1.Text = line;
             //单词总数
-            line = inFile.ReadLine();
-            wordSize = Convert.ToInt32(line);
+            //line = inFile.ReadLine();
+            //wordSize = Convert.ToInt32(line);
             while ((line = inFile.ReadLine()) != null)
             {
                 if (Regex.IsMatch(line, "^[0-9]*$"))
@@ -101,6 +104,37 @@ namespace demo
                 }
             }
             inFile.Close();
+
+            AnsiToUtf8();
+        }
+        private void AnsiToUtf8()
+        {
+
+            //Ansi格式的文件路径
+            //FileStream fs = new FileStream(INFO_PATH, FileMode.Open, FileAccess.Read);
+            StreamReader sr = new StreamReader(INFO_PATH, Encoding.Default);
+
+            //另存的文件路径            
+            //FileStream fsw = new FileStream(UTF8_PATH, FileMode.Create, FileAccess.Write);
+
+            //另存为UTF-8
+            StreamWriter sw = new StreamWriter(UTF8_PATH, false,Encoding.UTF8);
+
+            //char[] charArr = new char[20];
+            //int count = sr.Read(charArr, 0, 20);            
+            //while (count != 0)
+            //{
+            //    sw.Write(charArr, 0, 20);               
+            //    count = sr.Read(charArr, 0, 20);
+            //}
+            string line;
+            while ((line = sr.ReadLine()) != null)
+            {
+                sw.WriteLine(line);
+                MessageBox.Show(line);
+            }
+            sw.Close();
+            sr.Close();
         }
 
         private void start_Click(object sender, EventArgs e)
@@ -121,7 +155,8 @@ namespace demo
             foreach (HotWord i in myList)
                 if (i.word.Equals(targetWord))
                 {
-                    foreach (string str in i.music) {
+                    foreach (string str in i.music)
+                    {
                         ListViewItem item = new ListViewItem();
                         item.Text = str;
                         containsListView.Items.Add(item);
@@ -132,8 +167,7 @@ namespace demo
         }
 
         private void addIgnoreButton_Click(object sender, EventArgs e)
-        {
-            
+        {            
             ignoreList.Add(ignoreWordTextBox.Text);
             ignoreListBox.Items.Add(ignoreWordTextBox.Text);
             StreamWriter outFile = new StreamWriter(IGNORE_PATH, false, Encoding.Default);
