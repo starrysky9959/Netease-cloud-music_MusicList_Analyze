@@ -16,5 +16,5 @@ int main(int argc, char *argv[]){
     wordspace.run(target);            
     clock_t end = clock();
     cout<<static_cast<double>(end - begin) / CLOCKS_PER_SEC * 1000<<"ms"<<endl;
-    system("pause");
+    //system("pause");
 }

@@ -45,7 +45,7 @@ public:
     int getWordSize();
     void addNode(std::string word);
     void addNode(std::string word, int index);
-    int searchNode(std::string word);
+    WordNode* searchNode(std::string word);
     void _preOrder(WordNode *head, std::string &word);
     void preOrder();
     /*void _clear(WordNode *head);

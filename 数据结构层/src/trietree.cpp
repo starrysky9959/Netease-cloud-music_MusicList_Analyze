@@ -36,7 +36,10 @@ void TrieTree::addNode(string word) {
         p = p->next[index];
     }
     p->count++;
-    p->isWord = true;
+    if (!p->isWord) 
+    { 
+        p->isWord = true; 
+    }
     wordSize++;
 }
 
@@ -69,17 +72,19 @@ void TrieTree::addNode(string word, int number) {
 
 
 //查到单词，返回词频，无该单词则返回0
-int TrieTree::searchNode(string word) {
+WordNode* TrieTree::searchNode(string word) {
     WordNode *p = root;
     int index;
     for (int i = 0; i < word.length(); ++i) {
         index = word[i] - 'a';
         if (p->next[index] == nullptr) {
-            return 0;
+            return nullptr;
         }
         p = p->next[index];
     }
-    return p->count;
+    if (word.length() < 1)
+        p = nullptr;
+    return p;
 }
 
 //前序遍历，可按字典序输出整棵树
@@ -128,7 +133,7 @@ void TrieTree::preOrder() {
 
 //打印高频单词
 void TrieTree::printHotWords() {
-    for (int i = 0; i < HOTWORDLIST_SIZE; ++i) {
+    for (int i = 0; i < hotwordList.size(); ++i) {
         HotWord temp = hotwordList[i];
         //cout<<temp.word<<"     "<<temp.frequency<<endl;
         //cout << "出现曲目：\n";

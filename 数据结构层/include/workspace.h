@@ -20,6 +20,7 @@ private:
     std::string MUSIC_OUTPUT_PATH;
     std::string INFO_PATH;
     std::string IGNORE_PATH;
+    std::string SEARCH_PATH;
 public:
     Workspace();
     ~Workspace();

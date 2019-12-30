@@ -1,4411 +1,4789 @@
-45
-weare
-20 Lemmings14 Nemesis3 Children Of Decedence3 Marianas Trench2 Dream1 Fleshkiller1 Blinded By Fear1 Virus Of The Mind40
-inthe
-6 Heart of Wilderness4 The Trapper4 Lemmings4 Shadows In The Wasteland3 Mirror Of Sins3 In The Failing Hour2 Aurora Borealis2 Strike!2 Living in Me2 Last Breath2 Save Yourself1 Reflections1 Against The Stream1 Monochromatic Stains1 Angel Soul1 Zombie Blood Curse1 War Eternal40
-way
-28 Living in Me3 Survival (The Chariot)2 Everblack1 Heart of Wilderness1 Kissing The Shadows1 The Trapper1 Enemy Within1 Masses Of A Dying Breed1 Rejection Role1 Bodom After Midnight36
-nothing
-10 Save Yourself7 Masses Of A Dying Breed5 Nothing2 Hollow Heart2 Enemy Within2 Against The Stream1 Beyond The Dark Sun1 Frozen Angel1 Lost Life1 Fleshkiller1 Heroes To Us1 Godiva1 Descending1 Virus Of The Mind34
-yourself
-30 Save Yourself3 Masses Of A Dying Breed1 Enemy Within31
-ofthe
-6 Last Breath4 Slaughter Of The Soul3 Heart of Wilderness3 Rasputin3 Cold2 The Trapper2 Beyond The Dark Sun1 Virgin Soil1 Moon Of My Nights1 The Blind Leader1 Nemesis1 Living in Me1 The Wonders At Your Feet1 Blinded By Fear1 In The Failing Hour30
-sorrow
-30 Save Yourself30
-she
-16 Grow Up, Peter Pan7 In The Failing Hour2 Rasputin2 Six2 Cognitive Note Of Discord1 Lost Life28
-never
-11 Save Yourself3 Lost Life2 Slaughter Of The Soul1 When I'm in this state of mind 1 Virgin Soil1 Hollow Heart1 The Blind Leader1 Rasputin1 Everblack1 Monochromatic Stains1 Heroes To Us1 Survival (The Chariot)1 Judgement1 Shadows In The Wasteland1 Descending25
-follows
-25 Save Yourself25
-failure
-25 Save Yourself25
-time
-7 Redneck6 Heart of Wilderness2 Temporary Borders2 Frozen Angel2 Virus Of The Mind1 Strike!1 Winterking1 Hold the Sword1 Lost Life1 Last Breath1 The Pursuit Of Vikings24
-ive
-9 Defeat2 Virgin Soil2 Beyond The Dark Sun2 Chains2 The Last One For Life2 Shotgun Symphony2 The Cleansing1 When I'm in this state of mind 1 Fleshkiller1 Shadows In The Wasteland23
-kness
-23 Save Yourself23
-ery
-23 Living in Me23
-her
-12 Six8 Grow Up, Peter Pan2 Rasputin1 Angel Soul22
-soul
-12 Slaughter Of The Soul4 Reflections2 Enemy Within2 Prisoner In Me1 Monochromatic Stains1 Passion And The Opera22
-lemmings
-22 Lemmings22
-same
-17 Nemesis2 Slaughter Of The Soul1 Heart of Wilderness1 Lemmings1 In The Failing Hour21
-ican
-6 Descending4 Mirror Of Sins3 Nothing2 Save Yourself1 Heart of Wilderness1 Temporary Borders1 Monochromatic Stains1 Six1 Cold1 Shadows In The Wasteland21
-night
-6 Last Breath3 Reflections3 Drawn to Black2 Temporary Borders2 Living in Me2 Everytime I Die1 Heart of Wilderness1 Rasputin1 The Cleansing21
-save
-16 Save Yourself3 Prisoner In Me2 Winterking21
-tipton
-21 Enemy Within20
-alone
-15 Frozen Angel2 Descending1 Reflections1 Nothing1 Drawn to Black20
-pain
-10 Save Yourself4 Prisoner In Me4 Nothing2 Judgement20
-end
-6 Descending4 Defeat3 Last Breath2 Such ich sie bei Nacht' die Wei?e2 Shotgun Symphony1 Heart of Wilderness1 Enemy Within1 Everblack20
-try
-8 Redneck6 War Eternal2 Descending1 Rasputin1 Relentless Chaos1 Blood in the Throne Room1 Grow Up, Peter Pan19
-light
-8 Last Breath3 Godiva2 Heart of Wilderness2 Masses Of A Dying Breed1 Templar1 Living in Me1 Angel Soul1 Shadows In The Wasteland19
-heart
-6 Heart of Wilderness6 Hollow Heart1 Nemesis1 Everblack1 Living in Me1 Monochromatic Stains1 Grow Up, Peter Pan1 Cold1 Defeat18
-aswe
-12 Slaughter Of The Soul3 Grow Up, Peter Pan2 Children Of Decedence1 The Pursuit Of Vikings18
-sflame
-18 The Trapper18
-face
-7 Blinded By Fear3 Winterking2 Beyond The Dark Sun2 Monochromatic Stains2 In The Failing Hour1 Heart of Wilderness1 Lost Life18
-shotgun
-18 The Trapper18
-won
-8 Enemy Within6 Slaughter Of The Soul2 The Pursuit Of Vikings1 Demons1 Survival (The Chariot)17
-ifeel
-4 The Cleansing3 Rasputin3 Bloodsucking Kissing2 Temporary Borders2 Six1 When I'm in this state of mind 1 The Last One For Life1 Cold17
-full
-10 Save Yourself6 Descending1 Rasputin17
-ness
-10 The Trapper5 Last Breath2 Godiva17
-tothe
-4 Moon Of My Nights3 Prophetian2 Monochromatic Stains2 Grow Up, Peter Pan2 Passion And The Opera2 Shadows In The Wasteland1 Lost Life1 In The Failing Hour16
-iam
-3 Dream3 Lost Life3 Zombie Blood Curse1 When I'm in this state of mind 1 Temporary Borders1 Winterking1 Reflections1 They Will Return1 Grow Up, Peter Pan1 Shotgun Symphony16
-ofmy
-12 Moon Of My Nights2 Mirror Of Sins1 Heart of Wilderness1 Rejection Role16
-gbut
-16 Save Yourself16
-tobe
-8 Masses Of A Dying Breed3 Reflections3 Descending2 Blinded By Fear16
-mene
-16 Descending15
-wewill
-7 Survival (The Chariot)4 This is my survival3 Slaughter Of The Soul1 Heroes To Us15
-darkness
-3 The Trapper3 Angel Soul2 Reflections2 Nothing2 Shadows In The Wasteland1 Last Breath1 The Last One For Life1 Cold15
+67
 life
-5 Cypher Drone2 When I'm in this state of mind 2 Never hit you a storm1 Prisoner In Me1 Masses Of A Dying Breed1 Lost Life1 Survival (The Chariot)1 The Last One For Life1 Defeat15
-mysickness
-15 Save Yourself14
-lies
-5 Cold4 Slaughter Of The Soul1 Blut im Auge1 Angel Soul1 Survival (The Chariot)1 The Cleansing1 Virus Of The Mind14
-ave
-14 Save Yourself14
-eyes
-4 Slaughter Of The Soul3 Prophetian2 In The Failing Hour1 The Trapper1 Strike!1 Rasputin1 Redneck1 Grow Up, Peter Pan13
-ihave
-5 Masses Of A Dying Breed3 Prisoner In Me2 Shotgun Symphony1 Mirror Of Sins1 Cypher Drone1 Zombie Blood Curse13
-idon
-4 Chains3 Reflections1 Cypher Drone1 Dream1 Monochromatic Stains1 The Last One For Life1 Save Yourself1 Cognitive Note Of Discord13
-inmy
-5 Defeat3 Six1 When I'm in this state of mind 1 Hollow Heart1 Moon Of My Nights1 Fleshkiller1 Alone13
-under
-3 Prophetian3 Never hit you a storm1 Aurora Borealis1 The Trapper1 Trollhammaren1 Children Of Decedence1 Against The Stream1 Burbot`s Revenge1 Angel Soul13
-last
-4 Last Breath3 Fleshkiller2 Monochromatic Stains2 Lost Life2 The Last One For Life12
-alife
-10 Save Yourself2 Godiva12
-rom
-11 Save Yourself1 Reflections12
-holding
-7 Nothing2 Hold the Sword2 In The Failing Hour1 Strike!12
-bert
-12 Enemy Within12
+7 Alone5 Save Yourself5 The Last One For Life5 Cypher Drone4 Nothing3 Lake Bodom3 Reflections3 Never hit you a storm2 Black Tears2 Godiva2 Shotgun Symphony2 Zombie Blood Curse2 Lost Life2 Drawn to Black2 Black Tears2 Hollow Heart1 War Eternal1 Defeat1 Heart of Wilderness1 Judgement1 Mirror Of Sins1 Slaughter Of The Soul1 Enemy Within1 Burbot`s Revenge1 Everlasting Ward1 Survival (The Chariot)1 Everytime I Die1 Prisoner In Me1 Masses Of A Dying Breed1 Rejection Role1 Cold Embrace1 Blood in the Throne Room61
+never
+8 Save Yourself7 Lost Life6 Beyond The Dark Sun4 Survival (The Chariot)4 Lemmings2 Black Tears2 Everblack2 Children Of Decedence2 Prisoner In Me2 Hollow Heart2 Slaughter Of The Soul2 Black Tears2 Aurora Borealis2 Virgin Soil1 Demons1 Descending1 Shadows In The Wasteland1 Judgement1 Passion And The Opera1 Heroes To Us1 Temporary Borders1 Hold the Sword1 Monochromatic Stains1 Rejection Role1 Redneck1 Rasputin1 Cypher Drone1 The Blind Leader56
+night
+6 Zombie Blood Curse5 Temporary Borders4 Last Breath3 Lake Bodom3 Everytime I Die3 Drawn to Black3 The Sleeping Beauty3 Living in Me3 Bodom After Midnight3 Reflections3 Aurora Borealis2 Beyond The Dark Sun2 Hold the Sword2 The Last One For Life1 Shadows In The Wasteland1 Grow Up, Peter Pan1 Passion And The Opera1 The Cleansing1 Lost Life1 Cold Embrace1 Rasputin1 Children Of Decedence1 Winterking1 The Trapper1 Heart of Wilderness54
+nothing
+16 Nothing6 Rejection Role6 Save Yourself5 Masses Of A Dying Breed2 Virus Of The Mind2 Against The Stream2 Hollow Heart2 Frozen Angel2 Lost Life2 Fleshkiller1 Chains1 Descending1 Godiva1 Defeat1 Heroes To Us1 Redneck1 Beyond The Dark Sun1 Cypher Drone1 Enemy Within49
+down
+6 Cypher Drone5 Blood in the Throne Room4 Moon Of My Nights3 Cognitive Note Of Discord3 Reflections3 Children Of Decedence3 Against The Stream3 Bodom After Midnight3 Relentless Chaos2 Marianas Trench2 Kissing The Shadows2 Cold Embrace1 Burbot`s Revenge1 Defeat1 War Eternal1 The Pursuit Of Vikings1 The Wonders At Your Feet1 Drawn to Black1 Rejection Role1 Strike!1 Enemy Within1 The Trapper43
+heart
+6 Cognitive Note Of Discord5 Nothing3 Heart of Wilderness3 Hollow Heart2 Black Tears2 In The Failing Hour2 Drawn to Black2 Strike!1 Virgin Soil1 Black Tears1 Mirror Of Sins1 Defeat1 Cold1 Judgement1 Grow Up, Peter Pan1 Lake Bodom1 The Last One For Life1 Zombie Blood Curse1 Angel Soul1 The Sleeping Beauty1 Monochromatic Stains1 Living in Me1 Temporary Borders1 Everblack1 Beyond The Dark Sun1 Nemesis43
+light
+6 Drawn to Black5 Alone3 Godiva3 Last Breath3 Everytime I Die2 Heart of Wilderness2 Mirror Of Sins2 Winterking2 Beyond The Dark Sun2 Aurora Borealis2 Fleshkiller1 Blood in the Throne Room1 Cognitive Note Of Discord1 Shadows In The Wasteland1 Lake Bodom1 Angel Soul1 Living in Me1 Masses Of A Dying Breed1 Hold the Sword1 Temporary Borders1 Templar1 Prophetian43
+end
+7 Descending5 Shotgun Symphony3 Last Breath3 Angel Soul3 Children Of Decedence2 The Blind Leader2 Burbot`s Revenge1 Dream1 Cognitive Note Of Discord1 Defeat1 Lake Bodom1 Survival (The Chariot)1 Cold Embrace1 Chains1 Everblack1 Black Tears1 Hold the Sword1 New World Shadows1 Such ich sie bei Nacht' die Wei?e1 Enemy Within1 Hollow Heart1 Heart of Wilderness1 Prophetian1 Aurora Borealis1 Black Tears42
+way
+6 Fleshkiller5 Grow Up, Peter Pan3 Chains2 Kissing The Shadows2 Hold the Sword2 Lake Bodom2 Everblack2 Masses Of A Dying Breed2 Survival (The Chariot)2 Aurora Borealis2 Lost Life1 Bodom After Midnight1 Descending1 The Cleansing1 War Eternal1 Demons1 Living in Me1 Bloodsucking Kissing1 Rejection Role1 Children Of Decedence1 Enemy Within1 The Trapper1 Heart of Wilderness42
+mind
+7 Everlasting Ward6 Cognitive Note Of Discord3 Virus Of The Mind3 Prophetian3 Hollow Heart3 Strike!2 Burbot`s Revenge2 In The Failing Hour2 Demons2 Drawn to Black2 Enemy Within1 Chains1 Monochromatic Stains1 Black Tears1 Rasputin1 Dream1 Shadows In The Wasteland1 Black Tears42
+pain
+5 Nothing5 Save Yourself4 Judgement3 Zombie Blood Curse2 Blinded By Fear2 Prisoner In Me2 Children Of Decedence2 Dream2 Bloodsucking Kissing2 Chains2 Marianas Trench1 The Sleeping Beauty1 In The Failing Hour1 Cold1 The Last One For Life1 Lost Life1 Demons1 Black Tears1 Kissing The Shadows1 Slaughter Of The Soul1 Virgin Soil1 Black Tears40
+feel
+6 Bloodsucking Kissing4 The Cleansing4 Six3 Temporary Borders3 Prisoner In Me3 Lost Life2 Cold2 Dream2 Nothing2 Chains1 Shadows In The Wasteland1 Black Tears1 The Last One For Life1 Cold Embrace1 Rasputin1 Cypher Drone1 Kissing The Shadows1 Slaughter Of The Soul1 Black Tears40
 die
-4 Frozen Angel2 When I'm in this state of mind 2 Blut im Auge2 Fleshkiller1 Virgin Soil1 New World Shadows12
-ifyou
-6 Prisoner In Me2 Kissing The Shadows2 Virus Of The Mind1 Save Yourself1 Descending12
-again
-4 Slaughter Of The Soul2 Last Breath2 Godiva2 In The Failing Hour1 The Trapper1 Reflections12
-walls
-11 Rejection Role1 Prisoner In Me12
-dark
-5 Heart of Wilderness2 Last Breath2 Save Yourself1 Enemy Within1 Tapiola1 Lost Life12
-oflies
-10 Save Yourself1 Heart of Wilderness1 Passion And The Opera12
-dom
-11 Nemesis1 Bodom After Midnight12
+8 Frozen Angel3 Zombie Blood Curse3 Prisoner In Me2 Virus Of The Mind2 Lake Bodom2 Everytime I Die2 Fleshkiller2 Bloodsucking Kissing2 Blut im Auge2 Virgin Soil1 Rejection Role1 Hold the Sword1 Bodom After Midnight1 New World Shadows1 Everlasting Ward1 Survival (The Chariot)1 Last Breath1 The Pursuit Of Vikings1 Black Tears1 They Will Return1 Alone1 Black Tears38
 blood
-3 Bloodsucking Kissing2 When I'm in this state of mind 2 Nemesis1 Hold the Sword1 Prisoner In Me1 Frozen Angel1 Heroes To Us1 Everytime I Die12
-reap
-12 Slaughter Of The Soul12
-forever
-5 Living in Me3 Angel Soul2 Masses Of A Dying Breed1 Everblack1 In The Failing Hour12
-love
-3 Rasputin3 War Eternal2 Frozen Angel2 Drawn to Black1 Living in Me1 Survival (The Chariot)12
-lof
-10 Save Yourself2 Masses Of A Dying Breed12
-yet
-5 Drawn to Black2 Rejection Role2 Living in Me2 Virus Of The Mind1 Grow Up, Peter Pan12
-moon
-10 Moon Of My Nights2 Bodom After Midnight11
-godiva
-11 Godiva11
+8 Bloodsucking Kissing5 Zombie Blood Curse4 Fleshkiller3 Nemesis3 Blood in the Throne Room2 Templar2 Black Tears2 Frozen Angel1 Prophetian1 Hold the Sword1 Prisoner In Me1 Rejection Role1 Burbot`s Revenge1 Heroes To Us1 Everytime I Die1 The Wonders At Your Feet1 Black Tears35
+world
+7 Frozen Angel4 Heroes To Us3 Drawn to Black2 The Sleeping Beauty2 Virus Of The Mind2 In The Failing Hour2 Defeat2 Marianas Trench1 Nothing1 Black Tears1 Everblack1 Reflections1 The Blind Leader1 Alone1 Judgement1 Shotgun Symphony1 Cypher Drone1 Virgin Soil1 Black Tears35
+eyes
+5 Drawn to Black4 Strike!3 Prophetian3 In The Failing Hour2 Slaughter Of The Soul2 Shotgun Symphony2 Grow Up, Peter Pan2 Beyond The Dark Sun1 Prisoner In Me1 Rasputin1 Redneck1 The Sleeping Beauty1 Cold Embrace1 Lemmings1 Fleshkiller1 Last Breath1 The Last One For Life1 Hold the Sword1 Winterking1 The Trapper34
+alone
+15 Frozen Angel4 Reflections3 Bloodsucking Kissing2 Hold the Sword2 Nothing2 Descending1 Virgin Soil1 Blood in the Throne Room1 Drawn to Black1 Demons1 Lost Life1 They Will Return33
+death
+5 Virgin Soil4 Children Of Decedence4 Zombie Blood Curse3 Winterking3 Angel Soul2 Last Breath2 The Last One For Life2 Blinded By Fear1 Black Tears1 Black Tears1 Bloodsucking Kissing1 Lost Life1 Lake Bodom1 They Will Return1 Shotgun Symphony1 Defeat31
+under
+11 Marianas Trench3 Prophetian3 Chains2 The Trapper2 Burbot`s Revenge1 Aurora Borealis1 Trollhammaren1 Children Of Decedence1 Against The Stream1 Bodom After Midnight1 Angel Soul1 Drawn to Black1 Never hit you a storm1 Judgement1 Shotgun Symphony31
+she
+17 Grow Up, Peter Pan7 In The Failing Hour2 Rasputin2 Six2 Cognitive Note Of Discord1 Lost Life31
+black
+9 Black Tears6 Rejection Role6 Zombie Blood Curse3 Descending2 Black Tears2 Lake Bodom1 Mirror Of Sins1 Drawn to Black1 Everytime I Die31
+soul
+4 Slaughter Of The Soul4 Prisoner In Me3 Prophetian2 Aurora Borealis2 The Cleansing2 Reflections2 Angel Soul1 Virus Of The Mind1 Cold1 Passion And The Opera1 Six1 Never hit you a storm1 Demons1 Drawn to Black1 Monochromatic Stains1 Cypher Drone1 Enemy Within1 Temporary Borders1 Mirror Of Sins30
 dying
-5 Living in Me4 Lemmings1 Masses Of A Dying Breed1 Everytime I Die11
-ying
-11 Living in Me11
-ofpain
-10 Save Yourself1 Cold11
-offlies
-11 Descending10
+6 Children Of Decedence4 Lemmings3 Virgin Soil3 Drawn to Black3 Zombie Blood Curse2 Living in Me2 Last Breath1 Prophetian1 Winterking1 Hold the Sword1 Dream1 Masses Of A Dying Breed1 Lost Life1 Everytime I Die30
+lies
+5 Save Yourself4 Blood in the Throne Room3 Virus Of The Mind3 Six2 Slaughter Of The Soul2 Cold1 Chains1 Angel Soul1 Drawn to Black1 Survival (The Chariot)1 Prisoner In Me1 Cypher Drone1 Passion And The Opera1 Alone1 Blut im Auge1 The Cleansing1 Heart of Wilderness29
+last
+4 Last Breath3 Lost Life3 Fleshkiller3 The Last One For Life3 Alone2 Hold the Sword2 Relentless Chaos2 Monochromatic Stains2 Lake Bodom1 Temporary Borders1 Drawn to Black1 Six1 Cognitive Note Of Discord1 Virus Of The Mind27
+won
+7 Fleshkiller4 Lemmings3 Slaughter Of The Soul3 Cypher Drone2 The Pursuit Of Vikings1 Virgin Soil1 Enemy Within1 Dream1 Bloodsucking Kissing1 Burbot`s Revenge1 Demons1 Survival (The Chariot)1 Judgement26
+try
+8 Redneck6 War Eternal3 Children Of Decedence2 Descending2 Virus Of The Mind1 Rasputin1 Relentless Chaos1 Blood in the Throne Room1 Grow Up, Peter Pan1 Cognitive Note Of Discord26
+love
+4 Lemmings3 Rasputin3 Living in Me3 War Eternal2 Moon Of My Nights2 Frozen Angel2 Drawn to Black2 The Cleansing1 Temporary Borders1 Everblack1 Lost Life1 Survival (The Chariot)1 Save Yourself26
+fade
+8 Frozen Angel6 Cypher Drone4 Alone2 Black Tears2 Black Tears2 Shadows In The Wasteland1 Temporary Borders1 Defeat25
+again
+3 Reflections2 Slaughter Of The Soul2 Beyond The Dark Sun2 Dream2 Against The Stream2 Last Breath2 They Will Return2 In The Failing Hour1 Aurora Borealis1 Templar1 The Trapper1 New World Shadows1 Nothing1 The Sleeping Beauty1 The Pursuit Of Vikings1 Godiva25
+face
+11 Blinded By Fear3 Winterking2 Beyond The Dark Sun2 Monochromatic Stains2 In The Failing Hour1 Heart of Wilderness1 Rejection Role1 Angel Soul1 Demons1 Lost Life24
+tears
+7 Black Tears2 Bloodsucking Kissing2 Nothing2 The Last One For Life2 Judgement2 In The Failing Hour1 Black Tears1 Prophetian1 Heart of Wilderness1 Temporary Borders1 Reflections1 The Sleeping Beauty1 Angel Soul23
+myself
+4 Temporary Borders4 The Cleansing2 Mirror Of Sins2 Prisoner In Me2 Bloodsucking Kissing2 Relentless Chaos1 Black Tears1 Black Tears1 Hollow Heart1 Moon Of My Nights1 Chains1 Save Yourself1 Defeat23
+dead
+6 Zombie Blood Curse3 Alone2 Dream2 Bloodsucking Kissing2 Judgement1 Mirror Of Sins1 Cypher Drone1 Rasputin1 Nothing1 Lake Bodom1 Marianas Trench1 Cold1 Shadows In The Wasteland22
+cold
+3 Winterking2 Black Tears2 Moon Of My Nights2 Bloodsucking Kissing2 Everytime I Die2 Last Breath2 Cold1 Black Tears1 Masses Of A Dying Breed1 Nothing1 Angel Soul1 Cold Embrace1 Drawn to Black1 The Cleansing22
+yourself
+17 Save Yourself2 Moon Of My Nights1 Enemy Within1 Masses Of A Dying Breed1 Redneck22
+save
+16 Save Yourself3 Prisoner In Me2 Winterking1 Temporary Borders22
+sky
+3 Winterking3 The Sleeping Beauty2 Living in Me1 Shadows In The Wasteland1 Black Tears1 Defeat1 Blinded By Fear1 Grow Up, Peter Pan1 They Will Return1 Last Breath1 Everytime I Die1 Bodom After Midnight1 Beyond The Dark Sun1 Hold the Sword1 The Trapper1 Aurora Borealis1 Black Tears21
+sorrow
+6 Cypher Drone5 Save Yourself2 Bloodsucking Kissing2 Against The Stream1 Black Tears1 Black Tears1 Prophetian1 Heart of Wilderness1 Beyond The Dark Sun1 The Last One For Life21
+forever
+5 Living in Me3 Everblack3 Bloodsucking Kissing3 Angel Soul1 Temporary Borders1 Reflections1 Masses Of A Dying Breed1 Grow Up, Peter Pan1 Judgement1 In The Failing Hour1 Descending20
+darkness
+4 Angel Soul4 Alone3 Last Breath2 Reflections2 Nothing1 The Trapper1 Beyond The Dark Sun1 The Last One For Life1 Cold1 Shadows In The Wasteland20
+lemmings
+20 Lemmings20
+souls
+6 Winterking5 Templar3 Judgement2 Kissing The Shadows2 Passion And The Opera1 Nemesis1 Rejection Role20
+left
+3 Hollow Heart2 Survival (The Chariot)2 In The Failing Hour1 Heart of Wilderness1 Temporary Borders1 The Trapper1 Enemy Within1 Moon Of My Nights1 Dream1 Rejection Role1 Drawn to Black1 Fleshkiller1 Zombie Blood Curse1 Lake Bodom1 Marianas Trench1 Godiva20
+moon
+12 Moon Of My Nights2 Bodom After Midnight2 Drawn to Black1 Aurora Borealis1 Everblack1 Passion And The Opera1 Judgement19
+inside
+3 Zombie Blood Curse3 War Eternal2 Hollow Heart2 Moon Of My Nights2 Defeat1 Prisoner In Me1 Dream1 Everblack1 Rejection Role1 Chains1 Everytime I Die1 The Last One For Life19
+dreams
+4 Heart of Wilderness1 Black Tears1 Black Tears1 Aurora Borealis1 Rejection Role1 Against The Stream1 Chains1 Angel Soul1 Cold Embrace1 Drawn to Black1 Six1 Lake Bodom1 Grow Up, Peter Pan1 Alone1 Defeat1 Shadows In The Wasteland19
+war
+4 Last Breath3 Hold the Sword3 The Pursuit Of Vikings3 War Eternal2 Blut im Auge1 Demons1 Survival (The Chariot)1 Lake Bodom1 They Will Return18
+fate
+6 Everlasting Ward4 Lost Life2 The Pursuit Of Vikings1 Prophetian1 Hold the Sword1 The Sleeping Beauty1 Never hit you a storm1 The Last One For Life1 Descending18
+tonight
+5 The Sleeping Beauty4 Cypher Drone3 Grow Up, Peter Pan2 Prisoner In Me2 Dream2 Lake Bodom18
+fight
+6 Children Of Decedence3 Winterking2 Hold the Sword2 Burbot`s Revenge1 Nemesis1 Blood in the Throne Room1 Demons1 Everytime I Die1 Last Breath18
+dark
+4 Heart of Wilderness2 Drawn to Black2 Last Breath1 Virgin Soil1 Hollow Heart1 Enemy Within1 Everlasting Ward1 Reflections1 Chains1 Tapiola1 Lost Life1 Save Yourself1 Alone18
+fear
+4 Hold the Sword2 Nothing2 Judgement2 Virus Of The Mind1 Heart of Wilderness1 Winterking1 Rasputin1 Blood in the Throne Room1 The Sleeping Beauty1 Never hit you a storm1 The Last One For Life1 Descending17
+lost
+2 Winterking2 Lost Life2 Never hit you a storm1 Aurora Borealis1 Heart of Wilderness1 Cypher Drone1 Reflections1 Beyond The Dark Sun1 Masses Of A Dying Breed1 Angel Soul1 Judgement1 Defeat1 Shadows In The Wasteland1 Descending17
+truth
+3 Prophetian3 Heart of Wilderness2 Virgin Soil2 Shotgun Symphony2 Godiva2 In The Failing Hour1 Masses Of A Dying Breed1 Living in Me1 Virus Of The Mind17
+rain
+8 Cypher Drone3 Reflections2 Marianas Trench1 Virgin Soil1 Dream1 Everytime I Die1 Passion And The Opera17
+rise
+3 Winterking3 They Will Return2 Strike!2 Zombie Blood Curse2 Cold1 Enemy Within1 Hold the Sword1 Beyond The Dark Sun1 Prisoner In Me1 Bodom After Midnight17
+dream
+5 Dream3 Shotgun Symphony2 Everblack1 Heart of Wilderness1 Hollow Heart1 Reflections1 Nothing1 Blood in the Throne Room1 Zombie Blood Curse1 Cold16
+another
+5 Everytime I Die3 Slaughter Of The Soul3 Chains2 Bodom After Midnight1 Hollow Heart1 Rejection Role1 Blood in the Throne Room16
+living
+6 Living in Me3 Winterking2 Against The Stream1 Mirror Of Sins1 Strike!1 Blood in the Throne Room1 Demons1 Save Yourself16
+free
+5 Cypher Drone2 Heart of Wilderness2 Slaughter Of The Soul2 Beyond The Dark Sun2 Six1 Demons1 Heroes To Us1 Judgement16
+sun
+3 The Sleeping Beauty3 Drawn to Black2 Winterking2 Beyond The Dark Sun1 Aurora Borealis1 Virgin Soil1 Temporary Borders1 Bodom After Midnight1 Angel Soul1 The Pursuit Of Vikings16
+nights
+12 Moon Of My Nights1 Winterking1 Nothing1 Alone1 Shotgun Symphony16
+same
+2 Nemesis2 Children Of Decedence2 Blood in the Throne Room2 Lemmings1 Heart of Wilderness1 Slaughter Of The Soul1 Dream1 Redneck1 Against The Stream1 The Last One For Life1 They Will Return1 In The Failing Hour16
+hate
+3 Zombie Blood Curse3 Godiva2 Slaughter Of The Soul2 Shotgun Symphony2 In The Failing Hour1 Prophetian1 Lost Life1 The Last One For Life1 Lake Bodom16
+earth
+6 Fleshkiller4 Blinded By Fear2 Lake Bodom2 Cold1 Nemesis1 Against The Stream15
+god
+5 Templar3 Lake Bodom1 Hollow Heart1 The Trapper1 Hold the Sword1 Redneck1 Nothing1 Passion And The Opera1 Descending15
+hope
+4 Godiva2 Lost Life2 Virus Of The Mind1 Enemy Within1 Beyond The Dark Sun1 Children Of Decedence1 Bloodsucking Kissing1 Everytime I Die1 The Pursuit Of Vikings1 Grow Up, Peter Pan15
+shall
+4 Hold the Sword4 Cognitive Note Of Discord2 Prisoner In Me1 Aurora Borealis1 Virgin Soil1 Kissing The Shadows1 Monochromatic Stains1 Descending15
+yet
+5 Drawn to Black2 Bloodsucking Kissing2 Living in Me2 Virus Of The Mind1 Virgin Soil1 Strike!1 Rejection Role1 Grow Up, Peter Pan15
+words
+3 Hollow Heart2 Grow Up, Peter Pan1 Temporary Borders1 Moon Of My Nights1 Rejection Role1 Chains1 Relentless Chaos1 Blood in the Throne Room1 Fleshkiller1 The Last One For Life1 Alone1 The Cleansing15
+silence
+4 Living in Me2 Aurora Borealis2 Drawn to Black2 Last Breath1 Strike!1 Bloodsucking Kissing1 The Wonders At Your Feet1 Alone1 Shadows In The Wasteland14
+something
+7 Rejection Role3 Beyond The Dark Sun1 Heart of Wilderness1 Rasputin1 Lake Bodom1 Defeat14
+waiting
+3 Rejection Role2 Judgement2 In The Failing Hour1 Reflections1 Lost Life1 Fleshkiller1 The Last One For Life1 They Will Return1 Blinded By Fear1 Defeat14
+shadows
+4 Kissing The Shadows2 Temporary Borders2 Beyond The Dark Sun2 Cold Embrace1 New World Shadows1 Angel Soul1 The Last One For Life1 Shadows In The Wasteland14
+till
+8 Descending1 Aurora Borealis1 Hold the Sword1 Rasputin1 Bloodsucking Kissing1 Cold Embrace1 Fleshkiller14
+place
+3 Alone2 Winterking2 Lake Bodom1 Virgin Soil1 Temporary Borders1 Bloodsucking Kissing1 Monochromatic Stains1 Lost Life1 They Will Return1 Defeat14
+eye
+10 Virgin Soil2 Nemesis1 Monochromatic Stains1 Lemmings14
+upon
+9 Virgin Soil1 Drawn to Black1 Fleshkiller1 The Wonders At Your Feet1 The Last One For Life1 Virus Of The Mind14
+fire
+2 Aurora Borealis2 The Trapper2 Children Of Decedence1 Heart of Wilderness1 Enemy Within1 Nemesis1 Rasputin1 Blood in the Throne Room1 Fleshkiller1 Everytime I Die1 Shadows In The Wasteland14
+deep
+3 Against The Stream3 War Eternal2 Moon Of My Nights1 Enemy Within1 Prisoner In Me1 Everblack1 The Sleeping Beauty1 The Last One For Life1 Shadows In The Wasteland13
+which
+3 Lost Life2 Aurora Borealis2 Heart of Wilderness2 Mirror Of Sins1 Strike!1 Drawn to Black1 War Eternal1 Passion And The Opera13
+red
+3 Children Of Decedence2 Prophetian2 Bloodsucking Kissing1 Aurora Borealis1 Temporary Borders1 Lost Life1 The Wonders At Your Feet1 The Last One For Life1 Grow Up, Peter Pan13
+killing
+6 Rejection Role3 Virgin Soil2 Templar2 Enemy Within13
+shadow
+3 Kissing The Shadows2 Cold Embrace2 Zombie Blood Curse1 Heart of Wilderness1 Strike!1 Children Of Decedence1 Nothing1 Demons1 Defeat13
+cry
+3 Fleshkiller2 Moon Of My Nights2 Cold Embrace2 Lost Life1 Temporary Borders1 Dream1 Nothing1 The Sleeping Beauty13
+angel
+9 Frozen Angel3 Angel Soul1 Save Yourself12
+body
+4 Monochromatic Stains3 Grow Up, Peter Pan1 Hollow Heart1 Enemy Within1 Rejection Role1 Passion And The Opera1 In The Failing Hour12
+burning
+3 The Trapper2 Aurora Borealis2 The Cleansing1 Everlasting Ward1 Judgement1 Cold1 Godiva1 Descending12
+cannot
+5 Marianas Trench2 Everytime I Die1 Temporary Borders1 The Blind Leader1 The Sleeping Beauty1 Demons1 Cognitive Note Of Discord12
+tried
+4 Lemmings2 Temporary Borders2 Beyond The Dark Sun1 Relentless Chaos1 Lost Life1 Descending1 Cognitive Note Of Discord12
+holding
+6 Nothing3 Hold the Sword2 In The Failing Hour1 Strike!12
+full
+6 Descending5 Save Yourself1 Rasputin12
+born
+3 Prisoner In Me2 Slaughter Of The Soul2 Judgement2 Blinded By Fear1 Aurora Borealis1 Everlasting Ward1 Defeat12
+done
+3 Cognitive Note Of Discord2 Frozen Angel2 Drawn to Black1 Mirror Of Sins1 The Trapper1 Rasputin1 Rejection Role1 Lost Life12
+kokko
+3 The Blind Leader2 Hollow Heart2 Moon Of My Nights2 Heroes To Us1 Prophetian1 Heart of Wilderness1 The Last One For Life12
+alive
+6 Descending3 Zombie Blood Curse2 Survival (The Chariot)1 Lost Life12
+above
+4 Lemmings2 Virgin Soil2 Cold1 Kissing The Shadows1 Beyond The Dark Sun1 Burbot`s Revenge1 Heroes To Us12
+own
+3 The Trapper3 Shotgun Symphony2 Prisoner In Me1 Heart of Wilderness1 Temporary Borders1 Redneck1 Bloodsucking Kissing12
+fears
+10 Blinded By Fear1 Mirror Of Sins1 The Last One For Life11
+gone
+3 Alone2 Frozen Angel1 Dream1 Rasputin1 Angel Soul1 Drawn to Black1 Lost Life1 Shadows In The Wasteland11
+bleed
+6 Children Of Decedence3 Fleshkiller1 Bloodsucking Kissing1 Zombie Blood Curse11
+after
+2 Kissing The Shadows2 Bodom After Midnight1 Prophetian1 Temporary Borders1 Beyond The Dark Sun1 Dream1 Chains1 Lake Bodom1 They Will Return11
+right
+5 Grow Up, Peter Pan3 Children Of Decedence1 Lost Life1 The Last One For Life1 Save Yourself11
+within
+2 Children Of Decedence2 Judgement1 Hollow Heart1 Enemy Within1 Prisoner In Me1 Survival (The Chariot)1 They Will Return1 Blinded By Fear1 The Cleansing11
+before
+3 Prisoner In Me2 Virgin Soil2 Moon Of My Nights1 The Trapper1 Chains1 Relentless Chaos1 Defeat11
+live
+3 Nothing2 Chains2 Virus Of The Mind1 Everlasting Ward1 Relentless Chaos1 Lost Life1 Survival (The Chariot)11
+dawn
+3 Slaughter Of The Soul3 Reflections1 The Trapper1 Moon Of My Nights1 Beyond The Dark Sun1 Cold Embrace1 Shadows In The Wasteland11
+turning
+6 Cypher Drone3 Reflections1 Dream1 Godiva11
+leave
+3 Bloodsucking Kissing2 Winterking1 Virgin Soil1 Temporary Borders1 The Trapper1 Fleshkiller1 The Pursuit Of Vikings1 Cognitive Note Of Discord11
+fall
+2 Blood in the Throne Room2 Blinded By Fear1 Mirror Of Sins1 Virgin Soil1 Hollow Heart1 Everlasting Ward1 Prisoner In Me1 Monochromatic Stains1 Cold11
+screams
+3 Zombie Blood Curse3 Godiva2 Judgement1 Black Tears1 Black Tears1 Hold the Sword11
+first
+6 Monochromatic Stains2 Everblack1 Strike!1 Drawn to Black1 Passion And The Opera10
 understand
-9 Save Yourself1 Nothing10
-iswhere
-9 Masses Of A Dying Breed1 Heart of Wilderness10
+6 Save Yourself3 Chains1 Nothing10
+kill
+3 Bodom After Midnight2 Descending1 Bloodsucking Kissing1 Never hit you a storm1 Six1 Zombie Blood Curse1 War Eternal10
+fading
+3 Winterking3 Frozen Angel1 Mirror Of Sins1 Temporary Borders1 Cypher Drone1 Beyond The Dark Sun10
+says
+10 Cognitive Note Of Discord10
+old
+4 Lost Life2 Temporary Borders2 Blood in the Throne Room1 Winterking1 Heroes To Us10
+child
+5 Virgin Soil2 Hold the Sword2 Judgement1 Cypher Drone10
+sword
+5 Hold the Sword1 Aurora Borealis1 Virgin Soil1 Winterking1 The Pursuit Of Vikings1 Lake Bodom10
+blind
+2 Slaughter Of The Soul2 Nothing1 Black Tears1 Black Tears1 Everlasting Ward1 New World Shadows1 Cold Embrace1 Blinded By Fear10
+once
+2 Redneck2 Lost Life1 Aurora Borealis1 Heart of Wilderness1 Temporary Borders1 The Trapper1 Bloodsucking Kissing1 Alone10
+running
+2 Kissing The Shadows2 Children Of Decedence2 Virus Of The Mind1 Winterking1 Against The Stream1 Lost Life1 Lemmings10
+change
+3 War Eternal2 Aurora Borealis2 Lost Life1 Living in Me1 Blood in the Throne Room1 Save Yourself10
+ground
+3 The Sleeping Beauty2 Virus Of The Mind1 Prophetian1 Burbot`s Revenge1 Relentless Chaos1 Alone1 In The Failing Hour10
+chains
+3 Prisoner In Me2 Cypher Drone2 Blinded By Fear1 Chains1 The Pursuit Of Vikings1 Lake Bodom10
+godiva
+10 Godiva10
+thoughts
+3 Zombie Blood Curse2 Enemy Within1 Reflections1 Relentless Chaos1 Demons1 Alone1 Shadows In The Wasteland10
+thousand
+5 Drawn to Black2 Burbot`s Revenge1 Redneck1 Survival (The Chariot)1 Alone10
+grave
+3 Lost Life2 Aurora Borealis1 Virgin Soil1 Temporary Borders1 Bloodsucking Kissing1 Never hit you a storm1 Zombie Blood Curse10
+lie
+3 Virgin Soil2 Monochromatic Stains1 Blut im Auge1 Cypher Drone1 Redneck1 Bodom After Midnight1 Descending10
+endless
+6 Descending1 Black Tears1 Black Tears1 Winterking1 Moon Of My Nights10
+survive
+4 Survival (The Chariot)4 This is my survival2 Virus Of The Mind10
+breath
+4 Last Breath3 Everblack1 Bloodsucking Kissing1 Drawn to Black1 Six10
+demons
+8 Demons1 Enemy Within1 Drawn to Black10
+land
+3 Prophetian2 Templar1 Blut im Auge1 The Blind Leader1 New World Shadows1 Rasputin1 Heroes To Us10
+burn
+4 Blinded By Fear2 Templar1 Blood in the Throne Room1 Monochromatic Stains1 Fleshkiller1 The Wonders At Your Feet10
+fallen
+3 The Sleeping Beauty2 Reflections2 Relentless Chaos1 Winterking1 New World Shadows1 Godiva10
 trollhammaren
 10 Trollhammaren10
-sings
-10 Living in Me10
-imake
-10 Save Yourself10
-hewas
-10 Rasputin10
-tail
-10 The Trapper10
-which
-2 Aurora Borealis2 Heart of Wilderness2 Mirror Of Sins2 Passion And The Opera1 Lost Life1 War Eternal10
-choices
-10 Save Yourself10
-iwant
-9 Masses Of A Dying Breed1 Defeat9
-another
-6 Slaughter Of The Soul2 Everytime I Die1 Chains9
-till
-7 Descending1 Rasputin1 Fleshkiller9
-isa
-7 Redneck2 Living in Me9
-black
-3 When I'm in this state of mind 3 Zombie Blood Curse2 Descending1 Everytime I Die9
-ewill
-9 Slaughter Of The Soul9
-left
-2 Hollow Heart2 In The Failing Hour1 The Trapper1 Enemy Within1 Drawn to Black1 Zombie Blood Curse1 Godiva9
-accept
-6 Cypher Drone2 In The Failing Hour1 Against The Stream9
-feel
-2 Slaughter Of The Soul2 Nothing2 Lost Life2 Shadows In The Wasteland1 Cold9
-down
-3 Against The Stream3 Relentless Chaos1 Kissing The Shadows1 The Trapper1 Enemy Within9
-hope
-4 Lost Life2 Virus Of The Mind1 The Pursuit Of Vikings1 Grow Up, Peter Pan1 Godiva9
-screams
-7 Godiva2 Judgement9
-isee
-2 Heart of Wilderness2 Winterking1 Mirror Of Sins1 Virgin Soil1 Temporary Borders1 Six1 Shadows In The Wasteland9
-myheart
-5 Nothing1 When I'm in this state of mind 1 Mirror Of Sins1 Beyond The Dark Sun1 Angel Soul8
-own
-7 The Trapper1 Heart of Wilderness8
-iwon
-6 Fleshkiller1 Dream1 Judgement8
-itdrains
-7 Black Tears1 When I'm in this state of mind 8
-hate
-6 Godiva2 Shotgun Symphony8
-war
-6 Last Breath2 Blut im Auge8
-iknow
-3 Children Of Decedence1 Temporary Borders1 Rejection Role1 Six1 Grow Up, Peter Pan1 Defeat8
-ver
-6 Defeat2 Godiva8
-lost
-2 Never hit you a storm1 Heart of Wilderness1 Cypher Drone1 Reflections1 Beyond The Dark Sun1 Masses Of A Dying Breed1 Defeat8
-ipton
-8 Enemy Within8
-after
-4 Bodom After Midnight1 Prophetian1 Temporary Borders1 Dream1 Chains8
-mymind
-5 Cognitive Note Of Discord2 Demons1 Shadows In The Wasteland8
+strong
+4 Six3 Nemesis1 Heart of Wilderness1 Rasputin1 The Pursuit Of Vikings10
+voice
+3 Virgin Soil3 Prisoner In Me2 Heart of Wilderness1 Nemesis1 The Sleeping Beauty10
+keep
+2 Aurora Borealis2 Prisoner In Me2 Demons1 Black Tears1 Black Tears1 Hollow Heart1 Bodom After Midnight10
+high
+2 Bodom After Midnight2 Living in Me2 Six1 Everblack1 Cold Embrace1 Everytime I Die1 They Will Return10
 him
-4 Godiva3 Last Breath1 Rasputin8
-mylife
-5 Slaughter Of The Soul2 Prisoner In Me1 Lost Life8
-death
-3 Virgin Soil3 Winterking1 When I'm in this state of mind 1 Children Of Decedence8
-mydestiny
-8 Defeat8
-tbe
-6 Slaughter Of The Soul2 Descending8
-fire
-3 The Trapper1 Heart of Wilderness1 Enemy Within1 Nemesis1 Rasputin1 Shadows In The Wasteland8
-taken
-6 Last Breath1 Moon Of My Nights1 Masses Of A Dying Breed8
-cold
-2 Last Breath1 Masses Of A Dying Breed1 Bloodsucking Kissing1 Nothing1 Drawn to Black1 Cold1 The Cleansing8
-mind
-3 Enemy Within2 Drawn to Black1 Hollow Heart1 Rasputin1 Virus Of The Mind8
-body
-4 Monochromatic Stains1 Hollow Heart1 Enemy Within1 Passion And The Opera1 In The Failing Hour8
-met
-8 Defeat8
-born
-4 Slaughter Of The Soul3 Prisoner In Me1 Blinded By Fear8
-living
-6 Living in Me2 Save Yourself8
+3 Last Breath2 Rasputin2 Godiva1 Aurora Borealis1 Virgin Soil1 Hold the Sword9
 strike
-8 Strike!8
-defeat
-8 Defeat8
-straight
-6 Rejection Role2 Save Yourself8
-song
-8 Living in Me8
+8 Strike!1 Virgin Soil9
+bright
+3 Drawn to Black2 Aurora Borealis1 The Trapper1 Winterking1 Zombie Blood Curse1 Shadows In The Wasteland9
+shake
+9 Grow Up, Peter Pan9
+control
+3 War Eternal2 Everblack1 Beyond The Dark Sun1 In The Failing Hour1 Descending1 Virus Of The Mind9
+breathe
+3 Fleshkiller2 Heart of Wilderness1 Kissing The Shadows1 Bloodsucking Kissing1 Lost Life1 Defeat9
+break
+3 War Eternal2 Strike!1 Heart of Wilderness1 Reflections1 The Wonders At Your Feet1 Grow Up, Peter Pan9
+smile
+4 Grow Up, Peter Pan3 Cold Embrace1 Rejection Role1 The Last One For Life9
+revenge
+6 Burbot`s Revenge3 They Will Return9
 sing
-3 Angel Soul3 Grow Up, Peter Pan1 Children Of Decedence1 The Wonders At Your Feet8
-world
-2 The Sleeping Beauty2 Defeat2 In The Failing Hour1 Reflections1 Nothing8
-shall
-2 Hold the Sword2 Prisoner In Me1 Aurora Borealis1 Virgin Soil1 Monochromatic Stains1 Descending8
-words
-2 Hollow Heart2 Relentless Chaos1 Moon Of My Nights1 Rejection Role1 Grow Up, Peter Pan1 The Cleansing8
-apart
-8 Slaughter Of The Soul8
-isthe
-3 Shotgun Symphony2 Survival (The Chariot)1 Heart of Wilderness1 Living in Me1 Last Breath7
-lone
-4 Descending3 Frozen Angel7
-bethere
-4 Rejection Role2 Relentless Chaos1 Passion And The Opera7
-oftime
-6 Descending1 Heart of Wilderness7
-cheek
-7 Black Tears7
+3 Angel Soul3 Grow Up, Peter Pan2 The Wonders At Your Feet1 Children Of Decedence9
+new
+2 Heart of Wilderness1 Slaughter Of The Soul1 Nemesis1 Fleshkiller1 Heroes To Us1 Cold1 Godiva1 Shadows In The Wasteland9
+darkest
+3 Prophetian3 Godiva2 In The Failing Hour1 Judgement9
+days
+3 Cold Embrace1 New World Shadows1 Hold the Sword1 Everblack1 Against The Stream1 Living in Me1 Shadows In The Wasteland9
+some
+2 Mirror Of Sins2 Rasputin1 The Pursuit Of Vikings1 Lake Bodom1 They Will Return1 Judgement1 Godiva9
+defeat
+9 Defeat9
+side
+2 Bodom After Midnight2 The Last One For Life2 Lake Bodom1 Winterking1 The Pursuit Of Vikings1 War Eternal9
+taken
+4 Last Breath1 Moon Of My Nights1 Beyond The Dark Sun1 Masses Of A Dying Breed1 The Cleansing1 Cognitive Note Of Discord9
+tear
+2 Virgin Soil2 Slaughter Of The Soul2 Burbot`s Revenge2 Cold Embrace1 Bloodsucking Kissing9
+unleashed
+7 Blinded By Fear2 Zombie Blood Curse9
+takes
+3 Alone2 Shotgun Symphony1 Dream1 Everblack1 The Wonders At Your Feet1 In The Failing Hour9
+children
+6 Children Of Decedence3 Slaughter Of The Soul9
+wind
+4 Everytime I Die2 Moon Of My Nights1 Heart of Wilderness1 Mirror Of Sins1 Bloodsucking Kissing9
+frozen
+8 Frozen Angel1 The Cleansing9
+accept
+6 Cypher Drone2 In The Failing Hour1 Against The Stream8
+took
+6 Cognitive Note Of Discord2 Virgin Soil8
+please
+3 Prisoner In Me2 Rasputin1 Hollow Heart1 Relentless Chaos1 Cognitive Note Of Discord8
+runs
+4 Against The Stream3 Zombie Blood Curse1 Nemesis8
+always
+2 Aurora Borealis2 Grow Up, Peter Pan1 Slaughter Of The Soul1 The Blind Leader1 Lake Bodom1 Judgement8
+stains
+5 Monochromatic Stains2 The Cleansing1 The Wonders At Your Feet8
+dance
+5 Grow Up, Peter Pan1 Aurora Borealis1 New World Shadows1 Angel Soul8
+tomorrow
+6 Cypher Drone2 Children Of Decedence8
+facing
+7 Rejection Role1 Winterking8
+guide
+6 The Pursuit Of Vikings1 Grow Up, Peter Pan1 Alone8
+screaming
+4 Grow Up, Peter Pan3 Prisoner In Me1 Rejection Role8
+remember
+3 War Eternal2 Monochromatic Stains1 Relentless Chaos1 Demons1 Judgement8
+knows
+6 Cypher Drone2 Strike!8
+word
+3 Fleshkiller2 Godiva1 Temporary Borders1 The Blind Leader1 Lost Life8
+cognitive
+8 Cognitive Note Of Discord8
+mother
+7 Redneck1 Cognitive Note Of Discord8
+feet
+2 Lemmings2 The Wonders At Your Feet1 Relentless Chaos1 Drawn to Black1 Never hit you a storm1 Survival (The Chariot)8
+power
+2 Templar2 Strike!1 Black Tears1 Black Tears1 Rasputin1 Judgement8
+bury
+6 Godiva2 Bloodsucking Kissing8
+reason
+2 Templar2 Chains2 Blood in the Throne Room1 Redneck1 Nothing8
+hide
+2 Passion And The Opera1 Black Tears1 Black Tears1 Virgin Soil1 Masses Of A Dying Breed1 Bloodsucking Kissing1 Chains8
+buried
+4 Zombie Blood Curse1 Moon Of My Nights1 The Sleeping Beauty1 Everytime I Die1 The Last One For Life8
+sacrifice
+7 Descending1 Monochromatic Stains8
+broken
+3 Reflections3 Nothing1 Everblack1 Everytime I Die8
+reality
+3 Blinded By Fear2 Hollow Heart2 Shotgun Symphony1 The Cleansing8
+wait
+3 Descending2 Lake Bodom1 The Trapper1 New World Shadows1 They Will Return8
+wish
+3 Six2 Fleshkiller1 Temporary Borders1 Cold Embrace1 Passion And The Opera8
+river
+4 Against The Stream2 Moon Of My Nights2 Judgement8
+years
+3 Zombie Blood Curse2 Strike!1 Beyond The Dark Sun1 Rejection Role1 Cold8
+hiding
+4 Lemmings2 Living in Me2 They Will Return8
+rage
+4 Zombie Blood Curse3 Godiva1 Heroes To Us8
+behind
+2 Beyond The Dark Sun2 Survival (The Chariot)1 Aurora Borealis1 Heart of Wilderness1 Temporary Borders1 Defeat8
+weak
+2 Black Tears1 Black Tears1 Heart of Wilderness1 Enemy Within1 Everblack1 Nothing1 The Cleansing8
+head
+2 Six2 Defeat1 Hollow Heart1 Rasputin1 Bodom After Midnight1 Burbot`s Revenge8
+air
+3 Winterking3 They Will Return1 Strike!1 Lost Life8
+against
+3 War Eternal2 Winterking1 Enemy Within1 They Will Return1 Godiva8
+between
+4 Heart of Wilderness1 Aurora Borealis1 Prophetian1 Temporary Borders1 Moon Of My Nights7
+shining
+3 Godiva2 Winterking2 Dream7
+discord
+7 Cognitive Note Of Discord7
+walls
+6 Rejection Role1 Prisoner In Me7
+lives
+4 Virus Of The Mind1 Everblack1 Heroes To Us1 Lake Bodom7
+gives
+6 Fleshkiller1 Strike!7
+true
+2 Heart of Wilderness2 Judgement1 Prisoner In Me1 Dream1 Redneck7
+breathing
+4 Living in Me3 Winterking7
+memories
+1 Temporary Borders1 Hollow Heart1 Cypher Drone1 New World Shadows1 Reflections1 Angel Soul1 Lost Life7
+straight
+6 Rejection Role1 Save Yourself7
+believe
+2 Redneck1 Black Tears1 Black Tears1 Temporary Borders1 Chains1 Defeat7
+past
+2 Mirror Of Sins2 Temporary Borders1 Heart of Wilderness1 Cypher Drone1 Lost Life7
+sleep
+2 Passion And The Opera1 Hollow Heart1 The Trapper1 Beyond The Dark Sun1 Cold Embrace1 Alone7
 bringing
 6 Cypher Drone1 Relentless Chaos7
-toflee
-7 Prisoner In Me7
-some
-2 Mirror Of Sins2 Rasputin1 The Pursuit Of Vikings1 They Will Return1 Godiva7
-burn
-4 Blinded By Fear2 Templar1 Monochromatic Stains7
-tonight
-4 The Sleeping Beauty2 Prisoner In Me1 Grow Up, Peter Pan7
-sacrifice
-7 Descending7
-fall
-2 Slaughter Of The Soul2 Blinded By Fear1 Hollow Heart1 Prisoner In Me1 Cold7
-along
-7 The Trapper7
-mother
-7 Redneck7
-rise
-2 Strike!2 They Will Return1 Enemy Within1 Prisoner In Me1 Cold7
-reflections
-7 Reflections7
-ima
-3 Prophetian2 Prisoner In Me1 Heart of Wilderness1 Rejection Role7
-ithere
-7 Masses Of A Dying Breed7
+beyond
+4 Godiva1 Strike!1 Bodom After Midnight1 Angel Soul7
+comes
+3 Bodom After Midnight1 Reflections1 Nothing1 Lemmings1 Alone7
+room
+3 Blood in the Throne Room1 Virgin Soil1 Hollow Heart1 Strike!1 Defeat7
+ice
+3 Burbot`s Revenge2 Everytime I Die1 Winterking1 Last Breath7
+gold
+4 Templar1 Prophetian1 Temporary Borders1 Cypher Drone7
+note
+7 Cognitive Note Of Discord7
+heroes
+6 Heroes To Us1 Tapiola7
+burbot
+7 Burbot`s Revenge7
 rasputin
 7 Rasputin7
-ill
-2 Relentless Chaos2 Everytime I Die1 When I'm in this state of mind 1 Hollow Heart1 Passion And The Opera7
-rain
-5 Cypher Drone1 Reflections1 Passion And The Opera7
-days
-4 Living in Me1 New World Shadows1 Everblack1 Shadows In The Wasteland7
-orthe
-7 Monochromatic Stains7
-facing
-7 Rejection Role6
-iwas
-3 Prisoner In Me3 Six6
-sincere
-6 Everlasting Ward6
-mysoul
-2 Prisoner In Me2 The Cleansing1 Never hit you a storm1 Cold6
-atthe
-4 Lemmings1 Slaughter Of The Soul1 Judgement6
-dsson
-6 Cold6
-myself
-4 The Cleansing1 Hollow Heart1 Defeat6
-final
-4 Slaughter Of The Soul1 The Last One For Life1 Cold6
-infirst
-6 Monochromatic Stains6
-dreams
-2 Heart of Wilderness1 Angel Soul1 Six1 Defeat1 Shadows In The Wasteland6
-blanks
-6 Everlasting Ward6
-todie
-3 Prisoner In Me1 New World Shadows1 Survival (The Chariot)1 Last Breath6
-survive
-4 Survival (The Chariot)2 Virus Of The Mind6
-tofight
-4 Last Breath2 Burbot`s Revenge6
+follow
+4 Lemmings2 Kissing The Shadows1 Everblack7
+slowly
+3 Children Of Decedence2 Judgement1 Everytime I Die1 Defeat7
 dreaming
-6 Descending6
-ear
-6 Slaughter Of The Soul6
-robert
-6 Enemy Within6
-isblind
-6 Slaughter Of The Soul6
-enight
-6 Last Breath6
-imalive
-6 Descending6
-guide
-6 The Pursuit Of Vikings6
-tracks
-6 The Trapper6
-endless
-6 Descending6
-tyou
-2 Kissing The Shadows1 Rasputin1 Masses Of A Dying Breed1 Nothing1 Grow Up, Peter Pan6
+6 Descending1 Kissing The Shadows7
+return
+5 They Will Return1 Hollow Heart1 The Pursuit Of Vikings7
+invitation
+7 Redneck7
+care
+3 Children Of Decedence2 Bloodsucking Kissing1 The Trapper1 Cold Embrace7
+wings
+3 Prophetian2 They Will Return1 Everytime I Die1 Cold7
+net
+7 Burbot`s Revenge7
+destiny
+5 Defeat2 Demons7
+beauty
+4 The Sleeping Beauty1 Virgin Soil1 Reflections1 Alone7
 mere
+6 Everlasting Ward1 Against The Stream7
+haunting
+4 Demons1 Kissing The Shadows1 Rejection Role1 Zombie Blood Curse7
+calling
+2 Last Breath1 Nothing1 The Sleeping Beauty1 The Pursuit Of Vikings1 Lake Bodom1 Descending7
+damn
+5 Six1 The Blind Leader1 Lemmings7
+song
+5 Living in Me2 Lake Bodom7
+nightfall
+4 Cypher Drone1 Hold the Sword1 Blood in the Throne Room1 Cold Embrace7
+lord
+3 Lake Bodom2 Prisoner In Me1 Virgin Soil1 Judgement7
+silent
+3 Godiva1 Strike!1 Bloodsucking Kissing1 The Last One For Life1 Grow Up, Peter Pan7
+lay
+4 Virgin Soil2 Moon Of My Nights1 Defeat7
+white
+3 Winterking1 Templar1 Angel Soul1 Drawn to Black1 The Last One For Life7
+anger
+6 Everlasting Ward1 Six7
+astray
+6 Cypher Drone1 Drawn to Black7
+tracks
+4 Lemmings3 The Trapper7
+feeling
+3 Winterking1 Temporary Borders1 Everblack1 Frozen Angel1 Defeat7
+towards
+4 Shotgun Symphony2 Against The Stream1 Lemmings7
+fields
+4 Winterking2 Temporary Borders1 In The Failing Hour7
+lead
+3 Prophetian2 Aurora Borealis1 The Blind Leader1 Hold the Sword6
+unreal
 6 Everlasting Ward6
-waiting
-2 In The Failing Hour1 Reflections1 They Will Return1 Blinded By Fear1 Defeat6
-wind
-4 Everytime I Die1 Heart of Wilderness1 Mirror Of Sins6
-rara
-6 Rasputin6
-memories
-2 Hollow Heart1 Cypher Drone1 New World Shadows1 Reflections1 Angel Soul6
-burbot
-6 Burbot`s Revenge6
-inever
-3 Save Yourself2 Beyond The Dark Sun1 Cypher Drone6
-shadowbeast
-6 Enemy Within6
-inme
-2 Hollow Heart2 Living in Me2 Fleshkiller6
-surfaced
-6 Monochromatic Stains6
+play
+3 Lost Life1 New World Shadows1 Grow Up, Peter Pan1 Shotgun Symphony6
+chance
+2 Bloodsucking Kissing2 Relentless Chaos2 Lost Life6
+forgotten
+1 Prophetian1 Temporary Borders1 New World Shadows1 Against The Stream1 Drawn to Black1 Lost Life6
+pull
+4 Blood in the Throne Room2 Shotgun Symphony6
+drowning
+4 Lemmings2 Marianas Trench6
+reap
+3 Slaughter Of The Soul2 Zombie Blood Curse1 Everlasting Ward6
+frost
+6 Winterking6
+stars
+2 Heart of Wilderness2 Drawn to Black1 Everytime I Die1 Alone6
+friend
+3 Defeat1 Black Tears1 Black Tears1 War Eternal6
+star
+2 Heart of Wilderness1 Aurora Borealis1 Prophetian1 Living in Me1 Descending6
+sheer
+6 Everlasting Ward6
+choke
+5 Six1 Slaughter Of The Soul6
+skies
+3 Angel Soul1 Winterking1 Lake Bodom1 Shadows In The Wasteland6
+kiss
+4 Bloodsucking Kissing2 Last Breath6
+path
+2 In The Failing Hour1 Heart of Wilderness1 Blood in the Throne Room1 Monochromatic Stains1 Shotgun Symphony6
+such
+1 Black Tears1 Black Tears1 Virgin Soil1 Blut im Auge1 Such ich sie bei Nacht' die Wei?e1 Rasputin6
+lrc
+1 Kissing The Shadows1 Winterking1 Demons1 War Eternal1 They Will Return1 Grow Up, Peter Pan6
+demon
+4 Cold Embrace1 Save Yourself1 Blinded By Fear6
+together
+2 Dream2 Frozen Angel1 Temporary Borders1 Kissing The Shadows6
+sickness
+6 Save Yourself6
+sign
+3 Prophetian3 Godiva6
+devotion
+6 Everlasting Ward6
+fake
+3 Monochromatic Stains2 In The Failing Hour1 Grow Up, Peter Pan6
+reach
+2 Godiva1 Heart of Wilderness1 The Blind Leader1 Beyond The Dark Sun1 Defeat6
+falling
+2 Heart of Wilderness1 Hollow Heart1 Everblack1 The Last One For Life1 Defeat6
+didn
+3 Moon Of My Nights1 Rasputin1 Demons1 In The Failing Hour6
+dies
+5 Drawn to Black1 The Trapper6
+ends
+4 Cypher Drone1 The Last One For Life1 Judgement6
+wwwlrcnet
+1 Kissing The Shadows1 Winterking1 Demons1 War Eternal1 They Will Return1 Grow Up, Peter Pan6
+long
+1 Temporary Borders1 New World Shadows1 Rasputin1 Lost Life1 Fleshkiller1 The Last One For Life6
 controls
 6 Everlasting Ward6
-isgolden
-6 Living in Me6
-silence
-4 Living in Me2 Last Breath6
-onthe
-2 The Trapper1 Prophetian1 Tapiola1 Survival (The Chariot)1 The Pursuit Of Vikings6
-word
-4 Fleshkiller2 The Blind Leader6
-onmy
-2 Black Tears1 When I'm in this state of mind 1 Rejection Role1 Everytime I Die1 The Cleansing6
-men
-3 Slaughter Of The Soul1 Virgin Soil1 Rasputin1 Survival (The Chariot)5
-angel
-3 Angel Soul2 Save Yourself5
-outry
-5 Redneck5
-please
-3 Prisoner In Me1 Hollow Heart1 Relentless Chaos5
-red
-2 Prophetian1 Bloodsucking Kissing1 The Last One For Life1 Grow Up, Peter Pan5
-right
-3 Children Of Decedence2 Save Yourself5
-skin
-5 The Trapper5
-because
-5 Save Yourself5
-slowly
-3 Children Of Decedence1 Everytime I Die1 Defeat5
-soi
-3 Fleshkiller2 Prisoner In Me5
-spread
-4 Tapiola1 Grow Up, Peter Pan5
-sson
-3 Black Tears2 Save Yourself5
-fake
-5 Monochromatic Stains5
-stains
-5 Monochromatic Stains5
-bury
-3 Godiva2 Bloodsucking Kissing5
+sincere
+6 Everlasting Ward6
+led
+6 Cypher Drone6
+self
+1 Virgin Soil1 Slaughter Of The Soul1 Enemy Within1 Cypher Drone1 Redneck1 The Wonders At Your Feet6
+emotion
+6 Everlasting Ward6
+pay
+1 Black Tears1 Black Tears1 Survival (The Chariot)1 War Eternal1 In The Failing Hour1 Descending6
+flies
+6 Descending6
+swim
+6 Marianas Trench6
 steps
-4 Lemmings1 Bloodsucking Kissing5
-strong
-3 Nemesis1 Heart of Wilderness1 Rasputin5
-suicide
-5 Enemy Within5
-hour
-3 In The Failing Hour2 Passion And The Opera5
-iwatch
-3 Reflections1 Winterking1 Angel Soul5
-sun
-2 Bodom After Midnight1 Temporary Borders1 Angel Soul1 The Pursuit Of Vikings5
-halford
-5 Enemy Within5
-follow
-4 Lemmings1 Everblack5
-tand
-5 Save Yourself5
-arries
-5 Prisoner In Me5
-tohold
-3 Nothing2 Hold the Sword5
-ust
-2 Prisoner In Me2 Redneck1 Chains5
-force
-3 Winterking2 Slaughter Of The Soul5
-istoo
-3 Nothing2 Save Yourself5
-byswan
-5 Black Tears5
-heartfull
-5 Save Yourself5
+4 Lemmings2 Bloodsucking Kissing6
+flinch
+6 Fleshkiller6
+yes
+5 Cognitive Note Of Discord1 Virgin Soil6
+stay
+1 Temporary Borders1 Lost Life1 Never hit you a storm1 Defeat1 The Cleansing1 Cognitive Note Of Discord6
+state
+3 Heroes To Us1 Black Tears1 Black Tears1 Rasputin6
+perfect
+2 Strike!1 Temporary Borders1 The Sleeping Beauty1 Save Yourself1 Grow Up, Peter Pan6
+point
+4 Lemmings2 Shotgun Symphony6
+lights
+3 Aurora Borealis1 The Trapper1 Lost Life1 Lake Bodom6
+breed
+3 Children Of Decedence1 Strike!1 Cypher Drone1 Masses Of A Dying Breed6
+snow
+3 Winterking1 Angel Soul1 The Pursuit Of Vikings1 The Cleansing6
+sleeping
+4 The Sleeping Beauty1 Reflections1 Angel Soul6
+blanks
+6 Everlasting Ward6
+mirror
+5 Mirror Of Sins1 Blood in the Throne Room6
+golden
+4 Living in Me1 Heart of Wilderness1 Winterking6
+bliss
+6 Everlasting Ward6
+looking
+4 Rejection Role1 Hollow Heart1 Lost Life6
+points
+6 Cypher Drone6
+men
+2 Slaughter Of The Soul1 Virgin Soil1 Winterking1 Rasputin1 Survival (The Chariot)6
 better
-4 Grow Up, Peter Pan1 Never hit you a storm5
-between
-4 Heart of Wilderness1 Aurora Borealis5
-darkest
-3 Godiva2 In The Failing Hour5
-beyond
-4 Godiva1 Angel Soul5
-dead
-3 Rasputin1 Cold1 Shadows In The Wasteland5
-deep
-2 Everblack1 Enemy Within1 Prisoner In Me1 Shadows In The Wasteland5
-gone
-3 Rasputin1 Lost Life1 Shadows In The Wasteland5
-done
-4 Rasputin1 The Trapper5
-aheartfull
-5 Save Yourself5
-inside
-2 Hollow Heart2 Defeat1 Prisoner In Me5
-iwill
-4 Rejection Role1 Beyond The Dark Sun5
-burning
-2 The Cleansing1 The Trapper1 Everlasting Ward1 Cold5
-lyrics
-4 Lemmings1 Black Tears5
-free
-3 Six1 Heart of Wilderness1 Heroes To Us5
-making
-4 Masses Of A Dying Breed1 Defeat5
-maybe
-2 In The Failing Hour2 Virus Of The Mind1 Temporary Borders5
-meme
-5 Redneck5
-carries
-5 Prisoner In Me5
-late
-5 Prisoner In Me5
-meother
-5 Redneck5
-meto
-4 Nothing1 Cypher Drone5
-msin
-5 Monochromatic Stains5
-nda
-5 Save Yourself5
-nemesis
-5 Nemesis5
-nly
-3 Last Breath1 Drawn to Black1 The Cleansing5
-nomore
-2 Lost Life2 Shadows In The Wasteland1 Demons5
+4 Grow Up, Peter Pan1 Lost Life1 Never hit you a storm6
+best
+3 Children Of Decedence3 Defeat6
+vile
+6 Rejection Role6
+borders
+6 Temporary Borders6
+soon
+2 Strike!1 Black Tears1 Black Tears1 The Last One For Life1 Passion And The Opera6
+moment
+2 In The Failing Hour1 Strike!1 Hold the Sword1 Blood in the Throne Room1 The Last One For Life5
 auf
 5 Blut im Auge5
-ofa
-2 Lemmings1 Masses Of A Dying Breed1 Monochromatic Stains1 Passion And The Opera5
-always
-3 Grow Up, Peter Pan1 Slaughter Of The Soul1 The Blind Leader5
-ofall
-2 Slaughter Of The Soul2 Godiva1 Cold5
-ofdeath
-3 Angel Soul2 Last Breath5
-ofhope
-3 Godiva1 Enemy Within1 Everytime I Die5
-oflife
-2 Hollow Heart2 Enemy Within1 Heart of Wilderness5
-once
-2 Lost Life1 Aurora Borealis1 Heart of Wilderness1 The Trapper5
-break
-2 Strike!2 Reflections1 Heart of Wilderness5
-onto
-4 Nothing1 When I'm in this state of mind 5
-imso
-4 Cognitive Note Of Discord1 Nothing5
-gets
-4 Everytime I Die1 Redneck5
-kind
-3 Rasputin2 Mirror Of Sins5
-breath
-5 Last Breath5
-children
-3 Children Of Decedence2 Slaughter Of The Soul5
-ords
-5 Hollow Heart4
-behold
-2 Everblack1 Virgin Soil1 Hold the Sword4
-cher
-4 Rasputin4
-eed
-4 Slaughter Of The Soul4
-everblack
-4 Everblack4
-calling
-2 Last Breath1 Nothing1 The Pursuit Of Vikings4
-gsying
-4 Living in Me4
-above
-2 Cold1 Kissing The Shadows1 Heroes To Us4
-meones
-4 Redneck4
-broken
-3 Nothing1 Everblack4
-lead
-2 Aurora Borealis2 The Blind Leader4
-acher
-4 Rasputin4
-acing
-4 Rejection Role4
-beast
-2 Heart of Wilderness2 Enemy Within4
-across
-3 Winterking1 The Pursuit Of Vikings4
-asi
-2 Shadows In The Wasteland1 Mirror Of Sins1 Temporary Borders4
-excuses
-4 Masses Of A Dying Breed4
-itends
-4 Cypher Drone4
-neg
-4 Nemesis4
-jarmo
-4 Heart of Wilderness4
-mirror
-4 Mirror Of Sins4
-drown
-2 Bloodsucking Kissing2 Judgement4
-friend
-3 Defeat1 War Eternal4
-chains
-3 Prisoner In Me1 Chains4
-keon
-4 Six4
-nodamn
-4 Six4
-ecause
-4 Save Yourself4
-byhis
-4 The Blind Leader4
-mming
-4 Lemmings4
-igive
-4 Relentless Chaos4
-fade
-2 Shadows In The Wasteland1 Frozen Angel1 Defeat4
-ith
-2 Strike!1 Hollow Heart1 The Trapper4
-kept
-3 Rasputin1 Fleshkiller4
-chorus
-2 Black Tears2 The Blind Leader4
-long
-3 The Trapper1 Rasputin4
-ndying
-4 Living in Me4
-isdying
-2 Living in Me2 Last Breath4
+enemy
+2 Demons1 Enemy Within1 Strike!1 Nemesis5
 listen
-4 Moon Of My Nights4
-fleshkiller
-4 Fleshkiller4
-refollows
-4 Save Yourself4
-kokko
-2 The Blind Leader1 Heart of Wilderness1 Hollow Heart4
-fallen
-2 Relentless Chaos1 New World Shadows1 Godiva4
-ihear
-1 Reflections1 Nothing1 The Last One For Life1 Shadows In The Wasteland4
-itried
-2 Temporary Borders1 Descending1 Cognitive Note Of Discord4
-myhead
-3 Six1 Defeat4
-music
-1 Black Tears1 Heart of Wilderness1 They Will Return1 Grow Up, Peter Pan4
-icannot
-2 Everytime I Die1 Temporary Borders1 The Sleeping Beauty4
-killing
-2 Templar2 Enemy Within4
-breathe
-3 Fleshkiller1 Defeat4
-lay
-2 Virgin Soil2 Moon Of My Nights4
-breathing
-4 Living in Me4
-fate
-1 Hold the Sword1 Never hit you a storm1 The Pursuit Of Vikings1 Descending4
-art
-4 Slaughter Of The Soul4
-monochromatic
-4 Monochromatic Stains4
-ofsin
-4 Slaughter Of The Soul4
-old
-2 Lost Life1 Heroes To Us1 Six4
-onher
-4 Six4
-loss
-2 Monochromatic Stains1 Heroes To Us1 Defeat4
-hesame
-4 Nemesis4
-oucan
-2 Lost Life2 Save Yourself4
-inour
-3 Nemesis1 The Wonders At Your Feet4
-point
+4 Moon Of My Nights1 Cognitive Note Of Discord5
+fluid
+2 Black Tears1 Black Tears1 Black Tears1 The Last One For Life5
+arms
+1 Rasputin1 Bloodsucking Kissing1 Against The Stream1 Everytime I Die1 The Last One For Life5
+blade
+2 Hold the Sword1 Prophetian1 Strike!1 The Last One For Life5
+failure
+5 Save Yourself5
+game
+2 Defeat1 Temporary Borders1 Everlasting Ward1 Heroes To Us5
+tide
+3 Prophetian1 The Pursuit Of Vikings1 Godiva5
+shattered
+2 Reflections1 Virgin Soil1 Alone1 Shadows In The Wasteland5
+curse
+4 Zombie Blood Curse1 Save Yourself5
+maybe
+2 In The Failing Hour2 Virus Of The Mind1 Temporary Borders5
+watching
+4 The Sleeping Beauty1 Strike!5
+dust
+2 Templar1 Strike!1 Lost Life1 Passion And The Opera5
+follows
+5 Save Yourself5
+kissing
+3 Kissing The Shadows2 Living in Me5
+sin
+2 Slaughter Of The Soul2 The Cleansing1 Prisoner In Me5
+skin
+2 Bloodsucking Kissing1 The Trapper1 Six1 Marianas Trench5
+show
+2 Hold the Sword2 Bloodsucking Kissing1 Masses Of A Dying Breed5
+crying
+3 Virgin Soil1 Black Tears1 Black Tears5
+trust
+2 Prisoner In Me1 Rejection Role1 Nothing1 Monochromatic Stains5
+puolakanaho
+2 Prophetian2 The Last One For Life1 Heart of Wilderness5
+grief
+2 Temporary Borders1 Black Tears1 Black Tears1 Nothing5
+final
+2 Slaughter Of The Soul1 The Last One For Life1 Judgement1 Cold5
+today
+2 Heroes To Us2 Last Breath1 New World Shadows5
+turn
+2 The Wonders At Your Feet2 Six1 Enemy Within5
+louder
+2 Rasputin1 Hollow Heart1 Drawn to Black1 The Wonders At Your Feet5
+walking
+2 Children Of Decedence2 Zombie Blood Curse1 Shotgun Symphony5
+fingers
+2 Against The Stream1 Monochromatic Stains1 Everytime I Die1 Defeat5
+everblack
+5 Everblack5
+because
+5 Save Yourself5
+ready
+2 Hold the Sword2 In The Failing Hour1 Judgement5
+confused
+4 Cognitive Note Of Discord1 Relentless Chaos5
+nemesis
+5 Nemesis5
+taste
+3 Children Of Decedence1 Bloodsucking Kissing1 Six5
+being
+1 Against The Stream1 Relentless Chaos1 Living in Me1 War Eternal1 Marianas Trench5
+jarmo
+2 Prophetian2 The Last One For Life1 Heart of Wilderness5
+desire
+3 Bloodsucking Kissing1 Rasputin1 Relentless Chaos5
+despair
+2 Against The Stream2 Burbot`s Revenge1 Drawn to Black5
+edge
+2 Shotgun Symphony1 Black Tears1 Moon Of My Nights1 Survival (The Chariot)5
+lose
+2 Redneck2 Never hit you a storm1 Heart of Wilderness5
+choices
+5 Save Yourself5
+saw
+4 Lemmings1 Dream5
+winterking
+5 Winterking5
+searching
+2 Mirror Of Sins1 The Trapper1 Chains1 Lake Bodom5
+damned
+2 Winterking1 Everlasting Ward1 Judgement1 Descending5
+form
+2 Strike!2 Hold the Sword1 Masses Of A Dying Breed5
+temporary
+5 Temporary Borders5
+part
+2 Shotgun Symphony2 Virus Of The Mind1 Beyond The Dark Sun5
+line
+2 Kissing The Shadows1 Prophetian1 Blood in the Throne Room1 In The Failing Hour5
+byliuuzaki
+1 Aurora Borealis1 Strike!1 Everlasting Ward1 Hold the Sword1 The Sleeping Beauty5
+chaos
+2 Relentless Chaos2 Lake Bodom1 Lemmings5
+door
+1 Virgin Soil1 Enemy Within1 Lost Life1 Grow Up, Peter Pan1 Shotgun Symphony5
+whole
+2 Drawn to Black2 In The Failing Hour1 Everblack5
+across
+3 Winterking1 Temporary Borders1 The Pursuit Of Vikings5
+swords
+3 The Pursuit Of Vikings1 Templar1 Marianas Trench5
+remains
+2 Lost Life2 Virus Of The Mind1 Virgin Soil5
+standing
+2 Shotgun Symphony1 Rasputin1 Survival (The Chariot)1 The Pursuit Of Vikings5
+empty
+1 Hollow Heart1 Enemy Within1 Blood in the Throne Room1 The Last One For Life1 Defeat5
+speak
+3 Fleshkiller1 Hollow Heart1 Judgement5
+darkened
+1 Aurora Borealis1 Beyond The Dark Sun1 The Last One For Life1 The Cleansing1 Shadows In The Wasteland5
+found
+1 Prophetian1 Virgin Soil1 Hold the Sword1 Against The Stream1 Descending5
+vision
+3 Prophetian1 Relentless Chaos1 Lake Bodom5
+gain
+3 Virgin Soil1 Temporary Borders1 Strike!5
+mine
+2 Temporary Borders1 Virgin Soil1 Dream1 Grow Up, Peter Pan5
+heartfull
+5 Save Yourself5
+losing
+3 War Eternal1 Aurora Borealis1 Demons4
+curve
 4 Lemmings4
-poison
-3 Cold1 Rasputin4
-purgatory
-4 Blinded By Fear4
 queen
 4 Rasputin4
-reach
-2 Godiva1 Heart of Wilderness1 Defeat4
-reality
-3 Hollow Heart1 The Cleansing4
-louder
-2 Hollow Heart2 Rasputin4
-remember
-3 War Eternal1 Relentless Chaos4
-rollhammaren
-4 Trollhammaren4
-dire
-4 Godiva4
-russian
-4 Rasputin4
-scars
-3 Cold1 Demons4
-hen
-2 Bodom After Midnight1 When I'm in this state of mind 1 Godiva4
-sdying
-4 Last Breath4
-search
-3 War Eternal1 The Wonders At Your Feet4
-didn
-2 Moon Of My Nights1 Rasputin1 In The Failing Hour4
-shadows
-2 Shadows In The Wasteland1 Temporary Borders1 Angel Soul4
-devil
-2 Save Yourself2 Passion And The Opera4
-ships
-4 The Pursuit Of Vikings4
-itall
-1 When I'm in this state of mind 1 Heart of Wilderness1 Rasputin1 Shotgun Symphony4
-silent
-3 Godiva1 Grow Up, Peter Pan4
-skilled
-4 Last Breath4
-sky
-2 Living in Me2 Last Breath4
-snever
-4 Lost Life4
-sno
-2 Save Yourself1 Bloodsucking Kissing1 Nothing4
-trike
-4 Strike!4
-something
-3 Beyond The Dark Sun1 Rasputin4
-hedied
-4 Last Breath4
-treal
-4 Prisoner In Me4
+quicker
+4 Marianas Trench4
+son
+1 Virgin Soil1 Rasputin1 Lake Bodom1 Save Yourself4
+deeper
+2 Marianas Trench1 Chains1 The Wonders At Your Feet4
+pure
+2 Strike!2 Shotgun Symphony4
+sand
+2 Against The Stream1 Prophetian1 Shadows In The Wasteland4
+cutting
+3 Winterking1 Enemy Within4
+beautiful
+3 Angel Soul1 New World Shadows4
+knights
+3 Godiva1 Winterking4
+touching
+2 Bloodsucking Kissing1 Kissing The Shadows1 Lost Life4
+faith
+3 Reflections1 Templar4
+along
+2 The Trapper1 The Last One For Life1 Grow Up, Peter Pan4
+sees
+2 Last Breath1 Prophetian1 Hold the Sword4
+sight
+2 Passion And The Opera1 Everblack1 Monochromatic Stains4
+insane
+1 Everlasting Ward1 Dream1 Chains1 Virus Of The Mind4
+sometimes
+2 Cognitive Note Of Discord1 Black Tears1 Black Tears4
+worthless
+3 Chains1 Drawn to Black4
+blow
+2 Everytime I Die1 Fleshkiller1 The Pursuit Of Vikings4
+mark
+3 Grow Up, Peter Pan1 Lost Life4
+dancing
+3 The Sleeping Beauty1 Strike!4
+inner
+3 Zombie Blood Curse1 Everlasting Ward4
+altti
+2 The Last One For Life1 Prophetian1 Heart of Wilderness4
+leaves
+1 Temporary Borders1 Winterking1 Angel Soul1 Demons4
+bloody
+2 Lake Bodom1 Enemy Within1 Strike!4
+destroy
+2 Lake Bodom1 Black Tears1 Black Tears4
+purgatory
+4 Blinded By Fear4
+drains
+2 Black Tears1 Black Tears1 Black Tears4
+shot
+3 Children Of Decedence1 Rasputin4
+sweet
+1 Bloodsucking Kissing1 The Last One For Life1 Blinded By Fear1 Defeat4
+onential
+4 Lemmings4
+seeking
+4 Lemmings4
+lust
+1 Monochromatic Stains1 Everytime I Die1 Grow Up, Peter Pan1 Passion And The Opera4
+else
+1 Temporary Borders1 Cypher Drone1 Save Yourself1 Grow Up, Peter Pan4
+yer
+3 Children Of Decedence1 Kissing The Shadows4
+late
+3 Prisoner In Me1 Temporary Borders4
+terror
+2 Zombie Blood Curse1 Rasputin1 Cold4
+keeps
+3 Winterking1 Shotgun Symphony4
+well
+1 The Trapper1 Rejection Role1 Defeat1 Descending4
+ending
+1 Virgin Soil1 Hold the Sword1 Frozen Angel1 Shotgun Symphony4
+helpless
+3 Zombie Blood Curse1 Enemy Within4
+each
+1 Virgin Soil1 Monochromatic Stains1 Grow Up, Peter Pan1 In The Failing Hour4
+yours
+3 Fleshkiller1 Grow Up, Peter Pan4
+lines
+2 Against The Stream1 Monochromatic Stains1 War Eternal4
+machine
+3 Rasputin1 Rejection Role4
+beneath
+2 Angel Soul1 Temporary Borders1 Grow Up, Peter Pan4
+second
+2 Everblack1 Strike!1 Save Yourself4
+hidden
+1 Prophetian1 Heart of Wilderness1 Moon Of My Nights1 Rasputin4
+drops
+4 Lemmings4
+drown
+2 Bloodsucking Kissing2 Judgement4
+monochromatic
+4 Monochromatic Stains4
+written
+1 Aurora Borealis1 Hold the Sword1 Heroes To Us1 The Pursuit Of Vikings4
+tired
+2 Slaughter Of The Soul1 Winterking1 Beyond The Dark Sun4
+bleeding
+3 Children Of Decedence1 Hold the Sword4
+become
+3 Marianas Trench1 Beyond The Dark Sun4
+rid
+3 Cold1 Cypher Drone4
+exp
+4 Lemmings4
+demise
+2 Everytime I Die1 Masses Of A Dying Breed1 Monochromatic Stains4
+bleak
+2 Black Tears1 Black Tears1 Everlasting Ward4
 map
 4 Lemmings4
-star
-2 Heart of Wilderness1 Aurora Borealis1 Living in Me4
-keep
-2 Aurora Borealis1 Hollow Heart1 Bodom After Midnight4
-inevitable
-4 Defeat4
-sympathy
-4 Godiva4
-isturning
-3 Reflections1 Godiva4
-tears
-2 Nothing1 Heart of Wilderness1 Reflections4
-thoughts
-3 Enemy Within1 Relentless Chaos4
-toget
-1 Kissing The Shadows1 The Trapper1 Grow Up, Peter Pan1 Judgement4
+evil
+2 The Cleansing1 Temporary Borders1 Dream4
 leader
 3 Monochromatic Stains1 Everblack4
+sea
+2 Against The Stream2 The Pursuit Of Vikings4
+waves
+2 Marianas Trench1 Against The Stream1 The Pursuit Of Vikings4
+behold
+2 Everblack1 Virgin Soil1 Hold the Sword4
+search
+3 War Eternal1 The Wonders At Your Feet4
+escape
+2 Shotgun Symphony1 Demons1 The Cleansing4
+ships
+4 The Pursuit Of Vikings4
+blackened
+3 Reflections1 Never hit you a storm4
+bjorler
+2 Slaughter Of The Soul1 Blinded By Fear1 Cold4
+havens
+4 Temporary Borders4
+died
+2 Last Breath2 Judgement4
+afraid
+2 Kissing The Shadows1 Winterking1 The Wonders At Your Feet4
+swan
+4 Black Tears4
+making
+2 Masses Of A Dying Breed1 Grow Up, Peter Pan1 Defeat4
+breeze
+1 Temporary Borders1 Nothing1 Last Breath1 The Pursuit Of Vikings4
+fleshkiller
+4 Fleshkiller4
+mourning
+4 Lemmings4
+cheek
+2 Black Tears1 Black Tears1 Black Tears4
+human
+2 Heroes To Us1 They Will Return1 Alone4
+stones
+2 Redneck1 Relentless Chaos1 Drawn to Black4
+stop
+2 Demons1 Bloodsucking Kissing1 Descending4
+icy
+1 Winterking1 Moon Of My Nights1 Burbot`s Revenge1 The Pursuit Of Vikings4
+storm
+2 Judgement1 Drawn to Black1 Shadows In The Wasteland4
+wall
+3 War Eternal1 Heart of Wilderness4
+command
+3 Chains1 Everblack4
+storms
+3 The Pursuit Of Vikings1 Everlasting Ward4
+since
+2 Everblack1 Temporary Borders1 Grow Up, Peter Pan4
+shine
+2 Cold Embrace1 Bodom After Midnight1 Angel Soul4
+vain
+2 Winterking1 Virgin Soil1 Defeat4
+ghost
+3 The Sleeping Beauty1 Reflections4
+hollow
+3 Hollow Heart1 Temporary Borders4
+convey
+3 Godiva1 Fleshkiller4
+apart
+2 Slaughter Of The Soul1 Nothing1 The Last One For Life4
+couldn
+3 Children Of Decedence1 Cognitive Note Of Discord4
+stands
+2 Strike!1 Virgin Soil1 Lost Life4
+cleansing
+4 The Cleansing4
+stare
+2 Aurora Borealis1 Reflections1 Shotgun Symphony4
+force
+3 Winterking1 Slaughter Of The Soul4
+burns
+2 Children Of Decedence1 Nemesis1 Bodom After Midnight4
+less
+3 Children Of Decedence1 Monochromatic Stains4
+close
+2 Moon Of My Nights1 Redneck1 The Sleeping Beauty4
+closing
+2 In The Failing Hour1 Survival (The Chariot)1 Cold4
+unseen
+2 Strike!1 Drawn to Black1 Demons4
+chorus
+2 Black Tears2 The Blind Leader4
+gates
+2 Moon Of My Nights1 Slaughter Of The Soul1 Rejection Role4
+poison
+2 Cold1 Rasputin1 Grow Up, Peter Pan4
+glass
+2 Mirror Of Sins2 Redneck4
+angels
+3 The Sleeping Beauty1 Virgin Soil4
+stand
+2 Nemesis1 Mirror Of Sins1 The Trapper4
+looked
+2 Beyond The Dark Sun1 Rasputin1 The Last One For Life4
+reign
+3 Winterking1 Fleshkiller4
+wilderness
+3 Heart of Wilderness1 They Will Return4
+holy
+2 Templar1 Virgin Soil1 Rasputin4
+inen
+2 The Last One For Life1 Prophetian1 Heart of Wilderness4
+vetel
+2 The Last One For Life1 Prophetian1 Heart of Wilderness4
+woods
+3 Prophetian1 Tapiola4
+brave
+1 Aurora Borealis1 Templar1 Temporary Borders1 Virus Of The Mind4
 tree
 4 Living in Me4
+cross
+2 Templar2 Kissing The Shadows4
+cover
+1 Black Tears1 Prophetian1 Children Of Decedence1 Lost Life4
+antti
+1 Prophetian1 Heart of Wilderness1 Heroes To Us1 The Last One For Life4
+inevitable
+4 Defeat4
+preach
+3 Children Of Decedence1 Rasputin4
+cast
+2 Fleshkiller2 Blinded By Fear4
 trespassing
 4 Temporary Borders4
-ineed
-4 The Cleansing4
-trust
-2 Prisoner In Me1 Rejection Role1 Monochromatic Stains4
-tsfull
-4 Descending4
-head
-2 Rasputin1 Six1 Defeat4
-wait
-2 The Trapper2 Descending4
-wedie
-4 Frozen Angel4
-wefade
-4 Frozen Angel4
-wehave
-2 Heart of Wilderness2 Marianas Trench4
-wenever
-4 Lemmings4
-weve
-2 Marianas Trench2 Virus Of The Mind4
-white
-3 Winterking1 Angel Soul4
-within
-1 Hollow Heart1 Enemy Within1 Prisoner In Me1 Survival (The Chariot)4
-inbrutal
-4 The Pursuit Of Vikings4
-yhate
-4 Slaughter Of The Soul3
-iwish
-2 Six1 Temporary Borders3
-ashining
-3 Godiva3
-aside
-3 Blinded By Fear3
-miss
-3 Lemmings3
-asign
-3 Godiva3
-imnothing
-3 Nothing3
-new
-1 Nemesis1 Cold1 Godiva3
-ngin
-3 Cold3
-feet
-2 Lemmings1 Never hit you a storm3
+russian
+4 Rasputin4
+hour
+2 Passion And The Opera1 Lost Life1 In The Failing Hour4
+crush
+3 War Eternal1 The Wonders At Your Feet4
+music
+1 Black Tears1 Heart of Wilderness1 They Will Return1 Grow Up, Peter Pan4
+russia
+4 Rasputin4
+carries
+2 Kissing The Shadows1 Prisoner In Me1 The Pursuit Of Vikings4
+creatures
+2 Virgin Soil2 Last Breath4
+carry
+2 Bloodsucking Kissing1 Black Tears1 Black Tears3
 mon
 3 Children Of Decedence3
-asyou
-2 Moon Of My Nights1 Hold the Sword3
-ifear
-2 Nothing1 Heart of Wilderness3
-great
-1 Rasputin1 Tapiola1 Defeat3
-isfree
-3 Heart of Wilderness3
-fight
-2 Hold the Sword1 Nemesis3
-fill
-3 Hollow Heart3
-filled
-2 Hollow Heart1 Rejection Role3
-cave
-3 Monochromatic Stains3
-filth
-2 The Cleansing1 Cold3
-fine
-3 Rasputin3
-llaccept
-3 In The Failing Hour3
-fingers
-2 Monochromatic Stains1 Defeat3
-myvoice
-3 Prisoner In Me3
-first
-1 Strike!1 Drawn to Black1 Passion And The Opera3
-must
-3 Slaughter Of The Soul3
-axes
-3 The Pursuit Of Vikings3
-myblackened
-3 Reflections3
-dwells
-3 Enemy Within3
-become
-3 Marianas Trench3
-narrow
-2 Everblack1 The Trapper3
-clean
-3 The Cleansing3
-before
-2 Moon Of My Nights1 The Trapper3
-knights
-3 Godiva3
-cleansing
-3 The Cleansing3
-fluid
-2 Black Tears1 When I'm in this state of mind 3
-being
-1 Living in Me1 War Eternal1 Marianas Trench3
-isjust
-1 When I'm in this state of mind 1 Chains1 Shotgun Symphony3
-ikeep
-2 Prisoner In Me1 When I'm in this state of mind 3
-beneath
-2 Angel Soul1 Grow Up, Peter Pan3
-forests
-3 Tapiola3
-air
-3 Winterking3
-ofof
-3 Tapiola3
-inrank
-3 The Blind Leader3
-best
-3 Defeat3
-ofteacher
-3 Rasputin3
-dream
-1 Heart of Wilderness1 Hollow Heart1 Cold3
-inpeaceless
-3 Godiva3
-ofyour
-2 The Cleansing1 Moon Of My Nights3
-inthis
-2 Dream1 Strike!3
-hits
-3 Grow Up, Peter Pan3
-onnothing
-3 Nothing3
-onvey
-3 Godiva3
-onyour
-1 Slaughter Of The Soul1 Everblack1 Monochromatic Stains3
-hole
-2 Hollow Heart1 Everblack3
-orfreedom
-3 Nemesis3
-iland
-3 Prophetian3
-gthe
-3 Nemesis3
-oul
-2 Monochromatic Stains1 Passion And The Opera3
-comes
-2 Reflections1 Nothing3
-patterns
-2 Slaughter Of The Soul1 Shadows In The Wasteland3
-perfect
-2 Save Yourself1 Strike!3
-philistine
-3 Nemesis3
-loud
-3 Prisoner In Me3
-hadowbeast
-3 Enemy Within3
-birds
-3 Angel Soul3
-prisoner
-2 Prisoner In Me1 Heart of Wilderness3
-promise
-3 Godiva3
-imthe
-1 Everblack1 Rejection Role1 Save Yourself3
-oden
-3 The Pursuit Of Vikings3
-rage
-3 Godiva3
-distant
-2 Heart of Wilderness1 Shadows In The Wasteland3
-heroes
-2 Heroes To Us1 Tapiola3
-adamn
-3 The Blind Leader3
-istare
-2 Aurora Borealis1 Reflections3
-reams
-3 Godiva3
-ble
-3 Defeat3
-reeling
-3 Six3
-disease
-2 Cold1 Fleshkiller3
-eare
-2 Lemmings1 Dream3
-freedom
-1 Enemy Within1 Nemesis1 Prisoner In Me3
-ride
-3 Godiva3
-leave
-2 Winterking1 Fleshkiller3
-frost
-3 Winterking3
-ina
-2 Living in Me1 Shadows In The Wasteland3
-rts
-3 Cold3
-russia
-3 Rasputin3
-mefeel
-3 Prisoner In Me3
-sah
-3 Blut im Auge3
-ding
-3 Rasputin3
-sburning
-3 The Trapper3
-meft
-3 Hollow Heart3
-tochange
-2 Lost Life1 Living in Me3
-screaming
-3 Prisoner In Me3
-kill
-2 Bodom After Midnight1 Descending3
-myhollow
-3 Hollow Heart3
-bloody
-2 Enemy Within1 Strike!3
-searching
-2 Mirror Of Sins1 The Trapper3
-send
-3 The Blind Leader3
-sgreatest
-3 Rasputin3
-iever
-3 Defeat3
-myinsides
-3 Cold3
-shake
-3 Grow Up, Peter Pan3
-ismy
-2 Descending1 When I'm in this state of mind 3
-ireally
-3 Rejection Role3
-lash
-3 Monochromatic Stains3
-show
-2 Masses Of A Dying Breed1 Hold the Sword3
-shst
-3 Monochromatic Stains3
-loads
-3 Grow Up, Peter Pan3
-inhis
-2 Strike!1 Rasputin3
-skies
-2 Angel Soul1 Shadows In The Wasteland3
-gates
-2 Rejection Role1 Slaughter Of The Soul3
-lover
-3 Rasputin3
-skis
-3 The Trapper3
-isall
-2 Relentless Chaos1 The Blind Leader3
-sleeps
-3 Angel Soul3
-smile
-3 Grow Up, Peter Pan3
-escars
-3 Cold3
-edays
-3 Living in Me3
-soc
-3 Children Of Decedence3
-npeaceless
-3 Godiva3
-isn
-3 Prisoner In Me3
-son
-2 Rasputin1 Grow Up, Peter Pan3
-alive
-2 Survival (The Chariot)1 Zombie Blood Curse3
-sotake
-3 Fleshkiller3
-souls
-2 Judgement1 Nemesis3
-ichoke
-3 Six3
 spears
 3 The Pursuit Of Vikings3
-ghe
-3 Nemesis3
-breeze
-1 Nothing1 Last Breath1 The Pursuit Of Vikings3
-stars
-2 Heart of Wilderness1 Everytime I Die3
+lover
+3 Rasputin3
+glance
+2 Children Of Decedence1 Winterking3
+takin
+3 Cold Embrace3
+drunk
+2 Bloodsucking Kissing1 Redneck3
+throne
+3 Blood in the Throne Room3
+shame
+1 Rasputin1 Never hit you a storm1 Save Yourself3
+heaven
+2 Marianas Trench1 Prophetian3
+hearts
+1 Hold the Sword1 The Wonders At Your Feet1 Cold3
+glory
+2 Judgement1 Templar3
+spreading
+2 Virus Of The Mind1 Grow Up, Peter Pan3
+lash
+3 Monochromatic Stains3
+hordes
+3 Winterking3
+eternity
+2 Cypher Drone1 Last Breath3
+skills
+3 Chains3
+memory
+1 Temporary Borders1 Rejection Role1 Demons3
+spirit
+2 Templar1 They Will Return3
+higher
+1 Rasputin1 Relentless Chaos1 The Wonders At Your Feet3
+stain
+3 The Cleansing3
+future
+1 Cypher Drone1 Everblack1 Bloodsucking Kissing3
+house
+2 Redneck1 Lost Life3
+gets
+2 Everytime I Die1 Redneck3
+stained
+2 Templar1 The Last One For Life3
+getting
+1 Rejection Role1 Against The Stream1 Cognitive Note Of Discord3
+moonlight
+2 Dream1 Children Of Decedence3
+ghosts
+1 Cypher Drone1 Reflections1 Lost Life3
+tag
+2 Blut im Auge1 Trollhammaren3
+gimme
+3 Children Of Decedence3
+sah
+3 Blut im Auge3
+girl
+1 Rasputin1 Drawn to Black1 Grow Up, Peter Pan3
+front
+2 Hold the Sword1 Cold Embrace3
+slow
+2 Zombie Blood Curse1 Virus Of The Mind3
+hell
+2 Save Yourself1 Virgin Soil3
+giving
+2 Against The Stream1 The Trapper3
+freedom
+1 Enemy Within1 Nemesis1 Prisoner In Me3
+slipping
+2 Against The Stream1 Defeat3
+ears
+2 Judgement1 They Will Return3
+known
+1 Virgin Soil1 Rasputin1 Shadows In The Wasteland3
+taking
+2 Mirror Of Sins1 Defeat3
+embrace
+1 Hold the Sword1 Bloodsucking Kissing1 Cold Embrace3
+must
+2 Slaughter Of The Soul1 Redneck3
+story
+1 Cypher Drone1 Moon Of My Nights1 Shotgun Symphony3
+slaughter
+2 Slaughter Of The Soul1 Everblack3
+met
+3 Defeat3
+filth
+2 The Cleansing1 Cold3
+fill
+3 Hollow Heart3
+mighty
+2 Templar1 The Blind Leader3
+hole
+2 Hollow Heart1 Burbot`s Revenge3
+fades
+2 Judgement1 Zombie Blood Curse3
+grass
+2 Moon Of My Nights1 They Will Return3
+stuck
+2 Lost Life1 Burbot`s Revenge3
+som
+3 Trollhammaren3
+failed
+1 Rejection Role1 Judgement1 The Cleansing3
+mud
+3 Children Of Decedence3
+faint
+2 In The Failing Hour1 Everytime I Die3
+near
+2 Judgement1 Bloodsucking Kissing3
+hits
+3 Grow Up, Peter Pan3
+narrow
+2 Everblack1 The Trapper3
+simply
+3 Cognitive Note Of Discord3
+names
+2 Redneck1 The Wonders At Your Feet3
+strength
+2 Burbot`s Revenge1 Bloodsucking Kissing3
+naked
+2 Virgin Soil1 Passion And The Opera3
+great
+1 Rasputin1 Tapiola1 Defeat3
+fateful
+1 Reflections1 Living in Me1 Drawn to Black3
+greatest
+3 Rasputin3
+fast
+1 Temporary Borders1 Against The Stream1 Relentless Chaos3
+meaningless
+2 Hollow Heart1 Judgement3
+fashion
+3 Grow Up, Peter Pan3
+hit
+3 Cognitive Note Of Discord3
+rotting
+3 Children Of Decedence3
+enemies
+2 Judgement1 Rasputin3
+engraved
+3 Fleshkiller3
+kind
+2 Mirror Of Sins1 Rasputin3
+rotten
+2 Zombie Blood Curse1 Temporary Borders3
+fool
+1 Temporary Borders1 Masses Of A Dying Breed1 Six3
+smiles
+1 Kissing The Shadows1 Hold the Sword1 The Sleeping Beauty3
+surrounding
+1 Kissing The Shadows1 Hollow Heart1 Living in Me3
+honor
+3 Hold the Sword3
+haunts
+1 Nothing1 Last Breath1 Six3
+sins
+3 Mirror Of Sins3
 steady
 3 Grow Up, Peter Pan3
-stones
-2 Redneck1 Relentless Chaos3
-demanding
-3 Rasputin3
-ithis
-2 Black Tears1 Alone3
-meand
-3 Defeat3
-such
-1 Blut im Auge1 Such ich sie bei Nacht' die Wei?e1 Rasputin3
+flying
+1 Temporary Borders1 Bodom After Midnight1 Everytime I Die3
+eternal
+2 War Eternal1 Heart of Wilderness3
+hiltula
+1 Prophetian1 Heart of Wilderness1 The Last One For Life3
+may
+1 Prophetian1 Bodom After Midnight1 Relentless Chaos3
+goodbye
+1 Bloodsucking Kissing1 Lost Life1 Six3
+flames
+2 Aurora Borealis1 Lake Bodom3
+sown
+3 Slaughter Of The Soul3
+nest
+3 Prophetian3
 suicidal
 2 Slaughter Of The Soul1 Blinded By Fear3
-gilistine
-3 Nemesis3
-swim
-3 Marianas Trench3
-icouldn
-3 Children Of Decedence3
-tapiola
-3 Tapiola3
-aman
-1 The Blind Leader1 Monochromatic Stains1 Lost Life3
-amongst
-3 Godiva3
-isnot
-2 Prisoner In Me1 Living in Me3
-dawn
-2 The Trapper1 Beyond The Dark Sun3
-dance
-2 Grow Up, Peter Pan1 Angel Soul3
-todo
-2 Rasputin1 In The Failing Hour3
-amwaiting
-3 Rejection Role3
-mebefore
-3 Prisoner In Me3
-toour
-3 The Blind Leader3
-torid
-3 Cold3
-isnow
-3 Shotgun Symphony3
-touch
-2 Godiva1 Grow Up, Peter Pan3
-toyou
-3 Grow Up, Peter Pan3
-healer
-3 Rasputin3
-burns
-2 Children Of Decedence1 Nemesis3
-aneye
-1 Virgin Soil1 Nemesis1 Lemmings3
-machine
-3 Rasputin3
-angels
-3 The Sleeping Beauty3
-true
-2 Judgement1 Prisoner In Me3
-locks
-3 Grow Up, Peter Pan3
-truth
-2 Shotgun Symphony1 Heart of Wilderness3
-cry
-3 Fleshkiller3
-ido
-2 Lost Life1 Frozen Angel3
-ttry
-3 Children Of Decedence3
-twant
-3 Reflections3
-twisted
-2 The Blind Leader1 Shadows In The Wasteland3
-earth
-2 Cold1 Nemesis3
-upon
-2 Virgin Soil1 The Wonders At Your Feet3
-upto
-2 Descending1 Defeat3
-usthrough
+grace
+2 In The Failing Hour1 Grow Up, Peter Pan3
+stopped
+3 Zombie Blood Curse3
+sound
+1 Strike!1 Bloodsucking Kissing1 They Will Return3
+secrets
+1 Black Tears1 Black Tears1 Moon Of My Nights3
+moves
+2 Strike!1 The Trapper3
+laiho
+1 Kissing The Shadows1 Bodom After Midnight1 Everytime I Die3
+hard
+1 Temporary Borders1 Burbot`s Revenge1 Relentless Chaos3
+tore
+1 Blut im Auge1 Everlasting Ward1 Nothing3
+clear
+3 Winterking3
+axes
 3 The Pursuit Of Vikings3
-vanity
-2 Hollow Heart1 Godiva3
+battle
+1 Strike!1 Winterking1 Bodom After Midnight3
+pace
+2 Strike!1 Living in Me3
+decadence
+3 Children Of Decedence3
+dear
+2 Moon Of My Nights1 Rasputin3
+people
+2 Rasputin1 Lost Life3
+daylight
+1 Temporary Borders1 Zombie Blood Curse1 Judgement3
+promise
+3 Godiva3
+danger
+3 War Eternal3
+rebellion
+3 Children Of Decedence3
+torture
+1 Black Tears1 Black Tears1 Hollow Heart3
+total
+2 Descending1 Strike!3
+beast
+2 Enemy Within1 Heart of Wilderness3
+closer
+3 Children Of Decedence3
+touch
+1 Bloodsucking Kissing1 Grow Up, Peter Pan1 Godiva3
+whispers
+1 Reflections1 The Last One For Life1 Defeat3
+aside
+2 Blinded By Fear1 Hold the Sword3
+warriors
+2 Aurora Borealis1 Hold the Sword3
+phoenix
+3 Prophetian3
+desperate
+3 Zombie Blood Curse3
+til
+3 Children Of Decedence3
+choose
+2 Virus Of The Mind1 Heart of Wilderness3
+reflections
+3 Reflections3
+blue
+3 Winterking3
+ashes
+2 Templar1 Monochromatic Stains3
+town
+1 Heart of Wilderness1 Lemmings1 Grow Up, Peter Pan3
+loss
+1 Monochromatic Stains1 Heroes To Us1 Defeat3
+winter
+1 Children Of Decedence1 Lemmings1 The Pursuit Of Vikings3
+clean
+3 The Cleansing3
+blowing
+2 Everytime I Die1 Bloodsucking Kissing3
+autumn
+2 Moon Of My Nights1 Temporary Borders3
+delight
+2 Mirror Of Sins1 Passion And The Opera3
+learn
+2 Virus Of The Mind1 Heroes To Us3
+connect
+3 Prophetian3
+whats
+3 Rejection Role3
+prisoner
+2 Prisoner In Me1 Heart of Wilderness3
+blame
+2 Lost Life1 Rasputin3
+rest
+2 Moon Of My Nights1 Blood in the Throne Room3
+lindberg
+1 Slaughter Of The Soul1 Blinded By Fear1 Cold3
+trigger
+2 Shotgun Symphony1 Lemmings3
+wealth
+2 Hollow Heart1 The Blind Leader3
+trying
+1 Burbot`s Revenge1 Demons1 Descending3
+blaze
+2 Children Of Decedence1 Everytime I Die3
+birds
+3 Angel Soul3
+loud
+3 Prisoner In Me3
+conditions
+3 Marianas Trench3
+bitter
+2 Burbot`s Revenge1 Defeat3
+reeling
+3 Six3
+lots
+2 Judgement1 Rasputin3
+peaceless
+3 Godiva3
+revealed
+2 Shotgun Symphony1 Moon Of My Nights3
+painful
+2 Everytime I Die1 Chains3
+becomes
+1 Prophetian1 The Sleeping Beauty1 War Eternal3
+trace
+2 Everblack1 The Trapper3
+shades
+1 Cold Embrace1 Drawn to Black1 The Wonders At Your Feet3
+undone
+2 Frozen Angel1 Virgin Soil3
+crowd
+2 In The Failing Hour1 Lemmings3
+whip
+3 The Pursuit Of Vikings3
 creeps
 3 Winterking3
-voice
-2 Heart of Wilderness1 Nemesis3
-noi
-3 Descending3
-creation
-3 The Blind Leader3
+winterreal
+3 Winterking3
+creates
+2 Judgement1 The Blind Leader3
+begging
+2 Virus Of The Mind1 Relentless Chaos3
+begin
+1 Bloodsucking Kissing1 Zombie Blood Curse1 Save Yourself3
+pasi
+1 Prophetian1 Heart of Wilderness1 The Last One For Life3
+begins
+1 Winterking1 The Last One For Life1 Shotgun Symphony3
+ways
+2 Living in Me1 Slaughter Of The Soul3
+cradle
+2 Aurora Borealis1 Never hit you a storm3
+distant
+2 Heart of Wilderness1 Shadows In The Wasteland3
+agony
+2 Judgement1 Prisoner In Me3
+aim
+3 Grow Up, Peter Pan3
+release
+2 Blinded By Fear1 Cypher Drone3
+loads
+3 Grow Up, Peter Pan3
+raven
+3 Prophetian3
+called
+2 Shotgun Symphony1 Lake Bodom3
+pleas
+3 Zombie Blood Curse3
+brutal
+3 The Pursuit Of Vikings3
+wrong
+1 Bloodsucking Kissing1 Descending1 Virus Of The Mind3
+brings
+1 Aurora Borealis1 Winterking1 Blood in the Throne Room3
+ones
+1 Everblack1 Masses Of A Dying Breed1 Godiva3
+onto
+3 Prophetian3
+open
+1 Winterking1 Everlasting Ward1 Shadows In The Wasteland3
+disease
+1 Fleshkiller1 Blinded By Fear1 Cold3
+plague
+1 Rejection Role1 Demons1 Virus Of The Mind3
+abandoned
+1 Nothing1 The Wonders At Your Feet1 Marianas Trench3
+oden
+3 The Pursuit Of Vikings3
+zombie
+2 Zombie Blood Curse1 Lost Life3
+laws
+2 Strike!1 Heroes To Us3
+drink
+2 Bloodsucking Kissing1 Passion And The Opera3
+byjegvar
+1 Templar1 Zombie Blood Curse1 Judgement3
+ocean
+2 Against The Stream1 The Pursuit Of Vikings3
+visions
+2 Cold Embrace1 Shadows In The Wasteland3
+drawing
+2 Judgement1 Bloodsucking Kissing3
+act
+1 Hollow Heart1 Chains1 Cognitive Note Of Discord3
+changing
+2 Demons1 Cypher Drone3
+viper
+3 Prophetian3
+locks
+3 Grow Up, Peter Pan3
+telling
+2 In The Failing Hour1 Cypher Drone3
+longer
+2 Shotgun Symphony1 Cognitive Note Of Discord3
+doubt
+2 Virus Of The Mind1 Rasputin3
+violent
+2 Judgement1 Heroes To Us3
+relentless
+2 Relentless Chaos1 Against The Stream3
+bow
+1 Hold the Sword1 Survival (The Chariot)1 The Pursuit Of Vikings3
+operation
+3 Everblack3
 warmth
 3 Winterking3
-wecannot
-3 Marianas Trench3
-failing
-3 In The Failing Hour3
-faith
-3 Reflections3
-imjust
-2 Heart of Wilderness1 Lost Life3
-well
-1 Everblack1 Defeat1 Descending3
-arkness
-3 The Trapper3
-merage
-3 Godiva3
-whisper
-2 Enemy Within1 Grow Up, Peter Pan3
-bythe
-1 Moon Of My Nights1 Heroes To Us1 The Pursuit Of Vikings3
-indanger
-3 War Eternal3
-wish
-2 Six1 Passion And The Opera3
-mighty
-2 The Blind Leader1 Templar3
-net
-3 Burbot`s Revenge3
-inbeautiful
-3 Angel Soul3
-convey
-3 Godiva3
-years
-1 Strike!1 Beyond The Dark Sun1 Cold3
-fear
-3 Hold the Sword3
-hand
-2 The Last One For Life1 Grow Up, Peter Pan3
-inall
-1 Rasputin1 Living in Me1 Passion And The Opera2
-mymisery
-2 Relentless Chaos2
-mynever
-2 Save Yourself2
-mypain
-2 Slaughter Of The Soul2
-dsurvive
-2 Virus Of The Mind2
-myshame
-2 Save Yourself2
-myshattered
-2 Reflections2
-drun
-2 Save Yourself2
-hide
-2 Passion And The Opera2
-mystomach
-2 Six2
-mytired
-2 Slaughter Of The Soul2
-mywealth
-2 Hollow Heart2
-llbe
-2 Survival (The Chariot)2
-ndkeep
-2 Aurora Borealis2
-needed
-2 Save Yourself2
-needle
-2 Cold2
-llnever
-2 Children Of Decedence2
-nemy
-2 Enemy Within2
-drowning
-2 Marianas Trench2
-hidden
-1 Prophetian1 Heart of Wilderness2
-nieder
-2 Blut im Auge2
-nightfall
-2 Cypher Drone2
-nightly
-1 Aurora Borealis1 Reflections2
-nights
-1 Nothing1 Shotgun Symphony2
-lls
-2 Enemy Within2
-noeye
-2 Virgin Soil2
-lndjove
-2 Frozen Angel2
-norther
-2 Last Breath2
-notruth
-2 Godiva2
-noword
-2 Godiva2
-nsthe
-2 Nemesis2
-nthe
-1 Strike!1 In The Failing Hour2
-number
-2 Living in Me2
-ofeternity
-2 Last Breath2
-offering
-2 Relentless Chaos2
-edom
-2 Nemesis2
-iend
-2 Defeat2
-hing
-1 Living in Me1 Virus Of The Mind2
-ithurts
-2 Save Yourself2
-ofmyself
-2 Relentless Chaos2
-holy
-2 Rasputin2
-kes
-2 Nothing2
-accepts
-2 Virus Of The Mind2
-inyour
-1 Virgin Soil1 Enemy Within2
-else
-2 Save Yourself2
-key
-2 In The Failing Hour2
-oftoday
-2 Heroes To Us2
-ofways
-2 Living in Me2
-ofyou
-1 Temporary Borders1 Monochromatic Stains2
-hot
-2 The Cleansing2
-ofyourself
-2 Masses Of A Dying Breed2
-ogy
-2 The Blind Leader2
-ohmy
-2 Prisoner In Me2
-larsson
-1 Black Tears1 Cold2
-looking
-1 Hollow Heart1 Lost Life2
-ones
-1 Everblack1 Godiva2
-kfeel
-2 Slaughter Of The Soul2
-door
-1 Enemy Within1 Lost Life2
-adestroyer
-2 Virus Of The Mind2
-onqueror
-2 The Blind Leader2
-ont
-1 The Blind Leader1 Rejection Role2
-hesees
-2 Last Breath2
-lord
-2 Prisoner In Me2
-hrough
-2 Strike!2
-enemy
-1 Enemy Within1 Nemesis2
-oon
-2 Moon Of My Nights2
-afake
-2 In The Failing Hour2
-orever
-2 Living in Me2
-afalling
-2 Heart of Wilderness2
-ipull
-2 Shotgun Symphony2
-orthrow
-2 Redneck2
-human
-1 Heroes To Us1 They Will Return2
-ouch
-2 Godiva2
-afool
-2 Masses Of A Dying Breed2
-hildren
-2 Slaughter Of The Soul2
-ove
-2 Living in Me2
-aforced
-2 In The Failing Hour2
-inorder
-2 Slaughter Of The Soul2
-afraid
-1 Winterking1 The Wonders At Your Feet2
-pekka
-2 Heroes To Us2
-against
-1 Enemy Within1 Godiva2
-persevere
-2 Survival (The Chariot)2
-hurts
-2 Save Yourself2
-piece
-1 Heart of Wilderness1 Monochromatic Stains2
-play
-2 Lost Life2
-playing
-2 Passion And The Opera2
-agift
-2 Heroes To Us2
-iain
-2 Redneck2
-erotic
-2 Passion And The Opera2
-poor
-2 Templar2
-power
-1 When I'm in this state of mind 1 Rasputin2
+anymore
+1 Redneck1 Chains1 Alone3
+devil
+1 Zombie Blood Curse1 Save Yourself1 Passion And The Opera3
+vanity
+2 Hollow Heart1 Godiva3
+seek
+2 Passion And The Opera1 Heart of Wilderness3
+warm
+2 Bloodsucking Kissing1 Beyond The Dark Sun3
 pray
-2 Marianas Trench2
-erything
-2 Masses Of A Dying Breed2
-ibreathe
+2 Marianas Trench1 Judgement3
+breaking
+2 Cypher Drone1 Hollow Heart3
+warrior
+2 Last Breath1 Aurora Borealis3
+ancient
+2 Aurora Borealis1 Heart of Wilderness3
+veins
+1 Nemesis1 Everblack1 Fleshkiller3
+cave
+3 Monochromatic Stains3
+amongst
+3 Godiva2
+wave
+1 Everblack1 Drawn to Black2
+satisfaction
+2 Passion And The Opera2
+presence
+1 Temporary Borders1 Bloodsucking Kissing2
+messenger
 2 Heart of Wilderness2
-protect
-2 Save Yourself2
-esky
-2 Last Breath2
-algorithm
-2 Lemmings2
-race
-2 Lemmings2
-icast
-2 Blinded By Fear2
-ice
-2 Last Breath2
-rank
-2 The Blind Leader2
-etver
+ludvig
+2 Chains2
+minded
+2 Everblack2
+smell
 2 Defeat2
-disorder
-2 Nemesis2
-iscalled
-2 Shotgun Symphony2
-reading
-1 Monochromatic Stains1 Lost Life2
-ready
+blut
+2 Blut im Auge2
+bodom
+2 Bodom After Midnight2
+weakest
 2 In The Failing Hour2
-real
-1 Mirror Of Sins1 Rasputin2
-etyou
-2 Virus Of The Mind2
-kills
-2 Last Breath2
-rean
-2 Save Yourself2
-land
-1 Prophetian1 Rasputin2
-icurse
-2 Save Yourself2
-ewait
-2 The Trapper2
 refine
 2 Fleshkiller2
-amott
-2 Nemesis2
-anaphrodite
-2 Passion And The Opera2
-relentless
-2 Relentless Chaos2
-isdeath
-2 Blinded By Fear2
-repetition
-2 Lemmings2
-resmart
-2 Save Yourself2
-reso
-2 Kissing The Shadows2
-rethe
-1 Nothing1 Save Yourself2
-rever
-1 Living in Me1 Angel Soul2
-rhands
-2 Nemesis2
-anempty
-2 Enemy Within2
-edes
-2 Godiva2
-eye
-1 Nemesis1 Monochromatic Stains2
-rising
-2 Shadows In The Wasteland2
-disappears
-2 Everblack2
-anight
-2 Living in Me2
-eyond
-2 Godiva2
-room
-1 Hollow Heart1 Defeat2
-rooted
-2 Living in Me2
-antti
-1 Heart of Wilderness1 Heroes To Us2
-running
-2 Children Of Decedence2
-runs
-2 Nemesis2
-anyone
-2 Save Yourself2
-fail
-2 Grow Up, Peter Pan2
-russians
-2 Rasputin2
-dinner
-2 Save Yourself2
-safely
-2 Survival (The Chariot)2
-aplague
-1 Rejection Role1 Virus Of The Mind2
-apreacher
-2 Rasputin2
-sand
-1 Prophetian1 Against The Stream2
-inmyself
-2 Prisoner In Me2
-abandoned
-1 Nothing1 Marianas Trench2
-falling
-1 Hollow Heart1 Everblack2
-fashion
-2 Grow Up, Peter Pan2
-scomfort
-2 Masses Of A Dying Breed2
-asa
-1 Lost Life1 Defeat2
-fateful
-1 Living in Me1 Drawn to Black2
-ashadow
-1 Heart of Wilderness1 Defeat2
-ifade
-2 When I'm in this state of mind 2
-ashe
-1 The Trapper1 Hold the Sword2
-second
-2 Save Yourself2
-secrets
-1 When I'm in this state of mind 1 Moon Of My Nights2
+waste
+1 The Blind Leader1 Last Breath2
+griper
+2 Trollhammaren2
+somewhere
+2 Bloodsucking Kissing2
+preacher
+1 Rasputin1 Redneck2
 seekers
 2 In The Failing Hour2
-selfishness
-2 Godiva2
-fed
-2 Slaughter Of The Soul2
-ser
-2 Trollhammaren2
-heir
-2 Passion And The Opera2
-asight
-1 Everblack1 Passion And The Opera2
-feed
-2 Slaughter Of The Soul2
-asmile
-1 Rejection Role1 Grow Up, Peter Pan2
-kiss
-2 Last Breath2
-itbe
-2 Heart of Wilderness2
-asthe
-1 New World Shadows1 Hold the Sword2
-shell
-2 Enemy Within2
-aswell
-1 The Trapper1 Rejection Role2
-kissing
-2 Living in Me2
-atotal
-2 Descending2
-attempt
-2 Slaughter Of The Soul2
-sickness
-2 Save Yourself2
-sight
-1 Monochromatic Stains1 Passion And The Opera2
-destroyed
-2 Enemy Within2
-filling
-2 Hollow Heart2
-since
+drop
+2 Bloodsucking Kissing2
+merciless
+2 Lemmings2
+precious
+2 Grow Up, Peter Pan2
+gray
+2 Judgement2
+haunted
+2 Shotgun Symphony2
+grip
+1 Strike!1 Nothing2
+blacklands
+2 Cold Embrace2
+haven
+1 Masses Of A Dying Breed1 Judgement2
+mission
 2 Everblack2
-ishe
-2 Nemesis2
-desire
-1 Rasputin1 Relentless Chaos2
-keeping
-1 Temporary Borders1 Hollow Heart2
-avirus
+virus
 2 Virus Of The Mind2
-ignite
-1 Fleshkiller1 The Wonders At Your Feet2
-awaking
-2 Descending2
-aworld
-2 Virus Of The Mind2
-knie
+present
+1 Prophetian1 Cypher Drone2
+sense
+1 Slaughter Of The Soul1 Bloodsucking Kissing2
+speaks
+1 Everblack1 Descending2
+guilt
+1 Black Tears1 Black Tears2
+blinds
+1 Winterking1 Last Breath2
+half
+1 Masses Of A Dying Breed1 Drawn to Black2
+water
+1 Monochromatic Stains1 Drawn to Black2
+regret
+1 Virgin Soil1 Demons2
+sank
 2 Blut im Auge2
-slaughter
-2 Slaughter Of The Soul2
-battle
-1 Winterking1 Bodom After Midnight2
-lie
-1 Blut im Auge1 Descending2
-flashes
-2 The Trapper2
-flee
-2 Prisoner In Me2
-beating
-1 Lost Life1 Grow Up, Peter Pan2
-snothing
-2 Nothing2
-became
-2 Rasputin2
-igot
-2 Beyond The Dark Sun2
-sold
-2 Prisoner In Me2
+grandeur
+2 Against The Stream2
+misery
+2 Relentless Chaos2
 solo
 1 Demons1 Virus Of The Mind2
-som
-2 Trollhammaren2
-somany
-1 Demons1 War Eternal2
-isyour
-1 Enemy Within1 Lost Life2
-beeasy
-2 Redneck2
-somuch
-2 Save Yourself2
-befree
-2 Slaughter Of The Soul2
-isit
-1 Mirror Of Sins1 Temporary Borders2
-sopure
+prepared
+2 Hold the Sword2
+poor
+2 Templar2
+breaks
+1 Enemy Within1 Strike!2
+misplaced
+2 In The Failing Hour2
+blinded
 2 Shotgun Symphony2
-hedarkness
-2 The Trapper2
-sosank
-2 Blut im Auge2
-focusing
-2 Shadows In The Wasteland2
-demon
-2 Save Yourself2
-forgotten
-1 New World Shadows1 Drawn to Black2
-form
-2 Masses Of A Dying Breed2
-speak
+solid
+1 Rejection Role1 Monochromatic Stains2
+spare
+2 Marianas Trench2
+miss
+1 Lemmings1 They Will Return2
+might
+1 Rejection Role1 Grow Up, Peter Pan2
+waking
+1 Hollow Heart1 Shotgun Symphony2
+waters
+1 Tapiola1 Drawn to Black2
+build
+1 Heart of Wilderness1 Chains2
+built
+1 Black Tears1 Black Tears2
+sold
+2 Prisoner In Me2
+knots
+2 Burbot`s Revenge2
+gods
+1 Strike!1 Hold the Sword2
+handside
+2 The Last One For Life2
+relentlessly
+2 Against The Stream2
+prepare
+2 Marianas Trench2
+midnight
+2 Bodom After Midnight2
+haby
+2 Chains2
+spark
+2 Fleshkiller2
+hanging
+1 The Trapper1 Burbot`s Revenge2
+impossible
+2 Shotgun Symphony2
+also
+1 Prophetian1 Rasputin2
+pushed
+2 Virus Of The Mind2
+worm
+2 Never hit you a storm2
+signs
+1 Prophetian1 Hold the Sword2
+infinite
+2 Passion And The Opera2
+amott
+2 Nemesis2
+inferno
+2 War Eternal2
+infection
+2 Virus Of The Mind2
+puppets
+2 Virus Of The Mind2
+animating
+2 Fleshkiller2
+answer
+1 Hollow Heart1 Chains2
+impure
+2 The Cleansing2
+wounds
+1 Hold the Sword1 Bloodsucking Kissing2
+impart
+2 Against The Stream2
+aphrodite
+2 Passion And The Opera2
+imagination
 2 Hollow Heart2
-forward
-1 Survival (The Chariot)1 Shotgun Symphony2
-spiral
-2 Enemy Within2
-lindberg
-1 Slaughter Of The Soul1 Cold2
+wonders
+2 The Wonders At Your Feet2
+areternal
+1 Prophetian1 The Last One For Life2
+ignore
+1 Chains1 Virus Of The Mind2
+ignorants
+2 Everblack2
+ignite
+1 Fleshkiller1 The Wonders At Your Feet2
+igen
+2 Trollhammaren2
+singing
+2 Moon Of My Nights2
+ideal
+1 Lemmings1 Judgement2
+reading
+1 Monochromatic Stains1 Lost Life2
+ain
+2 Redneck2
+raise
+2 Everblack2
+key
+2 In The Failing Hour2
+kept
+1 Rasputin1 Fleshkiller2
+shore
+1 Drawn to Black1 The Pursuit Of Vikings2
+accepts
+2 Virus Of The Mind2
+keeping
+1 Temporary Borders1 Hollow Heart2
+killed
+1 Last Breath1 War Eternal2
+judgement
+2 Judgement2
+race
+2 Lemmings2
+affliction
+2 Fleshkiller2
+wunde
+2 Blut im Auge2
+shreds
+2 Burbot`s Revenge2
+sings
+2 Living in Me2
+lyrics
+1 Black Tears1 Lemmings2
+isn
+2 Prisoner In Me2
+quiet
+2 Angel Soul2
+sie
+2 Blut im Auge2
+algorithm
+2 Lemmings2
+inte
+2 Trollhammaren2
+instinct
+1 Lemmings1 They Will Return2
+wretched
+1 Demons1 Six2
+inspiration
+1 Everblack1 Chains2
+insides
+2 Cold2
+wrench
+2 Burbot`s Revenge2
+below
+2 Kissing The Shadows2
+became
+2 Rasputin2
+whisper
+1 Enemy Within1 Grow Up, Peter Pan2
+began
+1 Heart of Wilderness1 Judgement2
+sleeps
+2 Angel Soul2
+highest
+1 The Blind Leader1 Judgement2
+scars
+1 Demons1 Cold2
+lungs
+1 Fleshkiller1 The Wonders At Your Feet2
+lips
+1 Bloodsucking Kissing1 Grow Up, Peter Pan2
+believed
+1 Rasputin1 Alone2
+lingering
+2 In The Failing Hour2
+belong
+1 Bloodsucking Kissing1 Relentless Chaos2
+knew
+1 Temporary Borders1 Moon Of My Nights2
+beating
+1 Lost Life1 Grow Up, Peter Pan2
+prison
+1 Cypher Drone1 Fleshkiller2
+hellish
+2 War Eternal2
+pride
+1 Everlasting Ward1 The Pursuit Of Vikings2
+saving
+2 Demons2
+binds
+2 Frozen Angel2
+weeping
+2 Beyond The Dark Sun2
 bird
 2 Living in Me2
-marks
+weep
+2 Passion And The Opera2
+birth
+1 Cypher Drone1 Hold the Sword2
+hears
+2 Drawn to Black2
+heard
+1 Rasputin1 Redneck2
+lived
+1 Rasputin1 Tapiola2
+sinking
+1 Temporary Borders1 Marianas Trench2
+wishing
+1 Black Tears1 Black Tears2
+masquerade
+1 Black Tears1 Black Tears2
+wise
+1 Hold the Sword1 Cognitive Note Of Discord2
+art
+2 Slaughter Of The Soul2
+king
+1 Winterking1 Defeat2
+scent
+2 Kissing The Shadows2
+aspirants
+2 Strike!2
+atmosphere
+2 Judgement2
+auge
+2 Blut im Auge2
+hot
+2 The Cleansing2
+skiing
 2 The Trapper2
-stand
-1 Mirror Of Sins1 Nemesis2
-standing
-1 Rasputin1 The Pursuit Of Vikings2
-islove
+knie
+2 Blut im Auge2
+skis
+2 The Trapper2
+matter
+1 Living in Me1 War Eternal2
+awake
+1 Reflections1 Demons2
+awaking
+2 Descending2
+wilt
+1 Black Tears1 Black Tears2
+wild
+1 Children Of Decedence1 Lake Bodom2
+battlefield
+1 Heroes To Us1 War Eternal2
+programmed
+1 New World Shadows1 Chains2
+whose
+1 Aurora Borealis1 Judgement2
+whore
+2 Grow Up, Peter Pan2
+meaning
+1 Prophetian1 Lemmings2
+sucking
+1 Bloodsucking Kissing1 Cold2
+lady
+2 Godiva2
+laid
+1 Blood in the Throne Room1 Drawn to Black2
+leads
+1 Enemy Within1 Survival (The Chariot)2
+experience
+2 Against The Stream2
+ourselves
+2 Virus Of The Mind2
+tiny
+1 Lemmings1 In The Failing Hour2
+existence
+1 Against The Stream1 Never hit you a storm2
+share
+1 Drawn to Black1 Grow Up, Peter Pan2
+suck
+1 Bloodsucking Kissing1 Grow Up, Peter Pan2
+others
+1 Demons1 In The Failing Hour2
+execute
+2 Strike!2
+excuses
+2 Masses Of A Dying Breed2
+excuse
+2 Hold the Sword2
+titans
+2 Marianas Trench2
+other
+2 Bodom After Midnight2
+evidence
+1 Monochromatic Stains1 Virus Of The Mind2
+timeless
 2 Living in Me2
+nen
+2 Drawn to Black2
+depression
+1 Black Tears1 Black Tears2
+dept
+1 Black Tears1 Black Tears2
+order
+1 Slaughter Of The Soul1 Heroes To Us2
+ride
+2 Godiva2
+destroyed
+1 Mirror Of Sins1 Enemy Within2
+destroyer
+2 Virus Of The Mind2
+nieder
+2 Blut im Auge2
+opportunity
+2 Relentless Chaos2
+curtain
+1 Moon Of My Nights1 Lost Life2
+feels
+1 Nothing1 Last Breath2
+create
+1 Slaughter Of The Soul1 Relentless Chaos2
+created
+1 Rejection Role1 Heroes To Us2
+feed
+2 Slaughter Of The Soul2
+lecherous
+2 Passion And The Opera2
+feared
+2 Marianas Trench2
+fatten
+2 Templar2
+fathers
+1 Everlasting Ward1 Everblack2
+cruel
+2 Lost Life2
+crushing
+1 Nemesis1 Fleshkiller2
+towers
+2 Blood in the Throne Room2
+falls
+1 The Blind Leader1 Drawn to Black2
+destruction
+1 Enemy Within1 The Wonders At Your Feet2
+cut
+1 Virgin Soil1 The Last One For Life2
+cuz
+2 Everytime I Die2
+cycles
+2 Against The Stream2
+tormented
+2 Kissing The Shadows2
+deadly
+1 Everblack1 Grow Up, Peter Pan2
+nauseating
+2 Blinded By Fear2
+decides
+2 Burbot`s Revenge2
+tomoyo
+2 Shotgun Symphony2
+deeds
+1 Mirror Of Sins1 The Cleansing2
+overcome
+1 Everblack1 Save Yourself2
+shadowbeast
+2 Enemy Within2
+define
+2 Hold the Sword2
+test
+2 Fleshkiller2
+distress
+2 Hollow Heart2
+thinking
+2 Temporary Borders2
+rights
+2 Heroes To Us2
+omens
+1 Prophetian1 Heart of Wilderness2
+theres
+2 Rejection Role2
+elegance
+2 Against The Stream2
+lasts
+2 Against The Stream2
+northern
+2 Aurora Borealis2
+themselves
+1 Slaughter Of The Soul1 Hold the Sword2
+ohlsson
+2 Chains2
+sympathy
+2 Godiva2
+offering
+2 Relentless Chaos2
+system
+1 The Blind Leader1 Nemesis2
+emotions
+2 Temporary Borders2
+easy
+2 Redneck2
+easier
+1 Bloodsucking Kissing1 The Wonders At Your Feet2
+latest
+2 Burbot`s Revenge2
+layers
+1 Prophetian1 Temporary Borders2
+och
+2 Trollhammaren2
+drawn
+1 Drawn to Black1 War Eternal2
+tearless
+2 Passion And The Opera2
+tearing
+2 Cold2
+drew
+2 Everblack2
+number
+2 Living in Me2
+roles
+2 Passion And The Opera2
+roaring
+1 Against The Stream1 Shadows In The Wasteland2
+throw
+2 Redneck2
+surely
+1 Temporary Borders1 Everblack2
+tied
+1 Bloodsucking Kissing1 Burbot`s Revenge2
+surface
+1 Temporary Borders1 Burbot`s Revenge2
+erotic
+2 Passion And The Opera2
+erlandsson
+1 Nemesis1 Cold2
+nightly
+1 Aurora Borealis1 Reflections2
+dieeeeee
+2 Dream2
+dig
+1 Trollhammaren1 Bodom After Midnight2
+nightmares
+1 Drawn to Black1 Shadows In The Wasteland2
+digging
+1 Temporary Borders1 Chains2
+throwing
+2 Hollow Heart2
+rot
+2 Survival (The Chariot)2
+knowledge
+2 Virus Of The Mind2
+enough
+2 Slaughter Of The Soul2
+enlighten
+2 Aurora Borealis2
+throughout
+2 Kissing The Shadows2
+larsson
+1 Black Tears1 Cold2
+non
+2 Heroes To Us2
+opens
+1 Moon Of My Nights1 Grow Up, Peter Pan2
+disappears
+2 Everblack2
+threaten
+2 Demons2
+rooted
+2 Living in Me2
+thirst
+2 Marianas Trench2
+sweetheart
+2 Everblack2
+swift
+2 Strike!2
+forward
+1 Survival (The Chariot)1 Shotgun Symphony2
+frustration
+2 Burbot`s Revenge2
+valleys
+2 Kissing The Shadows2
+changed
+1 Save Yourself1 Virus Of The Mind2
+chanting
+2 Everblack2
+friman
+2 Against The Stream2
+chase
+1 The Trapper1 Everblack2
+liars
+2 In The Failing Hour2
+childhood
+2 In The Failing Hour2
+chokehold
+2 Bloodsucking Kissing2
+church
+2 Templar2
+mortal
+2 Passion And The Opera2
+repetition
+2 Lemmings2
+unrivaled
+2 Strike!2
+piece
+1 Heart of Wilderness1 Monochromatic Stains2
+persevere
+2 Survival (The Chariot)2
 starlight
 1 Angel Soul1 Shadows In The Wasteland2
 starry
 2 Angel Soul2
-ileft
-1 Heart of Wilderness1 Dream2
-state
-2 Heroes To Us2
-ilence
-2 Living in Me2
-steal
-2 Templar2
-lingering
-2 In The Failing Hour2
-stock
-2 Redneck2
-ilistine
-2 Nemesis2
-stop
-1 Demons1 Descending2
-ilook
-2 Heart of Wilderness2
-blind
-1 New World Shadows1 Blinded By Fear2
-blinded
-2 Shotgun Symphony2
-stuck
-2 Lost Life2
-iwalk
-2 The Last One For Life2
-ilove
-2 Save Yourself2
-meaningless
-2 Hollow Heart2
-meas
-2 Fleshkiller2
-infection
-2 Virus Of The Mind2
-blut
-2 Blut im Auge2
-sweetheart
-2 Everblack2
-bodom
-2 Bodom After Midnight2
-sword
-2 The Pursuit Of Vikings2
-game
-2 Defeat2
-system
-1 The Blind Leader1 Nemesis2
-tag
-1 Blut im Auge1 Trollhammaren2
-debert
-2 Enemy Within2
-ineverything
-2 Masses Of A Dying Breed2
-meat
-2 When I'm in this state of mind 2
-imauge
-2 Blut im Auge2
-imbegging
-2 Virus Of The Mind2
-tear
-2 Slaughter Of The Soul2
-tearing
-2 Cold2
-ghosts
-1 Reflections1 Lost Life2
-terror
-1 Rasputin1 Cold2
-test
-2 Fleshkiller2
-tha
-2 The Cleansing2
-theres
-2 Rejection Role2
-thouch
-2 Godiva2
-though
-2 Rasputin2
-isnever
-2 Prisoner In Me2
-threaten
-2 Demons2
-throwing
-2 Hollow Heart2
-heaven
-2 Marianas Trench2
-gleam
-2 The Trapper2
-timeless
-2 Living in Me2
-hearts
-2 Cold2
-toall
-2 Godiva2
-glei
-2 Such ich sie bei Nacht' die Wei?e2
-tobegin
-2 Save Yourself2
-tobuild
-1 Heart of Wilderness1 Chains2
-todarkness
-2 Last Breath2
-today
-2 Last Breath2
-damn
-1 Lemmings1 Six2
-ison
-2 The Trapper2
-tofaint
-2 In The Failing Hour2
-cuz
-2 Everytime I Die2
-inen
-2 Heart of Wilderness2
-glory
-2 Judgement2
-tohide
-2 Masses Of A Dying Breed2
-byliu
-2 Alone2
-tolady
-2 Godiva2
-tolet
-2 Beyond The Dark Sun2
-tolive
-1 Relentless Chaos1 Survival (The Chariot)2
-tomy
-2 In The Failing Hour2
-tone
-2 Redneck2
-leads
-1 Enemy Within1 Survival (The Chariot)2
-bylrc
-1 Kissing The Shadows1 Grow Up, Peter Pan2
-bymy
-2 Shotgun Symphony2
-god
-1 Hollow Heart1 Passion And The Opera2
-golden
-1 Heart of Wilderness1 Winterking2
-tous
-2 Heroes To Us2
-towait
-1 New World Shadows1 Descending2
-towards
-2 Against The Stream2
-gon
-2 Trollhammaren2
-cadaverous
-2 Everytime I Die2
-sound
-1 Strike!1 Bloodsucking Kissing2
-candle
-2 Everytime I Die2
-tremember
-2 Monochromatic Stains2
-grace
-2 In The Failing Hour2
-care
-2 The Trapper2
-carry
-2 Bloodsucking Kissing2
-imonly
-2 Temporary Borders2
-isso
-2 Grow Up, Peter Pan2
-laughter
-2 Slaughter Of The Soul2
-impure
-2 The Cleansing2
-chance
-2 Relentless Chaos2
-tthey
-1 Rasputin1 They Will Return2
-chaos
-2 Relentless Chaos2
-tunderstand
-2 Save Yourself2
-turn
-1 Enemy Within1 The Wonders At Your Feet2
-imrunning
-2 Kissing The Shadows2
-chase
-2 The Trapper2
-two
-1 Living in Me1 Survival (The Chariot)2
-ine
-1 Rasputin1 Cold2
-uch
-2 Godiva2
-uicidal
-2 Slaughter Of The Soul2
-unclean
-2 The Cleansing2
-griper
-2 Trollhammaren2
-job
-2 Save Yourself2
-unheard
-2 Godiva2
 unless
 2 Survival (The Chariot)2
-unseen
-2 Strike!2
-upeth
-2 Enemy Within2
-upin
-2 Hollow Heart2
-choke
-2 Six2
-chokehold
+mortify
 2 Bloodsucking Kissing2
-medown
-2 Reflections2
-imstrong
-2 Six2
-valleys
-2 Kissing The Shadows2
-imtaking
-2 Mirror Of Sins2
-veins
-2 Nemesis2
-clearer
-2 Shadows In The Wasteland2
-closing
+safe
+1 Cypher Drone1 Godiva2
+forevermore
+1 Last Breath1 Shotgun Symphony2
+foreverand
+2 Dream2
+sadness
+1 Shotgun Symphony1 Defeat2
+perfection
+1 Everblack1 Rejection Role2
+forced
 2 In The Failing Hour2
-commit
-2 Enemy Within2
-creatures
-2 Last Breath2
-waking
-1 Hollow Heart1 Shotgun Symphony2
-meg
-2 Descending2
-created
-1 Rejection Role1 Heroes To Us2
-meim
-2 Rejection Role2
-warrior
-2 Last Breath2
-wax
+cleaving
+2 Cold Embrace2
+playing
+2 Passion And The Opera2
+gleam
+2 The Trapper2
+virgin
+1 Virgin Soil1 Passion And The Opera2
+mistakes
+1 Demons1 In The Failing Hour2
+bykageyama
+1 Against The Stream1 Drawn to Black2
+byliu
+2 Alone2
+relief
+1 Black Tears1 Black Tears2
+gift
+2 Heroes To Us2
+bytrishdante
+1 Temporary Borders1 Virus Of The Mind2
+victory
+1 Everblack1 Defeat2
+cadaverous
 2 Everytime I Die2
-haunted
-2 Shotgun Symphony2
-weak
-1 Heart of Wilderness1 Enemy Within2
-weakest
-2 In The Failing Hour2
-isthere
-2 Last Breath2
-wecan
-1 The Pursuit Of Vikings1 Marianas Trench2
-mein
-2 Fleshkiller2
-member
-1 Heroes To Us1 War Eternal2
-wedrew
-2 Everblack2
-ect
-2 Save Yourself2
-lived
-1 Rasputin1 Tapiola2
-merciless
-2 Lemmings2
-messenger
-2 Heart of Wilderness2
-westand
-2 Nemesis2
-meyour
-2 Bloodsucking Kissing2
-wewere
-2 Frozen Angel2
+calm
+1 Strike!1 Against The Stream2
+candle
+2 Everytime I Die2
 craving
 2 The Cleansing2
-whats
-2 Rejection Role2
-hat
-1 Strike!1 Redneck2
-ithaunts
-1 Nothing1 Last Breath2
-minded
+looks
+1 Winterking1 Hold the Sword2
+spoken
+1 Moon Of My Nights1 Lost Life2
+spread
+1 Tapiola1 Grow Up, Peter Pan2
+gather
+2 Judgement2
+versus
+1 They Will Return1 Godiva2
+gate
+1 Judgement1 Shotgun Symphony2
+plan
+2 Virus Of The Mind2
+carried
+1 Rasputin1 Survival (The Chariot)2
+carrying
+1 Templar1 Hold the Sword2
+cell
+2 Prisoner In Me2
+furs
+2 Lemmings2
+furnace
+2 Fleshkiller2
+corpse
+1 Bloodsucking Kissing1 Zombie Blood Curse2
+restless
+1 Hollow Heart1 Bloodsucking Kissing2
+mouth
+1 Bloodsucking Kissing1 Grow Up, Peter Pan2
+stomach
+2 Six2
+flame
+1 The Trapper1 Descending2
+flag
 2 Everblack2
-mmit
-2 Enemy Within2
-wine
-2 Rasputin2
-wings
-2 Everytime I Die2
-winter
-1 Lemmings1 The Pursuit Of Vikings2
-wipes
-2 The Trapper2
-moment
-2 In The Failing Hour2
-each
-1 Monochromatic Stains1 In The Failing Hour2
+two
+1 Living in Me1 Survival (The Chariot)2
+fit
+2 Virgin Soil2
+twisting
+1 Drawn to Black1 Blinded By Fear2
+twisted
+1 The Blind Leader1 Shadows In The Wasteland2
+patterns
+1 Slaughter Of The Soul1 Shadows In The Wasteland2
+truly
+2 Kissing The Shadows2
+content
+2 Strike!2
+sacred
+2 Judgement2
+starts
+1 Rejection Role1 The Pursuit Of Vikings2
+filling
+2 Hollow Heart2
+filled
+1 Hollow Heart1 Rejection Role2
+corruption
+1 Fleshkiller1 Survival (The Chariot)2
 countless
 1 Nemesis1 Shotgun Symphony2
-mtill
-2 Rasputin2
-mycell
-2 Prisoner In Me2
-mydreams
-2 Heart of Wilderness2
-wunde
-2 Blut im Auge2
-myhate
-2 Slaughter Of The Soul2
-lack
-1 When I'm in this state of mind 1 Everytime I Die2
-high
-2 Living in Me2
-yhollow
-2 Hollow Heart2
-ithas
-1 Last Breath1 Zombie Blood Curse2
-hiding
-2 Living in Me2
-yshattered
-2 Reflections2
-ytired
-2 Slaughter Of The Soul2
-zombie
-2 Zombie Blood Curse1
-imcaptured
-1 Prisoner In Me1
-imdrained
-1 Fleshkiller1
-imdreaming
-1 Kissing The Shadows1
-imdust
-1 Lost Life1
-imfeeling
-1 Temporary Borders1
-imgoing
-1 Dream1
-imhere
-1 Aurora Borealis1
-imight
-1 Rejection Role1
-imkissing
-1 Kissing The Shadows1
-imlonging
-1 Last Breath1
-imnot
-1 Chains1
-impact
-1 Everblack1
-impretending
-1 Defeat1
-imtrying
-1 Descending1
-imweak
-1 Nothing1
-imwishing
-1 When I'm in this state of mind 1
-inan
-1 Judgement1
-incisors
-1 Lemmings1
-indarkened
-1 Shadows In The Wasteland1
-indarkness
-1 Reflections1
-indept
-1 When I'm in this state of mind 1
-indes
-1 Blut im Auge1
-ineisige
-1 Blut im Auge1
-inempty
-1 Hollow Heart1
-inevery
-1 Living in Me1
-informant
-1 Monochromatic Stains1
-inga
-1 Trollhammaren1
-inging
-1 Cypher Drone1
-ingrauem
-1 Blut im Auge1
-inicy
-1 Moon Of My Nights1
-inlust
-1 Grow Up, Peter Pan1
-inner
-1 Everlasting Ward1
-innordens
-1 Blut im Auge1
-inpain
-1 In The Failing Hour1
-inpassable
-1 Tapiola1
-inrussia
-1 Rasputin1
-inshapes
-1 Monochromatic Stains1
-insleep
-1 Hollow Heart1
-inspiration
-1 Everblack1
-instinct
-1 Lemmings1
-insuomi
-1 Tapiola1
-inte
-1 Trollhammaren1
-inthemselves
-1 Slaughter Of The Soul1
-invain
-1 Defeat1
-iny
-1 Prisoner In Me1
-ionce
-1 Alone1
-iopen
-1 Winterking1
-ipenetrate
-1 Rejection Role1
-ire
-1 Rasputin1
-irumble
-1 Rejection Role1
-isaw
-1 Dream1
-isay
-1 The Cleansing1
-iscold
-1 When I'm in this state of mind 1
-isdead
-1 Nothing1
-iseek
-1 Heart of Wilderness1
-iset
-1 Demons1
-iseverlasting
-1 Shadows In The Wasteland1
-isfreed
-1 The Pursuit Of Vikings1
-ishanging
-1 The Trapper1
-ishead
-1 Rasputin1
-ishere
-1 Last Breath1
-isisn
-1 Prisoner In Me1
-isletting
-1 The Pursuit Of Vikings1
-isme
-1 Passion And The Opera1
-isnearby
-1 Defeat1
-isno
-1 Last Breath1
-isonly
-1 Masses Of A Dying Breed1
-isrevolution
-1 Nemesis1
-iss
-1 Lemmings1
-isseen
-1 Living in Me1
-isskiing
-1 The Trapper1
-isspoiled
-1 Mirror Of Sins1
-istaking
-1 Defeat1
-istarted
-1 Grow Up, Peter Pan1
-istep
-1 Winterking1
-isthis
-1 Monochromatic Stains1
-istill
-1 When I'm in this state of mind 1
-istumble
-1 Rejection Role1
-istumbled
-1 Rejection Role1
-iswhat
-1 Grow Up, Peter Pan1
-itake
-1 Never hit you a storm1
-itcarries
-1 The Pursuit Of Vikings1
-itclosing
-1 Cold1
-items
-1 Monochromatic Stains1
-itfor
-1 Virgin Soil1
-ithought
-1 Moon Of My Nights1
-itis
-1 New World Shadows1
-itmust
-1 Redneck1
-itnever
-1 Redneck1
-itno
-1 Everytime I Die1
-itout
-1 Survival (The Chariot)1
-itpermeates
-1 Six1
-itseems
-1 Descending1
-itspeaks
-1 Descending1
-itspill
-1 Redneck1
-itsum
-1 Mirror Of Sins1
-itsurely
-1 Everblack1
-ittakes
-1 Dream1
-itwas
-1 Rasputin1
-itwould
-1 Shotgun Symphony1
-ity
-1 Hollow Heart1
-ives
-1 Strike!1
-iving
-1 The Trapper1
-iwent
-1 Masses Of A Dying Breed1
-ixfeet
-1 Never hit you a storm1
-jam
-1 The Trapper1
-jave
-1 Virgin Soil1
-jenem
-1 Blut im Auge1
-kalong
-1 The Trapper1
-kasachok
-1 Rasputin1
-keeps
-1 Shotgun Symphony1
-keit
-1 Descending1
-kenneth
-1 Enemy Within1
-keyboards
-1 Black Tears1
-killed
-1 Last Breath1
-king
-1 Defeat1
-knee
-1 Shadows In The Wasteland1
-known
-1 Rasputin1
-kommande
-1 Trollhammaren1
-labor
-1 Survival (The Chariot)1
-ladies
-1 Rasputin1
-lady
-1 Godiva1
-lake
-1 Shadows In The Wasteland1
-lamb
-1 Redneck1
-lanks
-1 Everlasting Ward1
-laughing
-1 Redneck1
-lautlos
-1 Blut im Auge1
-lays
-1 The Trapper1
-ldheal
-1 Rasputin1
-lding
-1 Nothing1
-ldmy
-1 Six1
-leadaguitar
-1 Black Tears1
-leaves
-1 Angel Soul1
-leaving
-1 Strike!1
-lee
-1 Prisoner In Me1
-legends
-1 Tapiola1
-legs
-1 Grow Up, Peter Pan1
-lemming
-1 Lemmings1
-lfade
-1 Shadows In The Wasteland1
-liberation
-1 Slaughter Of The Soul1
-licking
-1 Lemmings1
-abattlefield
-1 Heroes To Us1
-abeing
-1 Living in Me1
-ability
-1 In The Failing Hour1
-lifeline
-1 Against The Stream1
-abiowar
-1 The Blind Leader1
-likes
-1 Virgin Soil1
-limbs
-1 Passion And The Opera1
-limits
-1 Hollow Heart1
-ablumthey
-1 Hollow Heart1
-lines
-1 Monochromatic Stains1
-abody
-1 Rejection Role1
-lips
-1 Grow Up, Peter Pan1
-abound
-1 Monochromatic Stains1
-live
-1 Lost Life1
-abrute
-1 Rasputin1
-acat
-1 Rasputin1
-acertain
-1 Rasputin1
-aconstant
-1 Demons1
-llfake
-1 Grow Up, Peter Pan1
-act
-1 Hollow Heart1
-action
-1 Hollow Heart1
-adance
-1 Grow Up, Peter Pan1
-ade
-1 Shadows In The Wasteland1
-locked
-1 Enemy Within1
-adeadly
-1 Everblack1
-adeclaration
-1 Heroes To Us1
-admiration
-1 Heroes To Us1
-loneliness
-1 Nothing1
-lonely
-1 The Trapper1
-adownward
-1 Enemy Within1
-loody
-1 Strike!1
-looked
-1 Rasputin1
-adream
-1 Reflections1
-looks
-1 Winterking1
-loose
-1 Hollow Heart1
-aface
-1 Rejection Role1
-lose
-1 Never hit you a storm1
-afely
-1 Survival (The Chariot)1
-affairs
-1 Rasputin1
-lots
-1 Rasputin1
-aflaming
-1 Rasputin1
-aflash
-1 Shadows In The Wasteland1
-agap
-1 Prophetian1
-agchris
-1 Chains1
-lows
-1 Enemy Within1
-lrthe
-1 Chains1
-lthe
-1 Heart of Wilderness1
-lust
-1 Everytime I Die1
-lusting
-1 Rasputin1
-lways
-1 Slaughter Of The Soul1
-lyour
-1 Relentless Chaos1
-aghost
-1 Reflections1
-lyyou
-1 The Cleansing1
-agirl
-1 Rasputin1
-maintenance
-1 Heroes To Us1
-aglance
-1 Children Of Decedence1
-mankinds
-1 Rejection Role1
-agony
-1 Prisoner In Me1
-market
-1 Heroes To Us1
-aholy
-1 Rasputin1
-mass
-1 Everblack1
-masses
-1 Masses Of A Dying Breed1
-master
-1 The Blind Leader1
-may
-1 Prophetian1
-ail
-1 The Pursuit Of Vikings1
-aiting
-1 Blinded By Fear1
-ake
-1 Everlasting Ward1
-meapart
-1 Nothing1
-alcast
-1 Temporary Borders1
-alegion
-1 Nemesis1
-meback
-1 Cypher Drone1
-mebe
-1 Passion And The Opera1
-aless
-1 Monochromatic Stains1
-mecarry
-1 When I'm in this state of mind 1
-meclean
-1 The Cleansing1
-alexi
-1 Everytime I Die1
-mee
-1 Monochromatic Stains1
-mefall
-1 Hollow Heart1
-alie
-1 Monochromatic Stains1
-mefrom
-1 Godiva1
-alifehold
-1 Defeat1
-alin
-1 Alone1
-mei
-1 When I'm in this state of mind 1
-alittle
-1 Everlasting Ward1
-allow
-1 Monochromatic Stains1
-meiner
-1 Blut im Auge1
-melike
-1 The Cleansing1
-mellow
-1 Winterking1
-meloaded
-1 Grow Up, Peter Pan1
-melts
-1 The Pursuit Of Vikings1
-memakes
-1 Nothing1
-almost
-1 Lost Life1
-alnthony
-1 Demons1
-alovely
-1 Rasputin1
-alq
-1 Everblack1
-alsymphony
-1 Shotgun Symphony1
-althe
-1 The Last One For Life1
-altti
-1 Heart of Wilderness1
-amalicious
-1 Nemesis1
-mercenary
-1 Everblack1
-ame
-1 Rasputin1
-amon
-1 The Pursuit Of Vikings1
-mereal
-1 Hollow Heart1
-mes
-1 Reflections1
-mesis
-1 Nemesis1
-anabstract
-1 Mirror Of Sins1
-anail
-1 Masses Of A Dying Breed1
-metal
-1 Everblack1
-mething
-1 Beyond The Dark Sun1
-ancient
-1 Heart of Wilderness1
-mewhen
-1 Never hit you a storm1
-mewhy
-1 Relentless Chaos1
-andlelight
-1 Bodom After Midnight1
-might
-1 Grow Up, Peter Pan1
-anger
-1 Six1
-millennia
-1 Virus Of The Mind1
-anicht
-1 Blut im Auge1
-anks
-1 Everlasting Ward1
-mine
-1 Grow Up, Peter Pan1
-anorphan
-1 Virgin Soil1
-apathy
-1 Godiva1
-mission
-1 Everblack1
-mistakes
-1 In The Failing Hour1
-mit
-1 Blut im Auge1
-mjivarp
-1 Monochromatic Stains1
-aphase
-1 Everblack1
-apied
-1 Redneck1
-aplace
-1 Defeat1
-apple
-1 Passion And The Opera1
-monly
-1 Temporary Borders1
-aram
-1 The Pursuit Of Vikings1
-monumentally
-1 Everblack1
-arblind
-1 Shotgun Symphony1
-most
-1 Rasputin1
-ardark
-1 Alone1
+covert
+2 Templar2
+passing
+2 Marianas Trench2
+field
+1 Aurora Borealis1 Winterking2
+passed
+1 Temporary Borders1 Virus Of The Mind2
+crave
+2 Zombie Blood Curse2
+felt
+1 Black Tears1 Black Tears2
+stream
+1 Everblack1 Against The Stream2
+fellow
+2 Lemmings2
+returns
+1 The Pursuit Of Vikings1 Judgement2
 mountains
-1 Never hit you a storm1
-moves
-1 The Trapper1
-moving
-1 Lemmings1
-mrkret
-1 Trollhammaren1
-areal
-1 Everlasting Ward1
-mthe
-1 Save Yourself1
-areternal
-1 The Last One For Life1
-arillnath
-1 Temporary Borders1
-aring
-1 Cold1
-mutated
-1 Shadows In The Wasteland1
-myabsolute
-1 Descending1
-mybad
+1 Temporary Borders1 Never hit you a storm2
+fooling
+2 Temporary Borders2
+unfold
+1 Temporary Borders1 Judgement2
+clouds
+1 Aurora Borealis1 Temporary Borders2
+foe
+1 Winterking1 War Eternal2
+clutching
+2 In The Failing Hour2
+flywith
+2 Dream2
+sev
+2 Drawn to Black2
+fly
+2 They Will Return2
+undead
+2 Zombie Blood Curse2
+flows
+1 Strike!1 Tapiola2
+flowing
+1 Everblack1 The Last One For Life2
+flow
+1 Bloodsucking Kissing1 Lemmings2
+steal
+2 Templar2
+steam
+2 The Cleansing2
+flock
+1 They Will Return1 In The Failing Hour2
+steel
+1 Templar1 Strike!2
+flawless
+2 Strike!2
+unclean
+2 The Cleansing2
+flee
+2 Prisoner In Me2
+unbridled
+2 Strike!2
+comfort
+2 Masses Of A Dying Breed2
+shed
+2 Virgin Soil1
+seem
 1 Grow Up, Peter Pan1
-ark
-1 Heart of Wilderness1
-myblood
-1 Nemesis1
-armor
-1 Marianas Trench1
-mydesire
-1 Bloodsucking Kissing1
-arnightwish
-1 Passion And The Opera1
-arnthony
-1 Demons1
-myeyes
-1 Prisoner In Me1
-myfeelings
-1 Temporary Borders1
-mygod
-1 Descending1
-arq
-1 Everblack1
-arranged
-1 Black Tears1
-asacrifice
-1 Monochromatic Stains1
-asecret
-1 Monochromatic Stains1
-ashame
-1 Rasputin1
-asif
-1 Virgin Soil1
-mymemory
-1 Rejection Role1
-asking
-1 Hollow Heart1
-asoul
-1 Monochromatic Stains1
-asshadows
-1 Temporary Borders1
-ast
-1 Last Breath1
-myprivate
-1 They Will Return1
-astrong
-1 The Pursuit Of Vikings1
-atall
-1 Virus Of The Mind1
-atastrophies
-1 The Blind Leader1
-atem
-1 Blut im Auge1
-mysorrow
-1 When I'm in this state of mind 1
-ath
-1 Virgin Soil1
-athim
-1 Rasputin1
-mysweaty
-1 Hollow Heart1
-mythoughts
-1 Reflections1
-myths
-1 Heart of Wilderness1
-athing
-1 Monochromatic Stains1
-mytrust
-1 Nothing1
-atnight
-1 The Trapper1
-myway
-1 Masses Of A Dying Breed1
-myweak
-1 The Cleansing1
-atrail
-1 The Trapper1
-nacht
-1 Blut im Auge1
-naked
-1 Passion And The Opera1
-naphrodite
-1 Passion And The Opera1
-atrap
-1 Rasputin1
-nauseating
-1 Blinded By Fear1
-nbroken
-1 Everytime I Die1
-atruth
-1 Living in Me1
-ndbefore
-1 The Trapper1
-attacks
-1 Monochromatic Stains1
-ndnow
-1 The Sleeping Beauty1
-ndsee
+sedan
+1 Trollhammaren1
+roar
 1 Strike!1
-atus
-1 Relentless Chaos1
-ndyou
-1 Save Yourself1
-ned
-1 Trollhammaren1
-atwould
-1 Six1
-ause
-1 Save Yourself1
-avaricious
-1 Survival (The Chariot)1
-avirginal
-1 Passion And The Opera1
-avulture
-1 Enemy Within1
-await
-1 The Pursuit Of Vikings1
-awake
-1 Reflections1
-netime
-1 Frozen Angel1
-awhite
-1 Templar1
-awinner
-1 Rejection Role1
-next
-1 Lost Life1
-nga
-1 Trollhammaren1
-ngel
-1 Angel Soul1
-ngg
-1 Living in Me1
-nghe
-1 Nemesis1
-ngilistine
-1 Nemesis1
-awretched
-1 Demons1
-ngis
-1 Survival (The Chariot)1
-ngjarmo
-1 Heart of Wilderness1
-ngng
-1 Masses Of A Dying Breed1
-ngthe
-1 Nemesis1
-banish
-1 Cypher Drone1
-beam
-1 The Trapper1
-beat
-1 Grow Up, Peter Pan1
-becarried
-1 Survival (The Chariot)1
-bed
-1 Defeat1
-nils
-1 The Trapper1
-beforever
-1 Descending1
-nmake
-1 Descending1
-nobody
-1 Chains1
-noch
-1 Blut im Auge1
-nocontrol
-1 Descending1
-began
-1 Heart of Wilderness1
-nodoubt
-1 Rasputin1
-noexcuse
-1 Hold the Sword1
-begged
-1 Rasputin1
-begins
-1 Shotgun Symphony1
-nolonger
-1 Shotgun Symphony1
-nomark
-1 Lost Life1
-nomatter
-1 Living in Me1
-nomelody
-1 Lost Life1
-begun
-1 Enemy Within1
-non
-1 Heroes To Us1
-none
-1 They Will Return1
-norecognition
-1 Masses Of A Dying Breed1
-beleft
-1 Godiva1
-noshooting
-1 Everytime I Die1
-nosparks
-1 Everytime I Die1
-nostalgic
-1 Temporary Borders1
-belief
-1 Judgement1
-notime
-1 Cypher Drone1
-notomorrow
-1 Children Of Decedence1
-believe
-1 When I'm in this state of mind 1
-noway
-1 Descending1
-nowheeler
-1 Rasputin1
-nowill
-1 Everlasting Ward1
-nowise
-1 Cognitive Note Of Discord1
-believed
-1 Rasputin1
-npassable
-1 Tapiola1
-belost
-1 Descending1
-nside
-1 Hollow Heart1
-ber
-1 Blut im Auge1
-bereally
-1 Descending1
-nthemselves
-1 Slaughter Of The Soul1
-nthis
-1 Last Breath1
-nthought
-1 Masses Of A Dying Breed1
-berg
-1 Blut im Auge1
-numbers
-1 Living in Me1
-nyour
-1 Slaughter Of The Soul1
-obert
-1 Enemy Within1
-obeys
-1 The Blind Leader1
-berthiaume
-1 Blut im Auge1
-odom
-1 Bodom After Midnight1
-bertone
-1 Lemmings1
-besuch
-1 When I'm in this state of mind 1
-ofan
-1 Rejection Role1
-ofanarchy
-1 Nemesis1
-ofashes
-1 Monochromatic Stains1
-ofbeing
-1 Relentless Chaos1
-ofbright
-1 Shadows In The Wasteland1
-beware
-1 In The Failing Hour1
-ofecstasy
-1 Rasputin1
-bible
-1 Rasputin1
-ofeuphoria
-1 Cold1
-ofevidence
-1 Monochromatic Stains1
-offear
-1 Never hit you a storm1
-big
-1 Rasputin1
-offire
-1 Shadows In The Wasteland1
-birth
-1 Hold the Sword1
-ofgod
-1 The Trapper1
-ofhidden
-1 Rasputin1
-ofhigher
-1 Rasputin1
-ofhonor
-1 Hold the Sword1
-bis
-1 Blut im Auge1
-ofit
-1 Monochromatic Stains1
-ofleast
-1 Monochromatic Stains1
-bisher
-1 Blut im Auge1
-bland
-1 Trollhammaren1
-oflight
-1 Everytime I Die1
-oflives
-1 Heroes To Us1
-oflust
-1 Passion And The Opera1
-blaze
-1 Everytime I Die1
-blessed
-1 Templar1
-blessing
-1 The Cleansing1
-blick
-1 Blut im Auge1
-ofresurfaced
-1 Monochromatic Stains1
-blicke
-1 Blut im Auge1
-ofsomething
-1 Defeat1
-ofsorrow
-1 Heart of Wilderness1
-ofstate
-1 Rasputin1
-ofstrenght
-1 Everytime I Die1
-oftapiola
-1 Tapiola1
-blickte
-1 Blut im Auge1
-blinds
-1 Last Breath1
-blowing
-1 Bloodsucking Kissing1
-blows
-1 Enemy Within1
-oftown
-1 Heart of Wilderness1
-oftuonela
-1 Tapiola1
-ofus
-1 The Pursuit Of Vikings1
-ofwar
-1 Last Breath1
-blumthey
-1 Hollow Heart1
-ofwho
-1 Masses Of A Dying Breed1
-ofwilderness
-1 Heart of Wilderness1
-bonded
-1 Hollow Heart1
-bound
-1 In The Failing Hour1
-boundaries
-1 Slaughter Of The Soul1
-bow
-1 Survival (The Chariot)1
-ohgod
-1 Nothing1
-ohhow
-1 Six1
-brains
-1 Lemmings1
-ohthose
-1 Rasputin1
-ohwash
-1 The Cleansing1
-oison
-1 Rasputin1
-brave
-1 Aurora Borealis1
-older
-1 Virgin Soil1
-ollhammaren
-1 Trollhammaren1
-omens
-1 Heart of Wilderness1
-ommit
-1 Enemy Within1
-omwithin
-1 Enemy Within1
-ona
-1 Bodom After Midnight1
-onbroken
-1 Everytime I Die1
-brcklig
-1 Trollhammaren1
-ondestroying
-1 Relentless Chaos1
-breaking
-1 Hollow Heart1
-ong
-1 The Trapper1
-ongues
-1 Cold1
-breaks
-1 Enemy Within1
-onight
-1 The Sleeping Beauty1
-onme
-1 Cypher Drone1
-breasts
-1 Passion And The Opera1
-onne
-1 Rasputin1
-breathes
-1 Enemy Within1
-onof
-1 Moon Of My Nights1
-breeding
-1 Defeat1
-onsistencies
-1 Slaughter Of The Soul1
-onsleeping
-1 Angel Soul1
-brings
-1 Aurora Borealis1
-brndstr
-1 Monochromatic Stains1
-onthis
-1 Last Breath1
-broke
-1 Angel Soul1
-brushing
-1 Temporary Borders1
-onwings
-1 Cold1
-brutal
-1 The Pursuit Of Vikings1
-bullet
-1 Grow Up, Peter Pan1
-opens
-1 Moon Of My Nights1
-operation
-1 Everblack1
-opponent
-1 Nemesis1
-buried
-1 Moon Of My Nights1
-butthey
-1 They Will Return1
-byaldrei
-1 Trollhammaren1
-oris
-1 Mirror Of Sins1
-orjust
-1 Heart of Wilderness1
-orkill
-1 Never hit you a storm1
-byanthony
-1 Demons1
-byday
-1 Bloodsucking Kissing1
-ory
-1 Judgement1
-otame
-1 New World Shadows1
-othink
-1 Slaughter Of The Soul1
-othose
-1 Godiva1
-otin
-1 Against The Stream1
-otta
-1 Bodom After Midnight1
-byones
-1 Masses Of A Dying Breed1
-byq
-1 Everblack1
-ouder
-1 Hollow Heart1
-oufeed
-1 Slaughter Of The Soul1
-bysakagami
-1 Shotgun Symphony1
-ould
-1 When I'm in this state of mind 1
-ound
-1 Descending1
-oundaries
-1 Slaughter Of The Soul1
-oure
-1 Save Yourself1
-outrageous
-1 Rasputin1
-byt
-1 Children Of Decedence1
-ouunderstand
-1 Save Yourself1
-bythose
-1 Hold the Sword1
-overcome
-1 Save Yourself1
-byvloisa
+seeks
 1 Prophetian1
-pace
-1 Living in Me1
-bywwwwwwwwwwwwwwwwwwwwwwwwwwwww
-1 Survival (The Chariot)1
-parker
-1 Virus Of The Mind1
-part
-1 Shotgun Symphony1
-pasi
-1 Heart of Wilderness1
-passable
-1 Tapiola1
-past
-1 Heart of Wilderness1
-path
+secret
 1 Monochromatic Stains1
-patient
+seeing
+1 Living in Me1
+secrecy
 1 Temporary Borders1
-calls
-1 Enemy Within1
-pay
-1 Descending1
-peering
-1 Living in Me1
-came
-1 Rasputin1
-penetrate
-1 Rejection Role1
-people
-1 Rasputin1
-candlelight
-1 Bodom After Midnight1
-cards
-1 Grow Up, Peter Pan1
-peth
-1 Enemy Within1
-carpet
-1 Bodom After Midnight1
-picture
-1 Everblack1
-cast
-1 Blinded By Fear1
-pile
-1 Monochromatic Stains1
-places
-1 Masses Of A Dying Breed1
-castles
-1 Templar1
-catastrophies
-1 The Blind Leader1
-caught
-1 Demons1
-cells
-1 Fleshkiller1
-poised
-1 Virgin Soil1
-charged
-1 Rejection Role1
-pokes
-1 Monochromatic Stains1
-chden
-1 Such ich sie bei Nacht' die Wei?e1
-chicks
-1 Rasputin1
-cing
-1 Rejection Role1
-preach
-1 Rasputin1
-preacher
-1 Redneck1
-prepare
-1 Marianas Trench1
-pretty
-1 Grow Up, Peter Pan1
-preview
-1 Bodom After Midnight1
-princess
-1 Passion And The Opera1
-prison
-1 Fleshkiller1
-ckder
-1 Blut im Auge1
-production
-1 Heroes To Us1
-cochris
-1 Chains1
-prophet
-1 Heroes To Us1
-colors
-1 Shadows In The Wasteland1
-psycho
-1 Enemy Within1
-ptdemanding
-1 Rasputin1
-coloured
-1 Grow Up, Peter Pan1
-purple
-1 Everblack1
-pushing
-1 Survival (The Chariot)1
-command
-1 Everblack1
-commands
-1 The Blind Leader1
-radiated
-1 Shadows In The Wasteland1
-concentrated
-1 Relentless Chaos1
-confused
-1 Relentless Chaos1
-rand
-1 Masses Of A Dying Breed1
-coniferous
-1 Tapiola1
-conquer
-1 Everblack1
-conqueror
-1 The Blind Leader1
-rastlos
-1 Blut im Auge1
-raunend
-1 Blut im Auge1
-rbot
-1 Burbot`s Revenge1
-rds
-1 Trollhammaren1
-rea
-1 Never hit you a storm1
-consistencies
-1 Slaughter Of The Soul1
-read
-1 Moon Of My Nights1
-consumes
-1 Masses Of A Dying Breed1
-contains
-1 Relentless Chaos1
-corners
-1 Lost Life1
-corruption
-1 Survival (The Chariot)1
-country
-1 The Pursuit Of Vikings1
-covered
-1 Blinded By Fear1
-crack
-1 Moon Of My Nights1
-reaper
-1 Bodom After Midnight1
-rearmament
-1 Heroes To Us1
-reasts
-1 Passion And The Opera1
-reaten
-1 Demons1
-recalls
-1 Mirror Of Sins1
-cradle
-1 Never hit you a storm1
-reedom
-1 Nemesis1
-crawling
+seducing
 1 Defeat1
-create
-1 Relentless Chaos1
-creating
-1 Nemesis1
-crimson
-1 Templar1
-refuse
-1 Rejection Role1
-regoing
-1 Marianas Trench1
-crossing
-1 The Trapper1
-religion
-1 Descending1
+resting
+1 Lost Life1
 religious
 1 Descending1
-crush
-1 The Wonders At Your Feet1
+reminder
+1 Demons1
 reminding
 1 Defeat1
+remorsefulness
+1 Winterking1
+render
+1 Virgin Soil1
 rending
 1 Drawn to Black1
 renewal
 1 Judgement1
-renot
-1 Rasputin1
-reonly
-1 Grow Up, Peter Pan1
 repeat
 1 Rasputin1
-crushing
-1 Nemesis1
 replace
 1 Fleshkiller1
-reslowly
-1 Children Of Decedence1
-crying
-1 When I'm in this state of mind 1
-ction
-1 Hollow Heart1
+report
+1 They Will Return1
+rescuing
+1 Bodom After Midnight1
+resist
+1 Everlasting Ward1
 resounds
 1 Drawn to Black1
-restanding
-1 Survival (The Chariot)1
-restless
-1 Hollow Heart1
+religion
+1 Descending1
+restraint
+1 Monochromatic Stains1
 result
 1 Rejection Role1
-cunt
-1 Grow Up, Peter Pan1
+results
+1 Monochromatic Stains1
+resurfaced
+1 Monochromatic Stains1
+resurrection
+1 Judgement1
 retrieve
 1 Bloodsucking Kissing1
 reveals
 1 The Trapper1
-cursing
-1 Cypher Drone1
 reverse
 1 In The Failing Hour1
-rfreedom
+revolution
 1 Nemesis1
-cutting
-1 Enemy Within1
+reward
+1 The Blind Leader1
+rhymes
+1 Moon Of My Nights1
 rhythm
 1 They Will Return1
-riches
-1 The Pursuit Of Vikings1
-ridden
-1 The Wonders At Your Feet1
-damned
-1 Descending1
-danicht
-1 Blut im Auge1
-rightness
-1 In The Failing Hour1
-rights
-1 Heroes To Us1
-rings
-1 Aurora Borealis1
-rinte
-1 Trollhammaren1
-ripped
-1 Lost Life1
-darkened
-1 The Cleansing1
-ddestination
-1 Everblack1
-ritten
-1 Aurora Borealis1
-rnicht
-1 Blut im Auge1
-roar
-1 Strike!1
-roaring
-1 Shadows In The Wasteland1
-dealer
-1 Rasputin1
-role
-1 Descending1
-deaths
-1 Survival (The Chariot)1
-rolling
-1 Everlasting Ward1
-deaway
+recalls
+1 Mirror Of Sins1
+likes
+1 Virgin Soil1
+ranta
 1 Frozen Angel1
-declared
-1 Rasputin1
-dedicated
-1 Godiva1
-rself
-1 Enemy Within1
-rstanding
-1 Rasputin1
-rsvaga
-1 Trollhammaren1
-deeds
-1 The Cleansing1
-ruins
-1 Heart of Wilderness1
-deeper
+rastlos
+1 Blut im Auge1
+raubte
+1 Blut im Auge1
+raunend
+1 Blut im Auge1
+ravishment
+1 Everlasting Ward1
+raw
+1 Rejection Role1
+read
+1 Moon Of My Nights1
+realize
+1 Chains1
+realm
+1 Shotgun Symphony1
+reaper
+1 Bodom After Midnight1
+rearmament
+1 Heroes To Us1
+recall
+1 Virgin Soil1
+ribs
+1 Everblack1
+reckless
+1 Winterking1
+recognise
+1 Blood in the Throne Room1
+recognition
+1 Masses Of A Dying Breed1
+recurring
+1 Temporary Borders1
+redemption
+1 Rejection Role1
+reflecting
+1 Passion And The Opera1
+reflex
+1 Winterking1
+refuse
+1 Rejection Role1
+regen
+1 Blut im Auge1
+regrets
+1 Drawn to Black1
+reise
+1 Blut im Auge1
+rejection
+1 Rejection Role1
+scale
 1 The Wonders At Your Feet1
+rumour
+1 Grow Up, Peter Pan1
 runnung
 1 Everblack1
-demands
+russians
 1 Rasputin1
-demons
-1 Enemy Within1
-demonstrate
-1 Relentless Chaos1
-denying
-1 In The Failing Hour1
-depression
-1 When I'm in this state of mind 1
-sadness
-1 Shotgun Symphony1
-safe
-1 Godiva1
-desperation
-1 Everblack1
-destruction
-1 Enemy Within1
-dheard
-1 Rasputin1
-dies
-1 The Trapper1
-dif
-1 Kissing The Shadows1
-sbeen
-1 Grow Up, Peter Pan1
-dig
-1 Bodom After Midnight1
-digging
-1 Temporary Borders1
-dignity
-1 Passion And The Opera1
+sacrificed
+1 The Pursuit Of Vikings1
+safely
+1 Survival (The Chariot)1
+sage
+1 Redneck1
+sail
+1 The Pursuit Of Vikings1
+sails
+1 The Pursuit Of Vikings1
+saint
+1 Lake Bodom1
+salvation
+1 Lake Bodom1
+sanity
+1 Black Tears1
+sankala
+1 Prophetian1
+saved
+1 Descending1
+rumble
+1 Rejection Role1
+scared
+1 Cold Embrace1
+scattered
+1 Aurora Borealis1
+scene
+1 Strike!1
+scenes
+1 Prophetian1
 scheint
 1 Blut im Auge1
 schlaflos
 1 Blut im Auge1
-din
-1 The Pursuit Of Vikings1
-scoming
-1 Lemmings1
+scorn
+1 Strike!1
+scramble
+1 Bloodsucking Kissing1
 scratching
 1 Temporary Borders1
-disarmament
-1 Heroes To Us1
-dishearten
-1 Hollow Heart1
-sdemise
-1 Monochromatic Stains1
-disregard
-1 Godiva1
-sea
-1 The Pursuit Of Vikings1
-dkeep
-1 Aurora Borealis1
-does
-1 The Trapper1
-donners
-1 Blut im Auge1
-dont
-1 Rejection Role1
-sedan
-1 Trollhammaren1
-seeing
-1 Living in Me1
-dort
-1 Blut im Auge1
-seem
-1 Grow Up, Peter Pan1
-seemed
-1 Descending1
-sein
-1 Blut im Auge1
-self
-1 Enemy Within1
-downing
-1 Enemy Within1
-sell
-1 Grow Up, Peter Pan1
-downward
-1 Enemy Within1
-senseless
-1 Relentless Chaos1
-separated
-1 Moon Of My Nights1
-drifting
-1 Hollow Heart1
-severs
-1 Prophetian1
-drilling
-1 Burbot`s Revenge1
-sfull
-1 Descending1
-drink
-1 Passion And The Opera1
-shade
-1 Beyond The Dark Sun1
-shades
-1 The Wonders At Your Feet1
-shadow
-1 Children Of Decedence1
-drinking
-1 Rasputin1
-dripping
-1 Prisoner In Me1
-drips
-1 Bloodsucking Kissing1
-shakes
-1 Hollow Heart1
-drowned
-1 Angel Soul1
-sharpen
-1 Fleshkiller1
-sharpening
-1 Lemmings1
-shattered
-1 Shadows In The Wasteland1
-drum
-1 Blut im Auge1
-dthe
-1 Passion And The Opera1
-shine
-1 Angel Soul1
-ship
-1 Marianas Trench1
-dunklen
-1 Blut im Auge1
-short
-1 Lemmings1
-shortly
-1 The Trapper1
-shot
-1 Rasputin1
-duska
-1 Trollhammaren1
-eart
-1 Heart of Wilderness1
-shows
-1 The Trapper1
-easy
-1 Redneck1
-sickening
-1 Monochromatic Stains1
-sickens
-1 Six1
-sickly
-1 Monochromatic Stains1
-echnology
-1 The Blind Leader1
-side
-1 War Eternal1
-sie
-1 Blut im Auge1
-edge
-1 Survival (The Chariot)1
-edicated
-1 Godiva1
-silenced
-1 Godiva1
-eegs
-1 Living in Me1
-een
-1 Living in Me1
-eep
-1 Bodom After Midnight1
-eface
-1 Blinded By Fear1
-efeat
-1 Defeat1
-sinner
-1 Rejection Role1
-sista
-1 Trollhammaren1
-six
-1 Never hit you a storm1
-sjust
-1 Rasputin1
-eft
-1 Enemy Within1
-skiing
-1 The Trapper1
-einst
-1 Blut im Auge1
-eir
-1 Passion And The Opera1
-eis
-1 Defeat1
-skuggor
-1 Trollhammaren1
-elast
-1 Fleshkiller1
-slands
-1 Tapiola1
-eleader
-1 Monochromatic Stains1
-slaving
-1 Survival (The Chariot)1
-slaying
-1 Nemesis1
-elpless
-1 Enemy Within1
-slide
-1 The Trapper1
-slipping
-1 Defeat1
-slips
-1 Everytime I Die1
-emery
-1 Relentless Chaos1
-slows
-1 Strike!1
-smear
-1 The Wonders At Your Feet1
-smell
-1 Defeat1
-emons
-1 Enemy Within1
-smiling
-1 Cold1
-snails
-1 The Trapper1
-snare
-1 The Trapper1
-empty
-1 Defeat1
-enchained
-1 Everlasting Ward1
-snot
-1 Temporary Borders1
-enchanted
-1 Everlasting Ward1
-snow
-1 Angel Soul1
-soalone
-1 Nothing1
-endeavour
-1 The Cleansing1
-soclose
-1 Redneck1
-socursed
-1 Passion And The Opera1
-sodark
-1 Heart of Wilderness1
-sodrunk
-1 Redneck1
-sogoddamn
-1 Redneck1
-enmust
-1 Slaughter Of The Soul1
-soif
-1 Grow Up, Peter Pan1
-soiled
-1 The Cleansing1
-ensvarta
-1 Trollhammaren1
-soldier
-1 Grow Up, Peter Pan1
-entities
-1 Everlasting Ward1
-eof
-1 Shadows In The Wasteland1
-epeth
-1 Enemy Within1
-eradicate
-1 The Wonders At Your Feet1
-eration
-1 Everblack1
-somethings
-1 Masses Of A Dying Breed1
-sometimes
-1 When I'm in this state of mind 1
-ere
-1 Shadows In The Wasteland1
-erlandsson
-1 Cold1
-erz
-1 Blut im Auge1
-sons
-1 Lemmings1
-soon
-1 When I'm in this state of mind 1
-soothed
-1 Drawn to Black1
-soplay
-1 Grow Up, Peter Pan1
-escape
-1 The Cleansing1
-esdsson
-1 Cold1
-ese
-1 The Wonders At Your Feet1
-sostop
-1 Demons1
-essence
-1 Strike!1
-sothey
-1 Rasputin1
-sotogether
-1 Kissing The Shadows1
-sought
-1 Monochromatic Stains1
-eszu
-1 Blut im Auge1
-eternal
-1 Heart of Wilderness1
-etno
-1 Virgin Soil1
-sowe
-1 Grow Up, Peter Pan1
-etook
-1 Virgin Soil1
-speaks
-1 Everblack1
-etruth
-1 Shotgun Symphony1
-etthe
-1 Defeat1
-spit
-1 Bloodsucking Kissing1
-etween
-1 Aurora Borealis1
-squiet
-1 Angel Soul1
-sscreaming
-1 Grow Up, Peter Pan1
-sso
-1 Heart of Wilderness1
-euch
-1 Blut im Auge1
-evades
-1 Living in Me1
-evil
-1 The Cleansing1
-expecting
+script
 1 Lost Life1
-extremely
-1 Everblack1
-stare
-1 Shotgun Symphony1
-facts
-1 Rejection Role1
-failed
-1 The Cleansing1
-faint
-1 Everytime I Die1
-starting
-1 Strike!1
-startled
-1 Strike!1
-starts
-1 Rejection Role1
-falls
-1 The Blind Leader1
-stbreath
-1 Last Breath1
-stdte
-1 Blut im Auge1
-family
-1 The Pursuit Of Vikings1
-famine
-1 The Wonders At Your Feet1
-feat
-1 Defeat1
-stiring
-1 Hollow Heart1
-stms
-1 Monochromatic Stains1
-feeling
-1 Defeat1
-stone
-1 Virgin Soil1
-feels
-1 Nothing1
-stoo
-1 Heart of Wilderness1
-felicity
-1 Against The Stream1
-stormy
-1 Last Breath1
-story
-1 Shotgun Symphony1
-str
-1 Blut im Auge1
-fell
-1 Rasputin1
-strapped
-1 Marianas Trench1
-stretching
-1 Defeat1
-strid
-1 Rejection Role1
-fellow
-1 Lemmings1
-strings
-1 Moon Of My Nights1
-felsen
-1 Blut im Auge1
-struggles
-1 In The Failing Hour1
-stsurfaced
-1 Monochromatic Stains1
-felt
-1 When I'm in this state of mind 1
-sturmgewitter
-1 Blut im Auge1
-fever
-1 Nemesis1
-suchte
-1 Blut im Auge1
-suchten
-1 Blut im Auge1
-sucking
-1 Cold1
-fields
-1 In The Failing Hour1
-fighting
-1 Nemesis1
-finding
+seal
 1 Masses Of A Dying Breed1
-finds
-1 The Trapper1
-surprise
-1 They Will Return1
-surrounding
-1 Living in Me1
-fingerprints
-1 Monochromatic Stains1
-swathed
-1 Drawn to Black1
-sweet
-1 Blinded By Fear1
-fit
+searched
 1 Virgin Soil1
-fits
-1 Grow Up, Peter Pan1
-flickering
-1 Living in Me1
-swords
-1 Marianas Trench1
-flock
+roll
+1 Chains1
+riches
+1 The Pursuit Of Vikings1
+ridden
+1 The Wonders At Your Feet1
+rider
+1 Trollhammaren1
+righteous
+1 Redneck1
+rightness
 1 In The Failing Hour1
-flow
+ripped
+1 Lost Life1
+rising
+1 Shadows In The Wasteland1
+rkret
+1 Trollhammaren1
+rlever
+1 Trollhammaren1
+rank
+1 The Blind Leader1
+robert
+1 Enemy Within1
+role
+1 Descending1
+searing
+1 Drawn to Black1
+rolling
+1 Everlasting Ward1
+romance
+1 Grow Up, Peter Pan1
+roots
 1 Lemmings1
-flows
-1 Tapiola1
-fly
-1 They Will Return1
-tails
+rope
+1 Bloodsucking Kissing1
+ropet
+1 Trollhammaren1
+rowat
+1 Children Of Decedence1
+roy
+1 Chains1
+rubbing
 1 Lemmings1
-flying
-1 Temporary Borders1
-taking
-1 Defeat1
-tales
+ruined
 1 Hold the Sword1
-talk
-1 Grow Up, Peter Pan1
-tame
-1 New World Shadows1
-tamend
-1 Survival (The Chariot)1
-followed
-1 Shotgun Symphony1
-tangle
-1 The Trapper1
-folly
-1 Monochromatic Stains1
-tasting
-1 Defeat1
-fool
-1 Six1
-tcount
-1 In The Failing Hour1
-teacher
-1 Rasputin1
-forevermore
-1 Last Breath1
-fought
-1 Monochromatic Stains1
-found
-1 Descending1
-technology
-1 The Blind Leader1
-tem
-1 Nemesis1
-terase
-1 Six1
-fox
-1 The Trapper1
-fragments
-1 Temporary Borders1
-tfear
-1 Descending1
-tfind
+ruins
 1 Heart of Wilderness1
-tgive
-1 The Blind Leader1
-frmich
-1 Blut im Auge1
-thankful
-1 Descending1
-frozen
-1 The Cleansing1
-thes
-1 Six1
-thesitate
-1 Grow Up, Peter Pan1
-thierry
-1 Lemmings1
-thinking
+ruled
+1 Rasputin1
+ruler
+1 Winterking1
+trees
 1 Temporary Borders1
-thirst
-1 Marianas Trench1
-thou
-1 Prisoner In Me1
-fthe
+ugly
+1 Chains1
+ucher
+1 Blut im Auge1
+tyrant
+1 Prophetian1
+twilight
+1 Drawn to Black1
+turns
+1 Prophetian1
+turned
+1 Moon Of My Nights1
+tuonela
+1 Tapiola1
+tune
+1 The Last One For Life1
+tug
+1 Judgement1
+trickles
+1 Monochromatic Stains1
+ultimate
+1 Judgement1
+tread
+1 Monochromatic Stains1
+travelled
+1 Beyond The Dark Sun1
+trapper
+1 The Trapper1
+trap
+1 Rasputin1
+tranquillity
+1 Against The Stream1
+training
+1 Strike!1
+trail
+1 The Trapper1
+trade
+1 Blood in the Throne Room1
+track
+1 Monochromatic Stains1
+traces
+1 The Trapper1
+unpounding
+1 Virgin Soil1
+veil
+1 Temporary Borders1
+vast
+1 Temporary Borders1
+vara
+1 Trollhammaren1
+vanishing
+1 Kissing The Shadows1
+vanished
+1 Beyond The Dark Sun1
+upside
+1 The Trapper1
+unwanted
+1 The Cleansing1
+untrained
+1 Monochromatic Stains1
+unthought
+1 Masses Of A Dying Breed1
+unruhig
+1 Blut im Auge1
+toxic
 1 The Blind Leader1
-furs
-1 Lemmings1
-future
-1 Everblack1
-thousand
-1 Survival (The Chariot)1
-fyou
-1 Save Yourself1
-gain
-1 Strike!1
-ththe
-1 Strike!1
-thy
+unlike
+1 Shadows In The Wasteland1
+united
+1 Nemesis1
+unholy
+1 Judgement1
+unheard
 1 Godiva1
+unfullfillment
+1 The Wonders At Your Feet1
+unforgettable
+1 Grow Up, Peter Pan1
+unending
+1 The Wonders At Your Feet1
+understands
+1 Chains1
+und
+1 Blut im Auge1
+unchecked
+1 Burbot`s Revenge1
+thee
+1 Virgin Soil1
 tialone
 1 Alone1
-tide
+thrones
+1 Templar1
+throats
+1 Marianas Trench1
+thrill
+1 Everlasting Ward1
+thouch
 1 Godiva1
-tight
+third
+1 Prophetian1
+thinner
+1 Rejection Role1
+thighs
+1 Passion And The Opera1
+thierry
+1 Lemmings1
+thief
+1 Temporary Borders1
+tidal
+1 Everblack1
+theatre
+1 Lost Life1
+thats
+1 Rejection Role1
+thankful
+1 Descending1
+terms
+1 Against The Stream1
+teeth
+1 Marianas Trench1
+technology
+1 The Blind Leader1
+technique
+1 Strike!1
+teacher
+1 Rasputin1
+tasting
+1 Defeat1
+tasted
+1 Bloodsucking Kissing1
+tiprophetian
+1 Prophetian1
+tower
+1 Virgin Soil1
+tour
+1 Winterking1
+top
+1 Grow Up, Peter Pan1
+tongues
+1 Cold1
+tongue
+1 Fleshkiller1
+tomb
+1 Never hit you a storm1
+tithe
+1 The Last One For Life1
+titemporary
+1 Temporary Borders1
+tishotgun
+1 Shotgun Symphony1
+tipton
+1 Enemy Within1
+velvet
+1 Temporary Borders1
+tipassion
+1 Passion And The Opera1
+tingled
+1 Temporary Borders1
+timing
+1 Grow Up, Peter Pan1
+timeline
+1 Everlasting Ward1
+timecry
+1 Chains1
+tightly
 1 Marianas Trench1
 tightens
 1 Nothing1
-gambrel
-1 The Trapper1
-geblieben
-1 Blut im Auge1
-timecry
-1 Chains1
-gel
-1 Angel Soul1
-tin
-1 Against The Stream1
-tinthony
-1 Demons1
-tiny
-1 Lemmings1
-tipassion
-1 Passion And The Opera1
-gently
-1 The Trapper1
-tiq
-1 Everblack1
-tishotgun
-1 Shotgun Symphony1
-titemporary
-1 Temporary Borders1
-tithe
-1 The Last One For Life1
-tmust
-1 Redneck1
-tneed
-1 Cypher Drone1
-toa
-1 Rejection Role1
-getting
-1 Against The Stream1
-gives
-1 Strike!1
-giving
-1 The Trapper1
-toblame
-1 Rasputin1
-gke
-1 Six1
-scereals
-1 The Trapper1
-tochoose
-1 Heart of Wilderness1
-glades
-1 Tapiola1
-glorious
-1 The Pursuit Of Vikings1
-todefend
-1 Aurora Borealis1
-gocold
-1 Cold1
-gods
-1 Strike!1
-toemulate
-1 Relentless Chaos1
-gold
-1 Prophetian1
-tofeel
-1 Kissing The Shadows1
-goodbye
-1 Bloodsucking Kissing1
-tofind
-1 Heart of Wilderness1
-goof
-1 In The Failing Hour1
-toforty
-1 Survival (The Chariot)1
-grab
-1 Chains1
-togo
-1 Rasputin1
-gracing
-1 Monochromatic Stains1
-grau
-1 Blut im Auge1
-toinsatiable
-1 Rejection Role1
-tokill
-1 Descending1
-toknow
-1 Chains1
-gravel
-1 In The Failing Hour1
-toleave
-1 The Trapper1
-greater
-1 Relentless Chaos1
-grief
-1 Nothing1
-tolose
-1 Heart of Wilderness1
-tomb
-1 Never hit you a storm1
-tome
-1 Descending1
-tomore
-1 Rasputin1
-tomoscow
-1 Rasputin1
-tomoyo
-1 Shotgun Symphony1
-grip
-1 Nothing1
-tomyself
-1 When I'm in this state of mind 1
-grobing
-1 Defeat1
-tongues
-1 Cold1
-ground
-1 In The Failing Hour1
-grounds
-1 Monochromatic Stains1
-topay
-1 Survival (The Chariot)1
-tords
-1 Hollow Heart1
-tore
-1 Nothing1
-half
-1 Masses Of A Dying Breed1
-torise
-1 Cold1
-torture
-1 When I'm in this state of mind 1
-tosail
-1 The Pursuit Of Vikings1
-toscramble
-1 Bloodsucking Kissing1
-tosee
-1 The Wonders At Your Feet1
-toshow
-1 Hold the Sword1
-tosmash
-1 Never hit you a storm1
-tostay
-1 The Cleansing1
-totame
-1 New World Shadows1
-totaste
-1 Six1
-hall
-1 Descending1
-tothink
-1 Slaughter Of The Soul1
-tothose
-1 Godiva1
-halls
-1 Templar1
-halved
-1 Strike!1
-tovisit
-1 Rasputin1
-hammered
-1 Masses Of A Dying Breed1
-towalk
-1 In The Failing Hour1
-han
-1 Trollhammaren1
-towaste
-1 Last Breath1
-towill
-1 Cold1
-toxic
-1 The Blind Leader1
-hang
-1 Bodom After Midnight1
-toyour
-1 Lemmings1
-tpay
-1 In The Failing Hour1
-tpeep
-1 Moon Of My Nights1
-tquit
-1 Rasputin1
-track
-1 Monochromatic Stains1
-hanging
-1 Burbot`s Revenge1
-trapper
-1 The Trapper1
-tread
-1 Monochromatic Stains1
-hardened
-1 The Trapper1
-harvest
-1 Everlasting Ward1
-hasn
-1 The Cleansing1
-hated
-1 Shotgun Symphony1
-trickles
-1 Monochromatic Stains1
-tried
-1 Relentless Chaos1
-trigger
-1 Lemmings1
-haunts
-1 Six1
-haven
-1 Masses Of A Dying Breed1
-headlight
-1 The Trapper1
-heads
-1 Bodom After Midnight1
-heal
-1 Rasputin1
-healso
-1 Rasputin1
-trying
-1 Burbot`s Revenge1
-tsee
-1 Moon Of My Nights1
-heard
-1 Redneck1
-tsleep
-1 The Trapper1
-tsnothing
-1 Save Yourself1
-tstain
-1 The Cleansing1
-tstand
-1 The Trapper1
-tswim
+tight
 1 Marianas Trench1
-hearing
-1 Defeat1
-heavy
-1 Templar1
-tuck
-1 Lost Life1
-hebattle
-1 Bodom After Midnight1
-hebeast
-1 Enemy Within1
-hecannot
-1 The Blind Leader1
-hecarried
-1 Rasputin1
-twisting
-1 Blinded By Fear1
-hecould
-1 Rasputin1
-hed
-1 Rasputin1
-tythousand
-1 Survival (The Chariot)1
-hedanced
-1 Rasputin1
-ucher
-1 Blut im Auge1
-ugly
-1 Chains1
-hedrank
-1 Rasputin1
-ull
-1 Survival (The Chariot)1
-umtag
-1 Blut im Auge1
-hefeels
-1 Last Breath1
-und
-1 Blut im Auge1
-heflows
+ties
 1 Strike!1
-hehad
-1 Rasputin1
-unforgettable
-1 Grow Up, Peter Pan1
-hehas
-1 The Trapper1
-united
-1 Nemesis1
-helaughing
-1 Redneck1
-unlike
-1 Shadows In The Wasteland1
-unnung
-1 Everblack1
-unruhig
-1 Blut im Auge1
-helpless
-1 Enemy Within1
-unthought
-1 Masses Of A Dying Breed1
-untrained
-1 Monochromatic Stains1
-unwanted
-1 The Cleansing1
-upbody
-1 Hollow Heart1
-hereally
-1 Rasputin1
-upevery
-1 Shotgun Symphony1
-uphe
-1 The Trapper1
-hereaper
-1 Bodom After Midnight1
-heres
-1 Rejection Role1
-upside
-1 The Trapper1
-heruled
-1 Rasputin1
-urtime
-1 Frozen Angel1
-usout
-1 The Pursuit Of Vikings1
-hes
-1 The Trapper1
-usthey
-1 Rasputin1
-hestands
-1 Strike!1
-utf
-1 Trollhammaren1
-utry
-1 Redneck1
-utthe
-1 The Trapper1
-uzits
-1 Everytime I Die1
-hetook
-1 Virgin Soil1
-hewants
+win
 1 The Blind Leader1
-vara
-1 Trollhammaren1
-veevery
-1 Living in Me1
-vehad
-1 Grow Up, Peter Pan1
-heway
-1 Bodom After Midnight1
-hewho
-1 Virgin Soil1
-vercome
-1 Save Yourself1
-verfallen
-1 Blut im Auge1
-versuch
-1 Blut im Auge1
-versus
-1 Godiva1
-vetel
-1 Heart of Wilderness1
-veyourself
-1 Save Yourself1
-vicious
-1 Nemesis1
-victory
-1 Defeat1
-virgin
-1 Passion And The Opera1
-visions
-1 Shadows In The Wasteland1
-heworld
-1 The Sleeping Beauty1
-von
-1 Blut im Auge1
-vulture
-1 Enemy Within1
-wager
-1 Survival (The Chariot)1
-hey
-1 Reflections1
-heyellow
-1 The Trapper1
-wake
-1 Bodom After Midnight1
-hier
-1 Blut im Auge1
-walking
-1 Shotgun Symphony1
-wall
-1 Heart of Wilderness1
-higher
-1 Relentless Chaos1
-highest
-1 The Blind Leader1
-warming
-1 The Pursuit Of Vikings1
-highland
-1 Relentless Chaos1
-hight
-1 Kissing The Shadows1
-wary
-1 Bloodsucking Kissing1
-wasn
-1 Six1
-wassers
-1 Blut im Auge1
-waste
-1 The Blind Leader1
-wasting
-1 Defeat1
-waters
-1 Tapiola1
-waves
-1 Marianas Trench1
-hinauf
-1 Blut im Auge1
-hinter
-1 Blut im Auge1
-hollow
-1 Hollow Heart1
-honor
-1 Hold the Sword1
-wealth
-1 The Blind Leader1
-weapons
-1 Enemy Within1
-hopeless
-1 Hollow Heart1
-wearing
-1 Monochromatic Stains1
-horus
-1 The Blind Leader1
-hrd
-1 Trollhammaren1
-hrdet
-1 Trollhammaren1
-hrt
-1 Blut im Auge1
-hugga
-1 Trollhammaren1
-humanity
-1 Blinded By Fear1
-weighed
-1 The Wonders At Your Feet1
-weit
-1 Blut im Auge1
-wekids
-1 Grow Up, Peter Pan1
-welfare
-1 Heroes To Us1
-hypocrisy
-1 Nemesis1
-welove
-1 Everblack1
-hysteria
-1 Everblack1
-weshare
-1 Grow Up, Peter Pan1
-iberation
-1 Slaughter Of The Soul1
-ibled
-1 Monochromatic Stains1
-wewalk
-1 Nemesis1
-iburied
-1 The Sleeping Beauty1
-icant
-1 Rejection Role1
-iclaim
-1 Monochromatic Stains1
-icome
-1 Mirror Of Sins1
-while
-1 Living in Me1
-icould
-1 Bloodsucking Kissing1
-whispered
-1 Temporary Borders1
-whispers
-1 Defeat1
-icy
-1 Burbot`s Revenge1
-whole
-1 Everblack1
-whose
-1 Aurora Borealis1
-wie
-1 Blut im Auge1
-wild
+wonder
 1 Children Of Decedence1
-ididn
-1 Moon Of My Nights1
-idream
-1 Nothing1
-ied
-1 Survival (The Chariot)1
-ifall
-1 Mirror Of Sins1
-ife
-1 Prisoner In Me1
-ifi
-1 Grow Up, Peter Pan1
-wisted
-1 The Blind Leader1
-withers
-1 Strike!1
-ifya
-1 Children Of Decedence1
-woken
-1 Lost Life1
-womag
-1 Blut im Auge1
 women
 1 Rasputin1
-igave
-1 Nothing1
-woods
-1 Tapiola1
-igheads
-1 Bodom After Midnight1
-ight
-1 Living in Me1
-work
-1 The Trapper1
-ightly
-1 Aurora Borealis1
-worm
+womb
 1 Never hit you a storm1
-worst
-1 Enemy Within1
-worth
-1 Everblack1
-worthless
+woken
+1 Lost Life1
+wogen
+1 Blut im Auge1
+withers
+1 Strike!1
+wipes
+1 The Trapper1
+winner
+1 Rejection Role1
+wine
+1 Rasputin1
+window
+1 Lost Life1
+wood
+1 Bodom After Midnight1
+wie
+1 Blut im Auge1
+wider
+1 The Wonders At Your Feet1
+wichers
+1 Rejection Role1
+whispered
+1 Temporary Borders1
+while
+1 Living in Me1
+wherever
+1 Kissing The Shadows1
+wheeler
+1 Rasputin1
+whatever
+1 Relentless Chaos1
+went
+1 Masses Of A Dying Breed1
+welfare
+1 Heroes To Us1
+write
+1 Redneck1
+zur
+1 Blut im Auge1
+zog
+1 Blut im Auge1
+zauber
+1 Blut im Auge1
+young
+1 Grow Up, Peter Pan1
+yielding
+1 Godiva1
+yellow
+1 The Trapper1
+year
+1 Strike!1
+yaaaaawwww
+1 Lake Bodom1
+wunderbar
+1 Rasputin1
+writhes
+1 Six1
+weit
+1 Blut im Auge1
+wrinkled
+1 Lost Life1
+wrecked
+1 Children Of Decedence1
+wreathed
 1 Drawn to Black1
 woven
 1 The Pursuit Of Vikings1
-wreathed
-1 Drawn to Black1
-wrecked
-1 Children Of Decedence1
-wretched
-1 Six1
-wrinkled
-1 Lost Life1
-writhes
-1 Six1
-written
-1 Aurora Borealis1
-wrong
-1 Virus Of The Mind1
-ignity
-1 Passion And The Opera1
-wunderbar
-1 Rasputin1
-xfeet
-1 Never hit you a storm1
-yboards
-1 Black Tears1
-year
-1 Strike!1
-ignore
-1 Virus Of The Mind1
-yellow
+wounding
+1 Bloodsucking Kissing1
+worth
+1 Everblack1
+worst
+1 Enemy Within1
+worlds
+1 Blinded By Fear1
+work
 1 The Trapper1
-yes
+wooowww
+1 Lake Bodom1
+vinternatt
+1 Trollhammaren1
+wake
+1 Bodom After Midnight1
+wahr
+1 Blut im Auge1
+wager
+1 Survival (The Chariot)1
+vulture
+1 Enemy Within1
+vows
+1 Drawn to Black1
+von
+1 Blut im Auge1
+void
+1 Strike!1
+vivid
+1 Grow Up, Peter Pan1
+visit
+1 Rasputin1
+virginal
+1 Passion And The Opera1
+walked
+1 Shotgun Symphony1
+victim
+1 Lake Bodom1
+vicious
+1 Nemesis1
+vessel
+1 Marianas Trench1
+vertog
+1 Trollhammaren1
+versuch
+1 Blut im Auge1
+verses
+1 Fleshkiller1
+verlohr
+1 Blut im Auge1
+verge
+1 Judgement1
+verfallen
+1 Blut im Auge1
+vengeance
 1 Virgin Soil1
-iguess
+wasteland
+1 Shadows In The Wasteland1
+weise
+1 Blut im Auge1
+weighted
+1 Survival (The Chariot)1
+weighed
+1 The Wonders At Your Feet1
+web
+1 The Pursuit Of Vikings1
+weary
+1 Drawn to Black1
+wearing
+1 Monochromatic Stains1
+weapons
+1 Enemy Within1
+wax
+1 Everytime I Die1
+wasting
+1 Defeat1
+wastes
+1 Bloodsucking Kissing1
+tapiola
+1 Tapiola1
+wassers
+1 Blut im Auge1
+wasn
+1 Six1
+wash
+1 The Cleansing1
+wary
+1 Bloodsucking Kissing1
+warning
+1 Zombie Blood Curse1
+warming
+1 The Pursuit Of Vikings1
+wants
+1 The Blind Leader1
+wandered
+1 The Last One For Life1
+wander
+1 Cold Embrace1
+slain
+1 Virgin Soil1
+slumber
+1 Drawn to Black1
+slows
+1 Strike!1
+slips
+1 Everytime I Die1
+slip
+1 Temporary Borders1
+slime
+1 Burbot`s Revenge1
+slide
+1 The Trapper1
+slaying
+1 Nemesis1
+slay
+1 Everblack1
+slaving
+1 Survival (The Chariot)1
+slaughtered
+1 Virgin Soil1
+slumberous
+1 Virgin Soil1
+skuggor
+1 Trollhammaren1
+ska
+1 Trollhammaren1
+six
+1 Never hit you a storm1
+situation
+1 Cognitive Note Of Discord1
+sitting
+1 Temporary Borders1
+sit
+1 Temporary Borders1
+sista
+1 Trollhammaren1
+sinner
+1 Rejection Role1
+simplicity
+1 Everlasting Ward1
+silenced
+1 Godiva1
+soiled
+1 The Cleansing1
+sorround
+1 Cold Embrace1
+sores
+1 Blinded By Fear1
+sore
+1 Bloodsucking Kissing1
+soothed
+1 Drawn to Black1
+sons
+1 Lemmings1
+somethings
+1 Masses Of A Dying Breed1
+someone
+1 Cypher Drone1
+solitude
+1 Temporary Borders1
+soldiers
+1 Everblack1
+soldier
+1 Grow Up, Peter Pan1
+signed
+1 Everlasting Ward1
+soil
+1 Virgin Soil1
+softly
+1 Temporary Borders1
+soft
+1 Lemmings1
+snare
+1 The Trapper1
+smooth
+1 Drawn to Black1
+smiling
+1 Cold1
+smear
+1 The Wonders At Your Feet1
+smashed
+1 Lake Bodom1
+smash
+1 Never hit you a storm1
+smart
+1 Save Yourself1
+ser
+1 Trollhammaren1
+shape
+1 Aurora Borealis1
+shakes
+1 Hollow Heart1
+shade
+1 Beyond The Dark Sun1
+severs
+1 Prophetian1
+severed
+1 Zombie Blood Curse1
+seventh
+1 Prophetian1
+settles
+1 They Will Return1
+sets
+1 Hold the Sword1
+serpent
+1 Drawn to Black1
+serenely
+1 Kissing The Shadows1
+shapes
+1 Monochromatic Stains1
+separated
+1 Moon Of My Nights1
+sentenced
+1 Shotgun Symphony1
+sentence
+1 They Will Return1
+sent
+1 Judgement1
+senseless
+1 Relentless Chaos1
+sell
+1 Grow Up, Peter Pan1
+selfishness
+1 Godiva1
+sein
+1 Blut im Auge1
+seems
+1 Descending1
+seemingly
+1 Temporary Borders1
+shooting
+1 Everytime I Die1
+sigh
+1 Drawn to Black1
+sickly
+1 Monochromatic Stains1
+sickens
+1 Six1
+sickening
+1 Monochromatic Stains1
+sick
+1 Cypher Drone1
+shut
+1 Rejection Role1
+shows
+1 The Trapper1
+shotgun
+1 The Trapper1
+shortly
+1 The Trapper1
+short
+1 Lemmings1
+sought
+1 Monochromatic Stains1
+shiver
+1 Shadows In The Wasteland1
+ship
+1 Marianas Trench1
+shinning
+1 Templar1
+shield
+1 Marianas Trench1
+sheltered
+1 Blood in the Throne Room1
+shell
+1 Enemy Within1
+sharpening
+1 Lemmings1
+sharpen
+1 Fleshkiller1
+sharp
+1 Winterking1
+suffocated
+1 Everlasting Ward1
+surround
+1 Kissing The Shadows1
+surrenders
+1 Grow Up, Peter Pan1
+surprise
+1 They Will Return1
+sure
 1 Chains1
+supposed
+1 Children Of Decedence1
+supported
+1 Judgement1
+suomi
+1 Tapiola1
+suns
+1 Alone1
+sum
+1 Mirror Of Sins1
+suicide
+1 Enemy Within1
+svag
+1 Trollhammaren1
+suffocate
+1 Bloodsucking Kissing1
+sucked
+1 Cognitive Note Of Discord1
+suchten
+1 Blut im Auge1
+suchte
+1 Blut im Auge1
+subsidies
+1 Heroes To Us1
+subhuman
+1 Cypher Drone1
+subconscious
+1 Everlasting Ward1
+sturmgewitter
+1 Blut im Auge1
+stumbled
+1 Rejection Role1
+stumble
+1 Rejection Role1
+switch
+1 Lost Life1
+tangle
+1 The Trapper1
+tames
+1 Prophetian1
+tame
+1 New World Shadows1
+talk
+1 Grow Up, Peter Pan1
+tales
+1 Hold the Sword1
+tale
+1 Temporary Borders1
+tails
+1 Lemmings1
+tailored
+1 Blood in the Throne Room1
+tail
+1 The Trapper1
+symphony
+1 Shotgun Symphony1
+struggling
+1 Burbot`s Revenge1
+swinging
+1 War Eternal1
+swing
+1 Grow Up, Peter Pan1
+sweaty
+1 Hollow Heart1
+sweating
+1 Grow Up, Peter Pan1
+sweat
+1 Burbot`s Revenge1
+sway
+1 Drawn to Black1
+swathed
+1 Drawn to Black1
+sveper
+1 Trollhammaren1
+svarta
+1 Trollhammaren1
+svaga
+1 Trollhammaren1
+spit
+1 Bloodsucking Kissing1
+starting
+1 Strike!1
+started
+1 Grow Up, Peter Pan1
+start
+1 Demons1
+stanne
+1 Monochromatic Stains1
+stang
+1 Blut im Auge1
+stalking
+1 Zombie Blood Curse1
+stab
+1 Grow Up, Peter Pan1
+squeeze
+1 Rasputin1
+spruce
+1 The Trapper1
+spoiled
+1 Mirror Of Sins1
+startled
+1 Strike!1
+spirits
+1 Templar1
+spiral
+1 Enemy Within1
+spill
+1 Redneck1
+spiders
+1 Lost Life1
+spent
+1 Shotgun Symphony1
+spat
+1 Cognitive Note Of Discord1
+sparks
+1 Everytime I Die1
+sparkling
+1 Grow Up, Peter Pan1
+space
+1 Shadows In The Wasteland1
+southern
+1 Temporary Borders1
+strapped
+1 Marianas Trench1
+struggles
+1 In The Failing Hour1
+struggle
+1 Marianas Trench1
+strongest
+1 Hold the Sword1
+stroking
+1 They Will Return1
+strings
+1 Moon Of My Nights1
+strid
+1 Rejection Role1
+stretching
+1 Defeat1
+strenght
+1 Everytime I Die1
+streetlights
+1 Shotgun Symphony1
+streams
+1 Bloodsucking Kissing1
+seemed
+1 Descending1
+strangles
+1 Fleshkiller1
+strange
+1 Virus Of The Mind1
+str
+1 Blut im Auge1
+stormy
+1 Last Breath1
+stone
+1 Virgin Soil1
+stock
+1 Redneck1
+stiring
+1 Hollow Heart1
+stir
+1 Strike!1
+steram
+1 Everblack1
+deluded
+1 Drawn to Black1
+desperation
+1 Everblack1
+desired
+1 Winterking1
+desert
+1 Shadows In The Wasteland1
+descending
+1 The Wonders At Your Feet1
+des
+1 Blut im Auge1
+departed
+1 Judgement1
+denying
+1 In The Failing Hour1
+denied
+1 Blood in the Throne Room1
+demonstrate
+1 Relentless Chaos1
+demands
+1 Rasputin1
+demanding
+1 Rasputin1
+delusions
+1 Shotgun Symphony1
+destroying
+1 Relentless Chaos1
+degrees
+1 War Eternal1
+degree
+1 Judgement1
+degradation
+1 In The Failing Hour1
+defend
+1 Aurora Borealis1
+defence
+1 They Will Return1
+deed
+1 Virgin Soil1
+dedicated
+1 Godiva1
+declared
+1 Rasputin1
+declaration
+1 Heroes To Us1
+decisive
+1 Bloodsucking Kissing1
+decayed
+1 Zombie Blood Curse1
+deaths
+1 Survival (The Chariot)1
+dishonor
+1 Hold the Sword1
+dont
+1 Rejection Role1
+donners
+1 Blut im Auge1
+dollar
+1 Grow Up, Peter Pan1
+does
+1 The Trapper1
+division
+1 Lake Bodom1
+diving
+1 The Last One For Life1
+distracting
+1 Chains1
+distorted
+1 The Wonders At Your Feet1
+distance
+1 Hold the Sword1
+dissonance
+1 Cognitive Note Of Discord1
+disregard
+1 Godiva1
+disorder
+1 Nemesis1
+dealer
+1 Rasputin1
+dishearten
+1 Hollow Heart1
+disgrace
+1 In The Failing Hour1
+disarmament
+1 Heroes To Us1
+dirty
+1 Lost Life1
+dire
+1 Godiva1
+dinner
+1 Save Yourself1
+din
+1 Trollhammaren1
+dignity
+1 Passion And The Opera1
+dice
+1 Chains1
+develop
+1 Slaughter Of The Soul1
+determination
+1 Rejection Role1
+det
+1 Trollhammaren1
+constant
+1 Demons1
+covered
+1 Blinded By Fear1
+courage
+1 Hold the Sword1
+country
+1 The Pursuit Of Vikings1
+count
+1 In The Failing Hour1
+corners
+1 Lost Life1
+convents
+1 Templar1
+convention
+1 Rejection Role1
+contrast
+1 Temporary Borders1
+contending
+1 Against The Stream1
+contains
+1 Relentless Chaos1
+contain
+1 Fleshkiller1
+consumes
+1 Masses Of A Dying Breed1
+covers
+1 Winterking1
+consistencies
+1 Slaughter Of The Soul1
+consequence
+1 Heroes To Us1
+consciousness
+1 Hollow Heart1
+conqueror
+1 The Blind Leader1
+conquer
+1 Everblack1
+connected
+1 Moon Of My Nights1
+coniferous
+1 Tapiola1
+congregation
+1 Redneck1
+confusion
+1 Strike!1
+concept
+1 Heroes To Us1
+concentration
+1 Strike!1
+concentrated
+1 Relentless Chaos1
+crunching
+1 Lemmings1
+ddestination
+1 Everblack1
+darkess
+1 Reflections1
+darker
+1 Winterking1
+danced
+1 Rasputin1
+daily
+1 Survival (The Chariot)1
+czar
+1 Rasputin1
+cursing
+1 Cypher Drone1
+curses
+1 Fleshkiller1
+cursed
+1 Passion And The Opera1
+cunt
+1 Grow Up, Peter Pan1
+crypt
+1 Lost Life1
+cryin
+1 Cold Embrace1
+doom
+1 Judgement1
+crumble
+1 Rejection Role1
+crucify
+1 Virgin Soil1
+crows
+1 Temporary Borders1
+crossing
+1 The Trapper1
+crimson
+1 Templar1
+crescent
+1 Everblack1
+creation
+1 The Blind Leader1
+creating
+1 Nemesis1
+crazy
+1 Cognitive Note Of Discord1
+crawling
+1 Defeat1
+cracks
+1 Shadows In The Wasteland1
+crack
+1 Moon Of My Nights1
+euch
+1 Blut im Auge1
+execution
+1 Strike!1
+excellent
+1 Descending1
+everyone
+1 Grow Up, Peter Pan1
+everyday
+1 Judgement1
+everlasting
+1 Shadows In The Wasteland1
+evergrowing
+1 Everblack1
+everglowing
+1 Everblack1
+everflowing
+1 Everblack1
+everblasting
+1 Everblack1
+events
+1 Zombie Blood Curse1
+evades
+1 Living in Me1
+euphoria
+1 Cold1
+exiled
+1 Blinded By Fear1
+essence
+1 Strike!1
+erz
+1 Blut im Auge1
+erase
+1 Six1
+erahnt
+1 Blut im Auge1
+eradicate
+1 The Wonders At Your Feet1
+equals
+1 Cypher Drone1
+entities
+1 Everlasting Ward1
+entertainment
+1 Temporary Borders1
+entering
+1 Shotgun Symphony1
+entdecken
+1 Blut im Auge1
+entangling
+1 Burbot`s Revenge1
+enp
+1 Beyond The Dark Sun1
+fair
+1 Drawn to Black1
+felsen
+1 Blut im Auge1
+fell
+1 Rasputin1
+felicity
+1 Against The Stream1
+feelings
+1 Temporary Borders1
+fed
+1 Slaughter Of The Soul1
+feathers
+1 The Last One For Life1
+father
+1 Aurora Borealis1
+famine
+1 The Wonders At Your Feet1
+family
+1 The Pursuit Of Vikings1
+fame
+1 The Pursuit Of Vikings1
+fallin
+1 Cold Embrace1
+fairy
+1 Temporary Borders1
+engage
+1 Marianas Trench1
+faintly
+1 Temporary Borders1
+failing
+1 In The Failing Hour1
+fail
+1 Grow Up, Peter Pan1
+facts
+1 Rejection Role1
+eyed
+1 Redneck1
+extremely
+1 Everblack1
+extermination
+1 Rejection Role1
+exterior
+1 Moon Of My Nights1
+exploration
+1 Everblack1
+experimenting
+1 Everlasting Ward1
+expecting
+1 Lost Life1
+exist
+1 Everlasting Ward1
+dreamer
+1 Black Tears1
+dte
+1 Blut im Auge1
+dry
+1 Grow Up, Peter Pan1
+drum
+1 Blut im Auge1
+drowned
+1 Angel Soul1
+drips
+1 Bloodsucking Kissing1
+dripping
+1 Prisoner In Me1
+drinking
+1 Rasputin1
+drilling
+1 Burbot`s Revenge1
+drifting
+1 Hollow Heart1
+dregs
+1 Fleshkiller1
+dreary
+1 Drawn to Black1
+dreamers
+1 Black Tears1
+dull
+1 Demons1
+dreadful
+1 Drawn to Black1
+draw
+1 Burbot`s Revenge1
+drapes
+1 Templar1
+drank
+1 Rasputin1
+drained
+1 Fleshkiller1
+downward
+1 Enemy Within1
+downing
+1 Enemy Within1
+dove
+1 The Last One For Life1
+dort
+1 Blut im Auge1
+dornen
+1 Such ich sie bei Nacht' die Wei?e1
+doors
+1 Templar1
+doomsday
+1 Judgement1
+ecstasy
+1 Rasputin1
+energy
+1 Rejection Role1
+endeavour
+1 The Cleansing1
+enchanted
+1 Everlasting Ward1
+enchains
+1 Everlasting Ward1
+enchained
+1 Everlasting Ward1
+emulate
+1 Relentless Chaos1
+emptiness
+1 Alone1
+emery
+1 Relentless Chaos1
+ellis
+1 Demons1
+eisige
+1 Blut im Auge1
+einst
+1 Blut im Auge1
+eden
+1 Alone1
+complete
+1 Prophetian1
+economy
+1 Heroes To Us1
+echoing
+1 New World Shadows1
+echoes
+1 Rejection Role1
+eathly
+1 Strike!1
+east
+1 The Pursuit Of Vikings1
+earthquake
+1 Chains1
+earthly
+1 Strike!1
+earn
+1 Heroes To Us1
+dwells
+1 Enemy Within1
+dunklen
+1 Blut im Auge1
+dunkelheit
+1 Such ich sie bei Nacht' die Wei?e1
+bad
+1 Grow Up, Peter Pan1
+beer
+1 Chains1
+bed
+1 Defeat1
+beckoned
+1 Drawn to Black1
+beat
+1 Grow Up, Peter Pan1
+bears
+1 Marianas Trench1
+bear
+1 Everlasting Ward1
+beam
+1 The Trapper1
+bayou
+1 Against The Stream1
+bay
+1 Temporary Borders1
+battles
+1 Aurora Borealis1
+bare
+1 Drawn to Black1
+banish
+1 Cypher Drone1
+begged
+1 Rasputin1
+awe
+1 Strike!1
+await
+1 The Pursuit Of Vikings1
+avoiding
+1 Lemmings1
+avaricious
+1 Survival (The Chariot)1
+attention
+1 Grow Up, Peter Pan1
+attempt
+1 Slaughter Of The Soul1
+attacks
+1 Monochromatic Stains1
+atem
+1 Blut im Auge1
+asleep
+1 Hollow Heart1
+asking
+1 Hollow Heart1
+arrives
+1 Prophetian1
+array
+1 Strike!1
+big
+1 Rasputin1
+blessing
+1 The Cleansing1
+blessed
+1 Templar1
+bled
+1 Monochromatic Stains1
+blazing
+1 Everblack1
+bland
+1 Trollhammaren1
+blades
+1 Winterking1
+bittersweet
+1 Everblack1
+bite
+1 Passion And The Opera1
+bisher
+1 Blut im Auge1
+bis
+1 Blut im Auge1
+birkenhain
+1 Blut im Auge1
+biowar
+1 The Blind Leader1
+arranged
+1 Black Tears1
+bible
+1 Rasputin1
+beware
+1 In The Failing Hour1
+betrothen
+1 Temporary Borders1
+betray
+1 Defeat1
+bertone
+1 Lemmings1
+berthiaume
+1 Blut im Auge1
+berg
+1 Blut im Auge1
+ber
+1 Blut im Auge1
+benjamin
+1 Demons1
+believers
+1 Heroes To Us1
+belief
+1 Judgement1
+begun
+1 Enemy Within1
+admiration
+1 Heroes To Us1
+allay
+1 Lake Bodom1
+alin
+1 Alone1
+alexi
+1 Everytime I Die1
+alcast
+1 Temporary Borders1
+album
+1 Black Tears1
+ago
+1 Rasputin1
+ageless
+1 Rejection Role1
+agchris
+1 Chains1
+affairs
+1 Rasputin1
+affair
+1 Six1
+adversary
+1 Strike!1
+admired
+1 Winterking1
+allow
+1 Monochromatic Stains1
+activists
+1 Heroes To Us1
+actions
+1 Lemmings1
+action
+1 Hollow Heart1
+achieve
+1 Relentless Chaos1
+ache
+1 Demons1
+accepting
+1 Virus Of The Mind1
+abstract
+1 Mirror Of Sins1
+absolute
+1 Descending1
+abound
+1 Monochromatic Stains1
+ablumthey
+1 Hollow Heart1
+ability
+1 In The Failing Hour1
+aberration
+1 Cypher Drone1
+angelhood
+1 Bloodsucking Kissing1
+arnightwish
+1 Passion And The Opera1
+armour
+1 Templar1
+armor
+1 Marianas Trench1
+ark
+1 Chains1
+arise
+1 Everblack1
+arillnath
+1 Temporary Borders1
+ardark
+1 Alone1
+arblind
+1 Shotgun Symphony1
+apple
+1 Passion And The Opera1
+apathy
+1 Godiva1
+anyone
+1 Save Yourself1
+animal
+1 They Will Return1
+blick
+1 Blut im Auge1
+anarchy
+1 Nemesis1
+amount
+1 Burbot`s Revenge1
+amon
+1 The Pursuit Of Vikings1
+amend
+1 Survival (The Chariot)1
+amazing
+1 Everblack1
+amarth
+1 The Pursuit Of Vikings1
+althe
+1 The Last One For Life1
+alteration
+1 Against The Stream1
+alsymphony
+1 Shotgun Symphony1
+already
+1 Aurora Borealis1
+alongside
+1 Lemmings1
+almost
+1 Lost Life1
+caught
+1 Demons1
+choked
+1 Blood in the Throne Room1
+childless
+1 Virgin Soil1
+chicks
+1 Rasputin1
+charms
+1 Rasputin1
+charged
+1 Rejection Role1
+chair
+1 Lost Life1
+chain
+1 Everblack1
+certain
+1 Rasputin1
+cereals
+1 The Trapper1
+centuries
+1 Everlasting Ward1
+cells
+1 Fleshkiller1
+cease
+1 Survival (The Chariot)1
+chosen
+1 Everblack1
+catastrophies
+1 The Blind Leader1
+cat
+1 Rasputin1
+castles
+1 Templar1
+case
+1 Monochromatic Stains1
+carpet
+1 Bodom After Midnight1
+caress
+1 Six1
+cards
+1 Grow Up, Peter Pan1
+captured
+1 Prisoner In Me1
+captain
+1 Marianas Trench1
+cant
+1 Rejection Role1
+candlelight
+1 Bodom After Midnight1
+came
+1 Rasputin1
+closed
+1 Lost Life1
+commitment
+1 Against The Stream1
+commit
+1 Enemy Within1
+commands
+1 The Blind Leader1
+combined
+1 Monochromatic Stains1
+coloured
+1 Grow Up, Peter Pan1
+colors
+1 Shadows In The Wasteland1
+color
+1 Bloodsucking Kissing1
+collects
+1 Winterking1
+collapse
+1 Temporary Borders1
+coldness
+1 Beyond The Dark Sun1
+code
+1 Monochromatic Stains1
+cochris
+1 Chains1
+calls
+1 Enemy Within1
+cloaks
+1 Templar1
+climbin
+1 Cold Embrace1
+cliff
+1 Lemmings1
+clearer
+1 Shadows In The Wasteland1
+clatter
+1 Strike!1
+clan
+1 Aurora Borealis1
+claim
+1 Monochromatic Stains1
+cklig
+1 Trollhammaren1
+civilized
+1 Heroes To Us1
+circumstance
+1 Blood in the Throne Room1
+circling
+1 Temporary Borders1
+circle
+1 Prophetian1
+boundaries
+1 Slaughter Of The Soul1
+brighter
+1 The Wonders At Your Feet1
+brief
+1 Temporary Borders1
+bride
+1 Lost Life1
+breeding
+1 Defeat1
+bred
+1 Virgin Soil1
+breathes
+1 Enemy Within1
+breasts
+1 Passion And The Opera1
+breakers
+1 Against The Stream1
+braves
+1 Aurora Borealis1
+brand
+1 Heart of Wilderness1
+branches
+1 Temporary Borders1
+brains
+1 Lemmings1
+brightest
+1 Prophetian1
+bound
+1 In The Failing Hour1
+bounce
+1 This is my survival1
+bosom
+1 Moon Of My Nights1
+bore
+1 Aurora Borealis1
+bones
+1 Zombie Blood Curse1
+bonded
+1 Hollow Heart1
+blows
+1 Enemy Within1
+bloodred
+1 Bloodsucking Kissing1
+blod
+1 Trollhammaren1
+blinding
+1 Fleshkiller1
+blickte
+1 Blut im Auge1
+blicke
+1 Blut im Auge1
+byanthony
+1 Demons1
+callin
+1 Cold Embrace1
+bywwwwwwwwwwwwwwwwww
+1 Survival (The Chariot)1
+byvloisa
+1 Prophetian1
+byt
+1 Children Of Decedence1
+bysakagami
+1 Shotgun Symphony1
+byleekoo
+1 Cognitive Note Of Discord1
+byjustintimberlake
+1 Passion And The Opera1
+byissacha
+1 Burbot`s Revenge1
+byhajimesaito
+1 Kissing The Shadows1
+byfontanatrevi
+1 Fleshkiller1
+byevilworshiper
+1 Cypher Drone1
+byeternaltearsofsorr
+1 Grow Up, Peter Pan1
+fence
+1 War Eternal1
+byaldrei
+1 Trollhammaren1
+butthey
+1 They Will Return1
+burnin
+1 Cold Embrace1
+bullet
+1 Grow Up, Peter Pan1
+bulbs
+1 Lemmings1
+budge
+1 Burbot`s Revenge1
+brute
+1 Rasputin1
+brushing
+1 Temporary Borders1
+brothers
+1 Everblack1
+broke
+1 Angel Soul1
+broder
+1 Trollhammaren1
+millennia
+1 Virus Of The Mind1
+moved
+1 Demons1
+motion
+1 Strike!1
+most
+1 Rasputin1
+moscow
+1 Rasputin1
+morning
+1 Shotgun Symphony1
+morality
+1 Cypher Drone1
+monumentally
+1 Everblack1
+moments
+1 Temporary Borders1
+mit
+1 Blut im Auge1
+mist
+1 Angel Soul1
+missin
+1 Cold Embrace1
+minds
+1 The Wonders At Your Feet1
+moving
+1 Lemmings1
+milk
+1 Drawn to Black1
+military
+1 Heroes To Us1
+midst
+1 Strike!1
+metal
+1 Everblack1
+mesh
+1 Burbot`s Revenge1
+mercenary
+1 Everblack1
+member
+1 Heroes To Us1
+melts
+1 The Pursuit Of Vikings1
+melody
+1 Lost Life1
+mellow
+1 Winterking1
+meiner
+1 Blut im Auge1
+meine
+1 Blut im Auge1
+needs
+1 Heroes To Us1
+nostalgic
+1 Temporary Borders1
+norther
+1 Last Breath1
+norns
+1 The Pursuit Of Vikings1
+nordens
+1 Blut im Auge1
+nor
+1 Temporary Borders1
+none
+1 They Will Return1
+noch
+1 Blut im Auge1
+nobody
+1 Chains1
+nniska
+1 Trollhammaren1
+next
+1 Lost Life1
+newly
+1 Everlasting Ward1
+neither
+1 Temporary Borders1
+mehr
+1 Blut im Auge1
+needle
+1 Cold1
+needed
+1 Save Yourself1
+ned
+1 Trollhammaren1
+neath
+1 Temporary Borders1
+nearby
+1 Defeat1
+ndstr
+1 Monochromatic Stains1
+nails
+1 The Trapper1
+nail
+1 Masses Of A Dying Breed1
+nacht
+1 Blut im Auge1
+myths
+1 Heart of Wilderness1
+mystery
+1 Judgement1
+mutated
+1 Shadows In The Wasteland1
+lifeline
+1 Against The Stream1
+longing
+1 Last Breath1
+longest
+1 Cold Embrace1
+lonely
+1 The Trapper1
+loneliness
+1 Nothing1
+lodged
+1 Marianas Trench1
+locked
+1 Enemy Within1
+loaded
+1 Grow Up, Peter Pan1
+lndjove
+1 Frozen Angel1
+lle
+1 Blut im Auge1
+limits
+1 Hollow Heart1
+limbs
+1 Passion And The Opera1
+lilies
+1 Drawn to Black1
+longship
+1 The Pursuit Of Vikings1
+lifehold
+1 Defeat1
+lifeblood
+1 Bloodsucking Kissing1
+licking
+1 Lemmings1
+liberation
+1 Slaughter Of The Soul1
+letting
+1 The Pursuit Of Vikings1
+lets
+1 Bloodsucking Kissing1
+lethal
+1 Templar1
+lesson
+1 Blood in the Throne Room1
+lens
+1 The Wonders At Your Feet1
+lengthy
+1 Everblack1
+lemming
+1 Lemmings1
+legs
+1 Grow Up, Peter Pan1
+malicious
+1 Nemesis1
+means
+1 Cypher Drone1
+mating
+1 Temporary Borders1
+match
+1 Grow Up, Peter Pan1
+mastermind
+1 They Will Return1
+master
+1 The Blind Leader1
+masses
+1 Masses Of A Dying Breed1
+mass
+1 Everblack1
+marks
+1 The Trapper1
+market
+1 Heroes To Us1
+march
+1 Winterking1
+mankinds
+1 Rejection Role1
+mankind
+1 The Blind Leader1
+nowhere
+1 Against The Stream1
+mal
+1 Blut im Auge1
+maktl
+1 Trollhammaren1
+maintenance
+1 Heroes To Us1
+mag
+1 Blut im Auge1
+machete
+1 Virgin Soil1
+lusting
+1 Rasputin1
+luck
+1 War Eternal1
+lrthe
+1 Chains1
+low
+1 Everblack1
+lovely
+1 Rasputin1
+los
+1 Blut im Auge1
+loose
+1 Hollow Heart1
+political
+1 Heroes To Us1
+price
+1 Heroes To Us1
+prey
+1 War Eternal1
+preview
+1 Bodom After Midnight1
+pretty
+1 Grow Up, Peter Pan1
+pretext
+1 Heroes To Us1
+pretending
+1 Defeat1
+predictable
+1 Blood in the Throne Room1
+precision
+1 Fleshkiller1
+pouring
+1 Everytime I Die1
+postpone
+1 Chains1
+possible
+1 Everblack1
+polluted
+1 Virus Of The Mind1
+princess
+1 Passion And The Opera1
+pokes
+1 Monochromatic Stains1
+poised
+1 Virgin Soil1
+pointless
+1 Shotgun Symphony1
+poet
+1 Moon Of My Nights1
+pledges
+1 Drawn to Black1
+pleasure
+1 Temporary Borders1
+played
+1 The Last One For Life1
+places
+1 Masses Of A Dying Breed1
+pint
+1 Bodom After Midnight1
+pin
+1 Redneck1
+pile
+1 Monochromatic Stains1
+piercing
+1 Grow Up, Peter Pan1
+provided
+1 The Wonders At Your Feet1
+raising
+1 Lake Bodom1
+raining
+1 New World Shadows1
+rainbow
+1 Cold Embrace1
+raid
+1 Templar1
+radiated
+1 Shadows In The Wasteland1
+quit
+1 Rasputin1
+quietly
+1 Drawn to Black1
+pushing
+1 Survival (The Chariot)1
+purple
+1 Everblack1
+purest
+1 Hold the Sword1
+pulls
+1 Burbot`s Revenge1
+psycho
+1 Enemy Within1
+pied
+1 Redneck1
+proud
+1 Cognitive Note Of Discord1
+protection
+1 Judgement1
+protect
+1 Save Yourself1
+prophetion
+1 Prophetian1
+prophet
+1 Heroes To Us1
+progress
+1 Virus Of The Mind1
+production
+1 Heroes To Us1
+product
+1 Blood in the Throne Room1
+probably
+1 Temporary Borders1
+prize
+1 Defeat1
+privilege
+1 Never hit you a storm1
+private
+1 They Will Return1
+oncoming
+1 Drawn to Black1
+paid
+1 Virgin Soil1
+page
+1 Redneck1
+pacing
+1 Shotgun Symphony1
+outside
+1 Winterking1
+outrageous
+1 Rasputin1
+outer
+1 Prophetian1
+oughtta
+1 Bodom After Midnight1
+orphan
+1 Virgin Soil1
+orchestra
+1 Lost Life1
+option
+1 Shotgun Symphony1
+opponent
+1 Nemesis1
+opera
+1 Passion And The Opera1
+painted
+1 The Sleeping Beauty1
+ominous
+1 Temporary Borders1
+older
+1 Virgin Soil1
+odyssey
+1 Lake Bodom1
+odjur
+1 Trollhammaren1
+occupied
+1 Lost Life1
+obsession
+1 Lake Bodom1
+oblivion
+1 Against The Stream1
+obeys
+1 The Blind Leader1
+obey
+1 Everblack1
+oak
+1 Templar1
+nursed
+1 Passion And The Opera1
+numbers
+1 Living in Me1
+pease
+1 Kissing The Shadows1
+picture
+1 Everblack1
+philistine
+1 Nemesis1
+phase
+1 Everblack1
+pfaden
+1 Blut im Auge1
+petri
+1 Prophetian1
+permeates
+1 Six1
+peril
+1 Zombie Blood Curse1
+penetrate
+1 Rejection Role1
+pekka
+1 Heroes To Us1
+peitschen
+1 Blut im Auge1
+peering
+1 Living in Me1
+peep
+1 Moon Of My Nights1
+legion
+1 Nemesis1
+peace
+1 Everlasting Ward1
+pawn
+1 Heroes To Us1
+pattern
+1 Blood in the Throne Room1
+patriot
+1 Heroes To Us1
+patient
+1 Temporary Borders1
+pathways
+1 Cold Embrace1
+passion
+1 Fleshkiller1
+pass
+1 They Will Return1
+parts
+1 Moon Of My Nights1
+parker
+1 Virus Of The Mind1
+palm
+1 Drawn to Black1
+goddamn
+1 Redneck1
+greed
+1 Judgement1
+greater
+1 Relentless Chaos1
+grazing
+1 Winterking1
+gravel
+1 In The Failing Hour1
+grauem
+1 Blut im Auge1
+grau
+1 Blut im Auge1
+grasp
+1 Fleshkiller1
+granular
+1 The Cleansing1
+gracing
+1 Monochromatic Stains1
+grab
+1 Chains1
+gorgeous
+1 Grow Up, Peter Pan1
+gore
+1 Bloodsucking Kissing1
+greedy
+1 Templar1
+goal
+1 Lemmings1
+glow
+1 Rasputin1
+glorious
+1 The Pursuit Of Vikings1
+gloom
+1 Drawn to Black1
+glen
+1 Enemy Within1
+glei
+1 Such ich sie bei Nacht' die Wei?e1
+glare
+1 Drawn to Black1
+gladly
+1 The Cleansing1
+glades
+1 Tapiola1
+gently
+1 The Trapper1
+generationcause
+1 Rejection Role1
+gekannt
+1 Blut im Auge1
+halls
+1 Templar1
+hath
+1 Virgin Soil1
+hated
+1 Shotgun Symphony1
+hasn
+1 The Cleansing1
+harvest
+1 Everlasting Ward1
+hardened
+1 The Trapper1
+happening
+1 The Blind Leader1
+happen
+1 Relentless Chaos1
+hang
+1 Bodom After Midnight1
+hammered
+1 Masses Of A Dying Breed1
+hammar
+1 Trollhammaren1
+halved
+1 Strike!1
+hallucinating
+1 Shadows In The Wasteland1
+gehn
+1 Blut im Auge1
+hall
+1 In The Failing Hour1
+halford
+1 Enemy Within1
+hair
+1 Drawn to Black1
+guts
+1 Zombie Blood Curse1
+gun
+1 Grow Up, Peter Pan1
+guess
+1 Chains1
+grund
+1 Blut im Auge1
+growth
+1 Heroes To Us1
+growing
+1 Lemmings1
+groves
+1 Against The Stream1
+grounds
+1 Monochromatic Stains1
+grobing
+1 Defeat1
+flaming
+1 Rasputin1
+folly
+1 Monochromatic Stains1
+followed
+1 Shotgun Symphony1
+focusing
+1 Shadows In The Wasteland1
+focus
+1 Strike!1
+floor
+1 Bloodsucking Kissing1
+floating
+1 Temporary Borders1
+flinging
+1 Temporary Borders1
+flight
+1 Temporary Borders1
+flickering
+1 Living in Me1
+flaws
+1 Chains1
+flashes
+1 The Trapper1
+flash
+1 Shadows In The Wasteland1
+forest
+1 Temporary Borders1
+fixed
+1 Strike!1
+fits
+1 Grow Up, Peter Pan1
+fisherman
+1 Burbot`s Revenge1
+firstborn
+1 Virgin Soil1
+fingrar
+1 Trollhammaren1
+fingerprints
+1 Monochromatic Stains1
+fine
+1 Rasputin1
+finds
+1 The Trapper1
+finding
+1 Masses Of A Dying Breed1
+fighting
+1 Nemesis1
+fevered
+1 The Wonders At Your Feet1
+fever
+1 Nemesis1
+frame
+1 Strike!1
+geheimnis
+1 Blut im Auge1
+geblieben
+1 Blut im Auge1
+gave
+1 Nothing1
+gasp
+1 Bloodsucking Kissing1
+gap
+1 Prophetian1
+gambrel
+1 The Trapper1
+gallery
+1 Rejection Role1
+furious
+1 Hold the Sword1
+fulfilling
+1 Virgin Soil1
+frostens
+1 Trollhammaren1
+fresh
+1 Lost Life1
+freed
+1 The Pursuit Of Vikings1
+headlight
+1 The Trapper1
+framar
+1 Trollhammaren1
+fragments
+1 Temporary Borders1
+fox
+1 The Trapper1
+fought
+1 Monochromatic Stains1
+forty
+1 Survival (The Chariot)1
+forth
+1 The Trapper1
+forms
+1 Shadows In The Wasteland1
+former
+1 Cypher Drone1
+forgiveness
+1 The Wonders At Your Feet1
+forget
+1 Demons1
+forests
+1 Tapiola1
+jenem
+1 Blut im Auge1
+killer
+1 Virgin Soil1
+kids
+1 Grow Up, Peter Pan1
+keyboards
+1 Black Tears1
+kenneth
+1 Enemy Within1
+kasachok
+1 Rasputin1
+kalla
+1 Trollhammaren1
+kalevala
+1 Tapiola1
+joined
+1 Judgement1
+jocker
+1 Never hit you a storm1
+job
+1 Save Yourself1
+jivarp
+1 Monochromatic Stains1
+jesus
+1 Judgement1
+kills
+1 Last Breath1
+jave
+1 Virgin Soil1
+jam
+1 The Trapper1
+ive
+1 Rejection Role1
+items
+1 Monochromatic Stains1
+irony
+1 Virgin Soil1
+iron
+1 Prophetian1
+inspire
+1 Fleshkiller1
+insatiable
+1 Rejection Role1
+inpassable
+1 Tapiola1
+innocence
+1 Monochromatic Stains1
+inga
+1 Trollhammaren1
+informant
+1 Monochromatic Stains1
+lamb
+1 Redneck1
+legends
+1 Tapiola1
+leaving
+1 Strike!1
+least
+1 Monochromatic Stains1
+learned
+1 Blood in the Throne Room1
+leadaguitar
+1 Black Tears1
+lays
+1 The Trapper1
+layin
+1 Cold Embrace1
+law
+1 Virgin Soil1
+lautlos
+1 Blut im Auge1
+laughing
+1 Redneck1
+lands
+1 Tapiola1
+lamminaho
+1 Everlasting Ward1
+infidel
+1 The Wonders At Your Feet1
+lake
+1 Shadows In The Wasteland1
+ladies
+1 Rasputin1
+labor
+1 Survival (The Chariot)1
+ktig
+1 Trollhammaren1
+kristna
+1 Trollhammaren1
+kommande
+1 Trollhammaren1
+knowing
+1 Relentless Chaos1
+knees
+1 War Eternal1
+knee
+1 Shadows In The Wasteland1
+kisses
+1 Drawn to Black1
+kinda
+1 Chains1
+kin
+1 Passion And The Opera1
+hesitate
+1 Grow Up, Peter Pan1
+homes
+1 The Pursuit Of Vikings1
+hollowness
+1 Moon Of My Nights1
+hln
+1 Blut im Auge1
+hinzunehmn
+1 Blut im Auge1
+hinter
+1 Blut im Auge1
+hinder
+1 Fleshkiller1
+hinauf
+1 Blut im Auge1
+himmelsschein
+1 Such ich sie bei Nacht' die Wei?e1
+hight
+1 Kissing The Shadows1
+highland
+1 Relentless Chaos1
+hier
+1 Blut im Auge1
+hides
+1 Drawn to Black1
+honour
+1 Everblack1
+hero
+1 Shotgun Symphony1
+hemisphere
+1 Everlasting Ward1
+helped
+1 Judgement1
+help
+1 Cold Embrace1
+heide
+1 Blut im Auge1
+heavy
+1 Templar1
+heartless
+1 Rejection Role1
+heartbeat
+1 Zombie Blood Curse1
+hearing
+1 Defeat1
+healer
+1 Rasputin1
+heal
+1 Rasputin1
+heads
+1 Bodom After Midnight1
+hurts
+1 Save Yourself1
+inferior
+1 Strike!1
+infants
+1 Virgin Soil1
+increasingly
+1 Bloodsucking Kissing1
+incisors
+1 Lemmings1
+impact
+1 Everblack1
+illusions
+1 Slaughter Of The Soul1
 ihr
 1 Blut im Auge1
-ijust
-1 Monochromatic Stains1
-yielding
-1 Godiva1
-iknew
-1 Temporary Borders1
-ymind
-1 Shadows In The Wasteland1
-ilay
-1 Defeat1
-ilose
-1 Never hit you a storm1
-ysorrow
-1 When I'm in this state of mind 1
-ythem
-1 Godiva1
-ils
-1 The Trapper1
-yto
-1 Prisoner In Me1
-zits
-1 Everytime I Die1
-zog
-1 Blut im Auge1
-imcalling
-1 Descending1
-zuentdecken
-1 Blut im Auge1
-zugrund
-1 Blut im Auge1
-zur
-1 Blut im Auge1
-zuwahr
-1 Blut im Auge
+ideas
+1 Cognitive Note Of Discord1
+iconoclast
+1 Black Tears1
+icht
+1 Such ich sie bei Nacht' die Wei?e1
+hysteria
+1 Everblack1
+hypocrisy
+1 Nemesis1
+ram
+1 The Pursuit Of Vikings1
+hunter
+1 War Eternal1
+hunger
+1 Rasputin1
+humanity
+1 Blinded By Fear1
+humanbeing
+1 Chains1
+hugga
+1 Trollhammaren1
+hours
+1 Survival (The Chariot)1
+horse
+1 Templar1
+horde
+1 Strike!1
+hopes
+1 Grow Up, Peter Pan1
+hopelessness
+1 Bloodsucking Kissing1
+hopeless
+1 Hollow Heart
