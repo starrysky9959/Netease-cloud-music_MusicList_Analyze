@@ -7,7 +7,7 @@
 
 #define TREE_SIZE 26
 #define MAX_WORD_LEN 20
-#define MIN_WORD_LEN 3
+#define MIN_WORD_LEN 2
 
 
 
@@ -45,10 +45,9 @@ public:
     int getWordSize();
     void addNode(std::string word);
     void addNode(std::string word, int index);
+    void deleteNode(std::string word);
     WordNode* searchNode(std::string word);
     void _preOrder(WordNode *head, std::string &word);
     void preOrder();
-    /*void _clear(WordNode *head);
-    void clear();*/
     void printHotWords();
 };

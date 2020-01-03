@@ -5,7 +5,7 @@ using namespace std;
 
 Workspace::Workspace(){
     musicList.reserve(500);
-    INPUT_PATH = "assert/lyrics/test_2.txt";
+    INPUT_PATH = "assert/lyrics/lyrics.txt";
     IGNORE_PATH = "assert/lyrics/Trash.txt";
     WORD_OUTPUT_PATH = "assert/output/word_output.txt";
     MUSIC_OUTPUT_PATH = "assert/output/music_output.txt";
@@ -79,27 +79,32 @@ bool Workspace::input() {
     bool flag = false;
     char ch;    
     char buffer[MAX_BUFFER_LEN];
-    string musicName = "";       
+    string musicName;       
+    musicName.reserve(100);
+    musicName.clear();
     //getline读取文件第一行有bug！！！！！
     //处理一下
-    getline(inFile, musicName, '\n');
-    while (!((musicName.front() >= 'a' && musicName.front() <= 'z')
-        || (musicName.front() >= 'A' && musicName.front() <= 'Z')))
-        musicName.erase(musicName.begin());
-    if (!musicName.empty())
-        musicList.emplace_back(musicName);
+    //getline(inFile, musicName, '\n');
+    //cout << musicName << endl;
+    //while (!((musicName.front() >= 'a' && musicName.front() <= 'z')
+    //    || (musicName.front() >= 'A' && musicName.front() <= 'Z')))
+    //    musicName.erase(musicName.begin());
+    //if (!musicName.empty())
+    //    musicList.emplace_back(musicName);
 
     while (!inFile.eof()) {
         
         inFile.getline(buffer, MAX_BUFFER_LEN, '\n');
+        //cout << buffer << endl;
         size_t len = strlen(buffer);
         //cout << buffer << endl;
         //读取曲目名        
-        if (buffer[0] == '*') {           
+        if (buffer[10] == '*' && buffer[15] == '*') {
             getline(inFile, musicName, '\n');
-            if (!musicName.empty())
+            if (!musicName.empty() && musicName.size() > 4)
                 musicList.emplace_back(musicName);
-
+            musicName.clear();
+            continue;
         }
         
         string word;
@@ -120,7 +125,7 @@ bool Workspace::input() {
             else{   
                 if (word.size() >= MIN_WORD_LEN) {                        
                     //先判断是否要忽略
-                    if (ignoreTree.searchNode(word) == 0) {                         
+                    if (ignoreTree.searchNode(word) == 0 && !(word[0]=='b' && word[1] == 'y')) {                         
                         //cout << musicList.size() << endl;
                         T.addNode(word, musicList.size() - 1);
                     }                        
@@ -134,7 +139,7 @@ bool Workspace::input() {
 
         if (word.size() >= MIN_WORD_LEN) {            //先判断是否要忽略
             //新单词则更新的频率和曲目，否则只更新频率
-            if (ignoreTree.searchNode(word) == 0) {
+            if (ignoreTree.searchNode(word) == 0 && !(word[0] == 'b' && word[1] == 'y')) {
                 T.addNode(word, musicList.size() - 1);
             }
         }
@@ -159,7 +164,7 @@ void Workspace::output(string target) {
         output << it.frequency << endl;
         output << it.word << endl;
         for (vector<AppearedMusic>::iterator i = it.appearedMusics.begin(); i != it.appearedMusics.end(); ++i) {
-            output << i->count << " " << musicList.at(i->index);
+            output << i->count << "\\" << musicList.at(i->index);
             
         }
     }
@@ -178,8 +183,9 @@ void Workspace::output(string target) {
     WordNode* temp = T.searchNode(target);
     if (temp != nullptr) {
         output << temp->count << endl;
+        output << temp->appeared.size() << endl;
         for (vector<AppearedMusic>::iterator i = temp->appeared.begin(); i != temp->appeared.end(); ++i) {
-            output << i->count << " " << musicList.at(i->index);
+            output << i->count << "\\" << musicList.at(i->index);
         }
     }
     else {

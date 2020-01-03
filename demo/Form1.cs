@@ -58,7 +58,7 @@ namespace demo
             myexe.StartInfo.CreateNoWindow = true;
             myexe.Start();
             //等待外部程序退出后才能往下执行
-            myexe.WaitForExit();
+            myexe.WaitForExit();            
             //MessageBox.Show("分析完毕");
 
             //读取曲目内容

@@ -45,6 +45,8 @@ void TrieTree::addNode(string word) {
 
 //添加单词结点且更新曲目索引表
 void TrieTree::addNode(string word, int number) {   
+    if (number < 0)
+        number = 0;
     WordNode *p = root;
     int index;
     for (int i = 0; i < word.length(); ++i) {
@@ -70,6 +72,16 @@ void TrieTree::addNode(string word, int number) {
     wordSize++;
 }
 
+//删除单词
+void TrieTree::deleteNode(std::string word) {
+    WordNode *temp = searchNode(word);
+    if (temp == nullptr)
+        return;
+    temp->appeared.clear();
+    temp->count = 0;
+    temp->isWord = false;
+    wordSize--;
+}
 
 //查到单词，返回词频，无该单词则返回0
 WordNode* TrieTree::searchNode(string word) {
@@ -83,6 +95,8 @@ WordNode* TrieTree::searchNode(string word) {
         p = p->next[index];
     }
     if (word.length() < 1)
+        p = nullptr;
+    if (p!=nullptr && !p->isWord)
         p = nullptr;
     return p;
 }

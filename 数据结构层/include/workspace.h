@@ -6,7 +6,7 @@
 #include <string.h>
 #include <string>
 
-#define MAX_BUFFER_LEN 1024
+#define MAX_BUFFER_LEN 2048
 
 class Workspace
 {
